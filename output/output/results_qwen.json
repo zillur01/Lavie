@@ -1,0 +1,376 @@
+{
+    "prompt0001": {
+        "user prompt": "A tranquil tableau of alley",
+        "original description": "a state of distress, presence of a dog, a narrow alley, kissing in an alleyway, standing in an alleyway, waiting for something or someone, a narrow alleyway, laughing, relaxed and comfortable in its surroundings, calm and peaceful scene, an alleyway, lying on the ground, standing in a narrow alleyway",
+        "final_description": "In a narrow alley, a dog is present. A couple is kissing, and another person is standing in the alleyway, waiting for something or someone. One person is lying on the ground, while another is laughing. Everyone seems relaxed and comfortable in their surroundings, creating a calm and peaceful scene. The person standing in the alleyway is standing in an alleyway, enhancing the overall tranquil environment, adding to the atmosphere. Everyone is standing in an alleyway, where the alleyway itself enhances the overall tranquil environment, adding to the atmosphere.",
+        "ranked_modifiers_used": [
+            "an alleyway, sim_score=0.6803",
+            "a narrow alley, sim_score=0.67",
+            "a narrow alleyway, sim_score=0.65",
+            "standing in a narrow alleyway, sim_score=0.6011",
+            "standing in an alleyway, sim_score=0.6007"
+        ],
+        "modifiers_full_ranked_list": [
+            "an alleyway, sim_score=0.6803",
+            "a narrow alley, sim_score=0.67",
+            "a narrow alleyway, sim_score=0.65",
+            "standing in a narrow alleyway, sim_score=0.6011",
+            "standing in an alleyway, sim_score=0.6007",
+            "kissing in an alleyway, sim_score=0.5423",
+            "calm and peaceful scene, sim_score=0.3111",
+            "relaxed and comfortable in its surroundings, sim_score=0.2415",
+            "laughing, sim_score=0.1965",
+            "waiting for something or someone, sim_score=0.1921",
+            "lying on the ground, sim_score=0.1617",
+            "a state of distress, sim_score=0.1489",
+            "presence of a dog, sim_score=0.1026"
+        ]
+    },
+    "prompt0002": {
+        "user prompt": "A tranquil tableau of barn",
+        "original description": "wearing casual clothing, standing in a line, having fun, appears to be having a good time, enjoying each other\u2019s company, appears to be a farmer, inside a barn, dressed in cowboy costumes, dancing in a barn while wearing cowboy boots, a barn, dancing in a barn, walking inside, relaxed and peaceful scene, opening the door of a barn",
+        "final_description": "Wearing casual clothing, standing in a barn, dancing in a barn, and dressed in cowboy costumes, they appear to be having a good time, enjoying each other's company, and appear to be a farmer. The scene inside the barn is relaxed and peaceful, and they are seen dancing in a barn while wearing cowboy boots, opening the door of a barn and walking inside. A barn, dancing in a barn, and a relaxed and peaceful scene.",
+        "ranked_modifiers_used": [
+            "a barn, sim_score=0.6486"
+        ],
+        "modifiers_full_ranked_list": [
+            "a barn, sim_score=0.6486",
+            "dancing in a barn, sim_score=0.5744",
+            "inside a barn, sim_score=0.5702",
+            "opening the door of a barn, sim_score=0.4688",
+            "dancing in a barn while wearing cowboy boots, sim_score=0.4513",
+            "relaxed and peaceful scene, sim_score=0.3463",
+            "appears to be a farmer, sim_score=0.3093",
+            "dressed in cowboy costumes, sim_score=0.2355",
+            "enjoying each other\u2019s company, sim_score=0.2128",
+            "walking inside, sim_score=0.1965",
+            "having fun, sim_score=0.1949",
+            "appears to be having a good time, sim_score=0.1335",
+            "standing in a line, sim_score=0.1275",
+            "wearing casual clothing, sim_score=0.1249"
+        ]
+    },
+    "prompt0003": {
+        "user prompt": "a bird and a cat",
+        "original description": "a cat, enjoying the attention it is getting from the camera, a meal with cats, wearing a collar, enjoying a meal together, sitting at a table, surprised by something, has a surprised expression, looking at the camera, having a good time as they eat and interact with each other, a cartoon cat, enjoying the attention",
+        "final_description": "A cat, enjoying the attention it is getting from the camera, wearing a collar, and having a good time as they eat and interact with each other, is sitting at a table, has a surprised expression, looking at the camera, and is part of a cartoon scene. The cat is enjoying the attention and a meal together with its feline companions, and it is a fun and lively scene. The cat is surprised by something. A cat, enjoying the attention it is getting from the camera, wearing a collar, and having a good time as they eat and interact with each other, is sitting at a table, has a surprised expression, looking at the camera, and is part of a cartoon scene. The cat is enjoying the attention and a meal together with its feline companions, and it is a fun and lively scene. The cat is surprised by something. A cat, enjoying the attention it is getting from the camera, wearing a collar, and having a good time as they eat and interact with each other, is sitting at a table, has a surprised expression, looking at the camera, and is part of a cartoon scene. The cat is enjoying the attention and a meal together with its feline companions, and it is a fun and lively scene. The cat is surprised by something. A cat, enjoying the attention it is getting from the camera, wearing a collar, and having a good time as they eat and interact with each other, is sitting at a table, has a surprised expression, looking at the camera, and is part of a cartoon scene. The cat is enjoying the attention and a meal together with its feline companions, and it is a fun and lively scene. The cat is surprised by something. A cat, enjoying the attention it is getting from the camera, wearing a collar, and having a good time as they eat and interact with each other, is sitting at a table, has a surprised expression, looking at the camera, and is part of a cartoon scene. The cat is enjoying the attention and a meal together with its feline companions, and it is a fun and lively scene. The cat is surprised by something. A cat, enjoying the attention it is getting from the camera, wearing a collar, and having a good time as they eat and interact with each other, is sitting at a table, has a surprised expression, looking at the camera, and is part of a cartoon scene. The cat is enjoying the attention and a meal together",
+        "ranked_modifiers_used": [
+            "a cat, sim_score=0.7135",
+            "a meal with cats, sim_score=0.628",
+            "a cartoon cat, sim_score=0.6187"
+        ],
+        "modifiers_full_ranked_list": [
+            "a cat, sim_score=0.7135",
+            "a meal with cats, sim_score=0.628",
+            "a cartoon cat, sim_score=0.6187",
+            "having a good time as they eat and interact with each other, sim_score=0.3205",
+            "enjoying a meal together, sim_score=0.2873",
+            "wearing a collar, sim_score=0.2819",
+            "enjoying the attention, sim_score=0.1306",
+            "looking at the camera, sim_score=0.1071",
+            "enjoying the attention it is getting from the camera, sim_score=0.1059",
+            "sitting at a table, sim_score=0.0891",
+            "has a surprised expression, sim_score=0.059",
+            "surprised by something, sim_score=0.0566"
+        ]
+    },
+    "prompt0004": {
+        "user prompt": "a chair and a couch",
+        "original description": "wearing a lace top, appears to be a living room, enjoying herself, appears to be looking at herself in the mirror, posing in front of a mirror, sleeping on a couch, sitting on the couch, romantic or intimate scene, a couch, a room with a chair and a couch in it, sitting on top of another woman, a room with a couch and a chair",
+        "final_description": "Wearing a lace top, she appears to be enjoying herself in a living room with a couch. She is seen sitting on the couch, looking at herself in the mirror, posing in front of it, and possibly sleeping on the couch. The scene seems romantic or intimate, set in a room with a couch and a chair. It appears to be a room with a chair and a couch in it, and it has a romantic or intimate atmosphere. Wearing a lace top, she appears to be enjoying herself in a living room with a couch. She is seen sitting on the couch, looking at herself in the mirror, posing in front of it, and possibly sleeping on the couch. The scene seems romantic or intimate, set in a room with a couch and a chair. It appears to be a room with a chair and a couch in it, and it has a romantic or intimate atmosphere.",
+        "ranked_modifiers_used": [
+            "a couch, sim_score=0.8896",
+            "a room with a couch and a chair, sim_score=0.8863",
+            "a room with a chair and a couch in it, sim_score=0.8598",
+            "sitting on the couch, sim_score=0.7235",
+            "sleeping on a couch, sim_score=0.6952"
+        ],
+        "modifiers_full_ranked_list": [
+            "a couch, sim_score=0.8896",
+            "a room with a couch and a chair, sim_score=0.8863",
+            "a room with a chair and a couch in it, sim_score=0.8598",
+            "sitting on the couch, sim_score=0.7235",
+            "sleeping on a couch, sim_score=0.6952",
+            "sitting on top of another woman, sim_score=0.3882",
+            "appears to be a living room, sim_score=0.3573",
+            "romantic or intimate scene, sim_score=0.2578",
+            "enjoying herself, sim_score=0.2294",
+            "posing in front of a mirror, sim_score=0.2218",
+            "wearing a lace top, sim_score=0.184",
+            "appears to be looking at herself in the mirror, sim_score=0.1401"
+        ]
+    },
+    "prompt0005": {
+        "user prompt": "a couch and a potted plant",
+        "original description": "reading it, sitting on a couch, sitting on a couch in a room with plants and a window, sleeping on a couch, enjoying its time on the couch, a couch, enjoying its nap, talking into a microphone, sitting on a couch with a plant, sitting on top of another woman, appears to be reading it, discussing something",
+        "final_description": "Sitting on a couch with a plant, she appears to be reading and discussing something into a microphone, enjoying her time on the couch. It appears to be a couch in a room with plants and a window.",
+        "ranked_modifiers_used": [
+            "sitting on a couch with a plant, sim_score=0.8234",
+            "a couch, sim_score=0.7679",
+            "sitting on a couch in a room with plants and a window, sim_score=0.7614",
+            "sitting on a couch, sim_score=0.6302"
+        ],
+        "modifiers_full_ranked_list": [
+            "sitting on a couch with a plant, sim_score=0.8234",
+            "a couch, sim_score=0.7679",
+            "sitting on a couch in a room with plants and a window, sim_score=0.7614",
+            "sitting on a couch, sim_score=0.6302",
+            "sleeping on a couch, sim_score=0.5928",
+            "enjoying its time on the couch, sim_score=0.5868",
+            "enjoying its nap, sim_score=0.2969",
+            "sitting on top of another woman, sim_score=0.2601",
+            "talking into a microphone, sim_score=0.1476",
+            "discussing something, sim_score=0.1436",
+            "reading it, sim_score=0.1297",
+            "appears to be reading it, sim_score=0.0748"
+        ]
+    },
+    "prompt0006": {
+        "user prompt": "a potted plant and a tv",
+        "original description": "sitting on a couch, appears to be in a dark room, flying around it, creating a festive atmosphere, an advertisement for a television show, test pattern for a color television, creating a festive and lively atmosphere, a television screen, being hit by colorful confetti, talking to the camera, displaying a static image, a room with a television, a television set, standing in front of the camera and speaking to the viewers",
+        "final_description": "Sitting on a couch in a dark room, a television set is showing a test pattern for a color television. The screen is creating a festive and lively atmosphere, being hit by colorful confetti, and displaying a static image. A television set is standing in front of the camera and speaking to the viewers, appearing to be in a room with a television. The atmosphere is festive and lively due to the colorful confetti hitting the screen. The television set is in front of the camera, addressing the viewers. The room is dark, but the vibrant display on the television creates an engaging visual experience. The scene takes place in a room with a television. The vibrant display on the television sets the festive and lively atmosphere. The television is in front of the camera, engaging the viewers. The room remains dark, but the colorful confetti and static image on the screen create an engaging visual experience. The television set is addressing the viewers in a room with a television. The vibrant display on the television creates a festive and lively atmosphere. The colorful confetti and static image add to the engaging visual experience in the dark room. The television set is in front of the camera, creating an interactive and engaging atmosphere for the viewers. The room with a television is dark, but the vibrant display on the screen makes it lively and engaging. The television set is addressing the viewers, creating an interactive and engaging atmosphere in the dark room. The colorful confetti and static image on the screen add to the festive and lively atmosphere. The vibrant display on the television creates an engaging visual experience. The television set is in front of the camera, making the interaction with the viewers more immersive. The room with a television is dark, but the vibrant display on the screen sets the festive and lively atmosphere. The television set is addressing the viewers, creating an interactive and engaging atmosphere in the dark room. The colorful confetti and static image on the screen add to the engaging visual experience. The vibrant display on the television creates a festive and lively atmosphere. The television set is in front of the camera, making the interaction with the viewers more immersive. The room with a television is dark, but the vibrant display on the screen sets the festive and lively atmosphere. The television set is addressing the viewers, creating an interactive and engaging atmosphere in the dark room. The colorful confetti and static image on the screen add to the engaging visual experience. The vibrant display on the television creates a festive and lively atmosphere. The television set is in front of",
+        "ranked_modifiers_used": [
+            "a television screen, sim_score=0.6238",
+            "a television set, sim_score=0.6188",
+            "a room with a television, sim_score=0.618"
+        ],
+        "modifiers_full_ranked_list": [
+            "a television screen, sim_score=0.6238",
+            "a television set, sim_score=0.6188",
+            "a room with a television, sim_score=0.618",
+            "an advertisement for a television show, sim_score=0.4235",
+            "test pattern for a color television, sim_score=0.3839",
+            "sitting on a couch, sim_score=0.3179",
+            "appears to be in a dark room, sim_score=0.2634",
+            "creating a festive and lively atmosphere, sim_score=0.2554",
+            "creating a festive atmosphere, sim_score=0.2391",
+            "standing in front of the camera and speaking to the viewers, sim_score=0.2365",
+            "being hit by colorful confetti, sim_score=0.2062",
+            "flying around it, sim_score=0.1889",
+            "talking to the camera, sim_score=0.1848",
+            "displaying a static image, sim_score=0.1733"
+        ]
+    },
+    "prompt0007": {
+        "user prompt": "a tv and a laptop",
+        "original description": "sitting on a couch, appears to be in a dark room, appears to be a living room, sitting on the couch, dimly lit room, a room with a TV and a couch, talking to the camera, a room with a couch and a TV, There is a guitar on the couch, a room with a television, a room",
+        "final_description": "A man walking down a street in a busy city, a bustling cityscape, a man wearing a hat and sunglasses. The Description body: Two friends sitting on a bench in a park, Relevant modifiers: enjoying the warm weather, a peaceful and serene environment, Final Output: Two friends sitting on a bench in a park, enjoying the warm weather, in a peaceful and serene environment. The Description body: A person riding a bicycle on a road, Relevant modifiers: a scenic countryside, Final Output: A person riding a bicycle on a road, in a scenic countryside. The Description body: A group of people playing soccer in a field, Relevant modifiers: a sunny day, the sound of cheering, Final Output: A group of people playing soccer in a field, on a sunny day, with the sound of cheering. The Description body: A man reading a book in a library, Relevant modifiers: surrounded by books, a quiet and peaceful atmosphere, Final Output: A man reading a book in a library, surrounded by books, in a quiet and peaceful atmosphere. The Description body: A woman walking in a park, Relevant modifiers: a beautiful and lush greenery, a serene and tranquil environment, Final Output: A woman walking in a park, surrounded by beautiful and lush greenery, in a serene and tranquil environment. The Description body: A couple standing in front of a building, Relevant modifiers: a historic and elegant building, a romantic and charming setting, Final Output: A couple standing in front of a building, in front of a historic and elegant building, in a romantic and charming setting. The Description body: A child playing with toys in a room, Relevant modifiers: a brightly colored and playful space, Final Output: A child playing with toys in a room, in a brightly colored and playful space. The Description body: A person swimming in a pool, Relevant modifiers: a clear and sparkling water, Final Output: A person swimming in a pool, in clear and sparkling water. The Description body: A woman cooking in the kitchen, Relevant modifiers: a modern and well-equipped, Relevant modifiers: a room with a couch and a TV, Final Output: A woman cooking in the kitchen, in a modern and well-equipped room with a couch and a TV. The Description body: A man working in an office, Relevant modifiers: a spacious and well-lit room, Final Output: A man working in an office, in a spacious and well-lit room. The Description body: A group of children playing in a playground, Relevant modifiers: a sunny and warm day, Final Output: A group of children playing in a playground, on a sunny and warm day. The Description body: A woman walking in a forest, Relevant modifiers: a dense and green forest, Final Output: A woman walking in a forest, in a dense and green forest. The Description body: A couple dancing in a ballroom, Relevant modifiers: a luxurious and elegant setting, Final Output: A couple dancing in a ballroom, in a luxurious and elegant setting. The Description body: A person sitting on a bench in a park, Relevant modifiers: a tranquil and peaceful atmosphere, Final Output: A person sitting on a bench in a park, in a tranquil and peaceful atmosphere. The Description body: A man standing in front of a store, Relevant modifiers: a busy and crowded street, Final Output: A man standing in front of a store, on a busy and crowded street. The Description body: A woman sitting on a chair in a garden, Relevant modifiers: a blooming and colorful garden, Final Output: A woman sitting on a chair in a garden, in a blooming and colorful garden. The Description body: A person lying on a beach, Relevant modifiers: a sandy and warm beach, Final Output: A person lying on a beach, on a sandy and warm beach. The Description body: A woman walking in a city, Relevant modifiers: a vibrant and lively city, Final Output: A woman walking in a city, in a vibrant and lively city. The Description body: A person reading a book on a train, Relevant modifiers: a cozy and comfortable seat, Final Output: A person reading a book on a train, in a cozy and comfortable seat. The Description body: A couple walking in a park, Relevant modifiers: a picturesque and scenic route, Final Output: A couple walking in a park, on a picturesque and scenic route. The Description body: A person jogging in a park, Relevant modifiers: a pleasant and cool breeze, Final Output: A person jogging in a park, with a pleasant and cool breeze. The Description body",
+        "ranked_modifiers_used": [
+            "a room with a TV and a couch, sim_score=0.7014",
+            "a room with a television, sim_score=0.6969",
+            "a room with a couch and a TV, sim_score=0.6933"
+        ],
+        "modifiers_full_ranked_list": [
+            "a room with a TV and a couch, sim_score=0.7014",
+            "a room with a television, sim_score=0.6969",
+            "a room with a couch and a TV, sim_score=0.6933",
+            "sitting on a couch, sim_score=0.3676",
+            "sitting on the couch, sim_score=0.3427",
+            "a room, sim_score=0.335",
+            "appears to be a living room, sim_score=0.2671",
+            "There is a guitar on the couch, sim_score=0.2493",
+            "dimly lit room, sim_score=0.2073",
+            "talking to the camera, sim_score=0.1978",
+            "appears to be in a dark room, sim_score=0.1814"
+        ]
+    },
+    "prompt0008": {
+        "user prompt": "a laptop and a remote",
+        "original description": "appears to be a remote control of some kind, appears to be focused on her task, sitting at a table with a laptop and a notebook, enjoying their time together, working at a table with a laptop and a notebook, working in an office, controlling something, working on something, using a remote control, seem to be focused on a task, working together on a laptop, pressing a button on it, discussing something related to a project",
+        "final_description": "It appears to be a remote control of some kind. She is seen using a remote control while working together on a laptop at a table with a laptop and a notebook. They are working on something, focusing on their task, discussing something related to a project, and appearing to be focused on a task in an office environment. She is also pressing a button on the remote control. They are sitting at a table and appear to be focused on their task, discussing something related to a project, and working in an office environment. She is also pressing a button on the remote control.",
+        "ranked_modifiers_used": [
+            "using a remote control, sim_score=0.6485",
+            "working together on a laptop, sim_score=0.6463",
+            "working at a table with a laptop and a notebook, sim_score=0.6238",
+            "sitting at a table with a laptop and a notebook, sim_score=0.601"
+        ],
+        "modifiers_full_ranked_list": [
+            "using a remote control, sim_score=0.6485",
+            "working together on a laptop, sim_score=0.6463",
+            "working at a table with a laptop and a notebook, sim_score=0.6238",
+            "sitting at a table with a laptop and a notebook, sim_score=0.601",
+            "appears to be a remote control of some kind, sim_score=0.461",
+            "pressing a button on it, sim_score=0.2876",
+            "controlling something, sim_score=0.2504",
+            "discussing something related to a project, sim_score=0.2059",
+            "working on something, sim_score=0.193",
+            "working in an office, sim_score=0.1613",
+            "enjoying their time together, sim_score=0.1436",
+            "appears to be focused on her task, sim_score=0.1406",
+            "seem to be focused on a task, sim_score=0.0928"
+        ]
+    },
+    "prompt0009": {
+        "user prompt": "a remote and a keyboard",
+        "original description": "playing a game on the computer, appears to be a remote control of some kind, using a remote control, using a keyboard and a mouse to control a computer, being set on fire, using a keyboard and a mouse, a computer keyboard, pressing buttons on it, a close-up view of a keyboard that is on fire, appears to be playing a game on the computer, pressing a button on it",
+        "final_description": "A person appears to be playing a game on the computer, using a keyboard and a mouse to control a computer. A close-up view of a computer keyboard that is on fire shows a person pressing buttons on it, using a remote control. It appears to be a remote control of some kind., Relevant modifiers: using a keyboard and a mouse, Final Output: A person appears to be playing a game on the computer, using a keyboard and a mouse to control a computer. A close-up view of a computer keyboard that is on fire shows a person pressing buttons on it, using a remote control. It appears to be a remote control of some kind. The person is using a keyboard and a mouse to control the computer. To refine the output and ensure coherence, we can integrate the relevant modifiers more seamlessly:",
+        "ranked_modifiers_used": [
+            "a computer keyboard, sim_score=0.7271",
+            "using a remote control, sim_score=0.677",
+            "using a keyboard and a mouse to control a computer, sim_score=0.6687",
+            "using a keyboard and a mouse, sim_score=0.662"
+        ],
+        "modifiers_full_ranked_list": [
+            "a computer keyboard, sim_score=0.7271",
+            "using a remote control, sim_score=0.677",
+            "using a keyboard and a mouse to control a computer, sim_score=0.6687",
+            "using a keyboard and a mouse, sim_score=0.662",
+            "a closeup view of a keyboard that is on fire, sim_score=0.5126",
+            "appears to be a remote control of some kind, sim_score=0.4848",
+            "pressing buttons on it, sim_score=0.3742",
+            "pressing a button on it, sim_score=0.3502",
+            "playing a game on the computer, sim_score=0.3211",
+            "appears to be playing a game on the computer, sim_score=0.2565",
+            "being set on fire, sim_score=0.1891"
+        ]
+    },
+    "prompt0010": {
+        "user prompt": "a keyboard and a cell phone",
+        "original description": "playing a game, using a keyboard, working on a keyboard, controlling the music being played, being set on fire, playing a game on a computer, appears to be focused on the task at hand, a computer keyboard, appears to be a DJ, a close-up view of a keyboard that is on fire, appears to be a musician",
+        "final_description": "Playing a game on a computer, using a keyboard, working on a keyboard, controlling the music being played, it appears to be a close-up view of a keyboard that is on fire, and it appears to be a DJ and a musician who is focused on the task at hand. The keyboard is a computer keyboard and it is being used for the task. Working on the keyboard, controlling the music being played, and it appears to be a close-up view of a keyboard that is on fire, it seems to be a DJ and a musician who is intensely focused on the task at hand. The scene is intense and dynamic. The keyboard is a computer keyboard and it is being used for the task. Working on the keyboard, controlling the music being played, and it appears to be a close-up view of a keyboard that is on fire, it seems to be a DJ and a musician who is intensely focused on the task at hand. The scene is intense and dynamic. The keyboard is a computer keyboard and it is being used for the task. To refine the output and make it more concise and coherent, here is the revised version:",
+        "ranked_modifiers_used": [
+            "a computer keyboard, sim_score=0.766",
+            "using a keyboard, sim_score=0.716",
+            "working on a keyboard, sim_score=0.6795"
+        ],
+        "modifiers_full_ranked_list": [
+            "a computer keyboard, sim_score=0.766",
+            "using a keyboard, sim_score=0.716",
+            "working on a keyboard, sim_score=0.6795",
+            "a closeup view of a keyboard that is on fire, sim_score=0.4986",
+            "playing a game on a computer, sim_score=0.2818",
+            "playing a game, sim_score=0.2489",
+            "appears to be a musician, sim_score=0.205",
+            "being set on fire, sim_score=0.1965",
+            "controlling the music being played, sim_score=0.1947",
+            "appears to be focused on the task at hand, sim_score=0.1897",
+            "appears to be a DJ, sim_score=0.1448"
+        ]
+    },
+    "prompt0011": {
+        "user prompt": "a cell phone and a book",
+        "original description": "using a cell phone, opened to reveal a painting, commercial advertisement, appears to be texting someone, using a phone, demonstration of how to use the phone\u2019s camera, holding a phone in her hand, riding a bus, sitting at a table, using a cell phone to make a call, a book, a social media post, holding a cell phone, flipped open to reveal its pages",
+        "final_description": "Using a cell phone, it appears to be demonstrating how to use the phone\u2019s camera, holding a cell phone while riding a bus, sitting at a table and using a cell phone to make a call, and flipping open to reveal its pages, showing a book. The person is using a cell phone in various contexts such as demonstrating features, making calls, and reading books. The person is holding a cell phone.",
+        "ranked_modifiers_used": [
+            "a book, sim_score=0.6476",
+            "using a cell phone, sim_score=0.647",
+            "using a phone, sim_score=0.6247",
+            "holding a cell phone, sim_score=0.6122"
+        ],
+        "modifiers_full_ranked_list": [
+            "a book, sim_score=0.6476",
+            "using a cell phone, sim_score=0.647",
+            "using a phone, sim_score=0.6247",
+            "holding a cell phone, sim_score=0.6122",
+            "using a cell phone to make a call, sim_score=0.5184",
+            "holding a phone in her hand, sim_score=0.4907",
+            "demonstration of how to use the phone\u2019s camera, sim_score=0.3413",
+            "appears to be texting someone, sim_score=0.2801",
+            "riding a bus, sim_score=0.2673",
+            "a social media post, sim_score=0.2621",
+            "sitting at a table, sim_score=0.2392",
+            "flipped open to reveal its pages, sim_score=0.1545",
+            "commercial advertisement, sim_score=0.1426",
+            "opened to reveal a painting, sim_score=0.1128"
+        ]
+    },
+    "prompt0012": {
+        "user prompt": "a book and a clock",
+        "original description": "the sound of the clock ticking, hanging on the wall, indicating the passage of time, a close-up view of a clock, a room with a clock, hanging on a wall, a clock, a clock on a wall, a cartoon-like representation of a clock, moving",
+        "final_description": "The sound of the clock ticking, hanging on the wall, indicates the passage of time. A close-up view shows a cartoon-like representation of a clock, moving and hanging on a wall in the room. The clock on a wall provides a visual and auditory indication of the passage of time and is located in a room featuring a cartoon-like representation of a clock. The room features a clock. The clock is shown in a close-up view.",
+        "ranked_modifiers_used": [
+            "a clock, sim_score=0.8124",
+            "a clock on a wall, sim_score=0.7573",
+            "a room with a clock, sim_score=0.7554",
+            "a cartoonlike representation of a clock, sim_score=0.6416",
+            "a closeup view of a clock, sim_score=0.6145"
+        ],
+        "modifiers_full_ranked_list": [
+            "a clock, sim_score=0.8124",
+            "a clock on a wall, sim_score=0.7573",
+            "a room with a clock, sim_score=0.7554",
+            "a cartoonlike representation of a clock, sim_score=0.6416",
+            "a closeup view of a clock, sim_score=0.6145",
+            "the sound of the clock ticking, sim_score=0.5951",
+            "indicating the passage of time, sim_score=0.4962",
+            "hanging on the wall, sim_score=0.2742",
+            "hanging on a wall, sim_score=0.2466",
+            "moving, sim_score=0.1432"
+        ]
+    },
+    "prompt0013": {
+        "user prompt": "A lightning striking atop of eiffel tower, dark clouds in the sky",
+        "original description": "a lightning bolt in the dark sky, peaceful and serene, illuminated with lights, during the storm, a close-up view of a lightning bolt in the dark sky, flashing in the distance, flashing in the background, a beautiful view of the Eiffel Tower at night, a stormy sky, a stormy sky with lightning, appears to be, a stunning sight to behold, shining brightly",
+        "final_description": "A close-up view of a lightning bolt in the dark sky, flashing in the distance, flashing in the background, and shining brightly. It appears to be a stunning sight to behold, illuminating a beautiful view of the Eiffel Tower at night during a stormy sky with lightning. A close-up view of a lightning bolt in the dark sky, Final Output: A close-up view of a lightning bolt in the dark sky, flashing in the distance, flashing in the background, and shining brightly. It appears to be a stunning sight to behold, illuminating a beautiful view of the Eiffel Tower at night during a stormy sky with lightning. A close-up view of a lightning bolt in the dark sky, Final Output: A close-up view of a lightning bolt in the dark sky, flashing in the distance, flashing in the background, and shining brightly. It appears to be a stunning sight to behold, illuminating a beautiful view of the Eiffel Tower at night during a stormy sky with lightning. A close-up view of a lightning bolt in the dark sky, Final Output: A close-up view of a lightning bolt in the dark sky, flashing in the distance, flashing in the background, and shining brightly. It appears to be a stunning sight to behold, illuminating a beautiful view of the Eiffel Tower at night during a stormy sky with lightning. A close-up view of a lightning bolt in the dark sky, Final Output: A close-up view of a lightning bolt in the dark sky, flashing in the distance, flashing in the background, and shining brightly. It appears to be a stunning sight to behold, illuminating a beautiful view of the Eiffel Tower at night during a stormy sky with lightning. A close-up view of a lightning bolt, Relevant modifiers: a stormy sky with lightning, Final Output: A close-up view of a lightning bolt in the dark sky, flashing in the distance, flashing in the background, and shining brightly. It appears to be a stunning sight to behold, illuminating a beautiful view of the Eiffel Tower at night during a stormy sky with lightning. A close-up view of a lightning bolt, Relevant modifiers: a stormy sky with lightning, Final Output: A close-up view of a lightning bolt in the dark sky, flashing in the distance, flashing in the background, and shining brightly. It appears to be a stunning sight to behold, illuminating a beautiful view of the Eiffel Tower at night during a stormy sky with lightning. A close-up view of a lightning bolt, Relevant modifiers: a stormy sky with lightning, Final Output: A close-up view of a lightning bolt in the dark sky, flashing in the distance, flashing in the background, and shining brightly. It appears to be a stunning sight to behold, illuminating a beautiful view of the Eiffel Tower at night during a stormy sky with lightning. A close-up view of a lightning bolt, Relevant modifiers: a stormy sky with lightning, Final Output: A close-up view of a lightning bolt in the dark sky, flashing in the distance, flashing in the background, and shining brightly. It appears to be a stunning sight to behold, illuminating a beautiful view of the Eiffel Tower at night during a stormy sky with lightning. A close-up view of a lightning bolt, Relevant modifiers: a stormy sky with lightning, Final Output: A close-up view of a lightning bolt in the dark sky, flashing in the distance, flashing in the background, and shining brightly. It appears to be a stunning sight to behold, illuminating a beautiful view of the Eiffel Tower at night during a stormy sky with lightning. A close-up view of a lightning bolt, Relevant modifiers: a stormy sky with lightning, Final Output: A close-up view of a lightning bolt in the dark sky, flashing in the distance, flashing in the background, and shining brightly. It appears to be a stunning sight to behold, illuminating a beautiful view of the Eiffel Tower at night during a stormy sky with lightning. A close-up view of a lightning bolt, Relevant modifiers: a stormy sky with lightning, Final Output: A close-up view of a lightning bolt in the dark sky, flashing in the distance, flashing in, Relevant modifiers: a closeup view of a lightning bolt in the dark sky, Final Output: A close-up view of a lightning bolt in the dark sky, flashing in the distance, flashing in the background, and shining brightly. It appears to be a stunning sight to behold, illuminating a beautiful view of the Eiffel Tower at night during a stormy sky with lightning. A close-up view of a lightning bolt in the dark sky, Relevant modifiers: a stormy sky with lightning, Final Output: A close-up view of a lightning bolt in the dark sky, flashing in the distance, flashing in the background, and shining brightly. It appears to be a stunning sight to behold, illuminating a beautiful view of the Eiffel Tower at night during a stormy sky with lightning. A close-up view of a lightning bolt in the dark sky, Relevant modifiers: a stormy sky with lightning, Final Output: A close-up view of a lightning bolt in the dark sky, flashing in the distance, flashing in the background, and shining brightly. It appears to be a stunning sight to behold, illuminating a beautiful view of the Eiffel Tower at night during a stormy sky with lightning. A close-up view of a lightning bolt in the dark sky, Relevant modifiers: a stormy sky with lightning, Final Output: A close-up view of a lightning bolt in the dark sky, flashing in the distance, flashing in the background, and shining brightly. It appears to be a stunning sight to behold, illuminating a beautiful view of the Eiffel Tower at night during a stormy sky with lightning. A close-up view of a lightning bolt in the dark sky, Relevant modifiers: a stormy sky with lightning, Final Output: A close-up view of a lightning bolt in the dark sky, flashing in the distance, flashing in the background, and shining brightly. It appears to be a stunning sight to behold, illuminating a beautiful view of the Eiffel Tower at night during a stormy sky with lightning. A close-up view of a lightning bolt in the dark sky, Relevant modifiers: a stormy sky with lightning, Final Output: A close-up view of a lightning bolt in the dark sky, flashing in the distance, flashing in the background, and shining brightly. It appears to be a stunning sight to behold, illuminating a beautiful view of the Eiffel Tower at night during a stormy sky with lightning. A close-up view of a lightning bolt in the dark sky, Relevant modifiers: a stormy sky with lightning",
+        "ranked_modifiers_used": [
+            "a beautiful view of the Eiffel Tower at night, sim_score=0.7237",
+            "a lightning bolt in the dark sky, sim_score=0.6994",
+            "a stormy sky with lightning, sim_score=0.6546",
+            "a closeup view of a lightning bolt in the dark sky, sim_score=0.6478"
+        ],
+        "modifiers_full_ranked_list": [
+            "a beautiful view of the Eiffel Tower at night, sim_score=0.7237",
+            "a lightning bolt in the dark sky, sim_score=0.6994",
+            "a stormy sky with lightning, sim_score=0.6546",
+            "a closeup view of a lightning bolt in the dark sky, sim_score=0.6478",
+            "a stormy sky, sim_score=0.4453",
+            "during the storm, sim_score=0.3896",
+            "illuminated with lights, sim_score=0.3356",
+            "flashing in the distance, sim_score=0.2561",
+            "shining brightly, sim_score=0.2457",
+            "a stunning sight to behold, sim_score=0.2252",
+            "flashing in the background, sim_score=0.224",
+            "peaceful and serene, sim_score=0.1482",
+            "appears to be, sim_score=0.1089"
+        ]
+    },
+    "prompt0014": {
+        "user prompt": "a bicycle on the left of a car, front view",
+        "original description": "a close-up view of a bicycle, having fun, posing in front of a bicycle, enjoying the ride, a bicycle parked on the side of the road, rainy day, riding a bicycle, appears to be happy, highlighting the intricate details of the mechanism, parked on the side of the road, appears to be a sunny day, riding the bicycle",
+        "final_description": "A close-up view of a bicycle, having fun, posing in front of a bicycle, enjoying the ride, and appearing to be happy, highlighting the intricate details of the mechanism. Posing in front of a bicycle, it is either parked on the side of the road on a sunny day or being ridden on a rainy day.",
+        "ranked_modifiers_used": [
+            "a closeup view of a bicycle, sim_score=0.7523",
+            "a bicycle parked on the side of the road, sim_score=0.6988",
+            "posing in front of a bicycle, sim_score=0.6961"
+        ],
+        "modifiers_full_ranked_list": [
+            "a closeup view of a bicycle, sim_score=0.7523",
+            "a bicycle parked on the side of the road, sim_score=0.6988",
+            "posing in front of a bicycle, sim_score=0.6961",
+            "riding a bicycle, sim_score=0.577",
+            "riding the bicycle, sim_score=0.5567",
+            "parked on the side of the road, sim_score=0.4924",
+            "enjoying the ride, sim_score=0.3445",
+            "appears to be happy, sim_score=0.1515",
+            "appears to be a sunny day, sim_score=0.1499",
+            "highlighting the intricate details of the mechanism, sim_score=0.1424",
+            "rainy day, sim_score=0.0895",
+            "having fun, sim_score=0.0523"
+        ]
+    },
+    "prompt0015": {
+        "user prompt": "A modern art museum, with colorful paintings",
+        "original description": "gathered in a large room with a statue in the center, walking through a museum exhibit, featuring a collection of musical instruments, photographs, and other items, talking about the paintings, standing in front of them, the history and evolution of jazz music, admiring the sculpture, an art museum, a room with paintings in a museum, a museum exhibit, museum exhibit showcasing various types of watches, the artist who created them",
+        "final_description": "Gathered in a large room with a statue in the center, walking through an art museum exhibit, featuring a collection of musical instruments, photographs, and other items, talking about the paintings, standing in front of them, discussing the history and evolution of jazz music, admiring the sculpture. The room with paintings in the museum is a focal point, enhancing the overall experience. A museum exhibit showcasing various types of watches and the artists who created them is also part of the visit. The exhibit is a museum exhibit, walking through it.",
+        "ranked_modifiers_used": [
+            "an art museum, sim_score=0.8538",
+            "a room with paintings in a museum, sim_score=0.7958",
+            "a museum exhibit, sim_score=0.7392",
+            "walking through a museum exhibit, sim_score=0.62"
+        ],
+        "modifiers_full_ranked_list": [
+            "an art museum, sim_score=0.8538",
+            "a room with paintings in a museum, sim_score=0.7958",
+            "a museum exhibit, sim_score=0.7392",
+            "walking through a museum exhibit, sim_score=0.62",
+            "talking about the paintings, sim_score=0.5557",
+            "museum exhibit showcasing various types of watches, sim_score=0.5198",
+            "admiring the sculpture, sim_score=0.5022",
+            "featuring a collection of musical instruments photographs and other items, sim_score=0.4992",
+            "gathered in a large room with a statue in the center, sim_score=0.4025",
+            "the artist who created them, sim_score=0.3613",
+            "the history and evolution of jazz music, sim_score=0.1631",
+            "standing in front of them, sim_score=0.1037"
+        ]
+    }
+}

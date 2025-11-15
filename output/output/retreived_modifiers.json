@@ -1,0 +1,2387 @@
+{
+    "prompt0000": {
+        "original_sentence": "2 Dog and a whale, ocean adventure",
+        "modifiers": {
+            "actions": [
+                "holding a surfboard",
+                "riding the waves with the dog by his side",
+                "swimming in the ocean",
+                "exploring the depths of the ocean"
+            ],
+            "sub_atmospheres": [
+                "the beauty of the animation",
+                "enjoying the ride",
+                "enjoying their underwater adventure"
+            ],
+            "scenes_and_places": [
+                "surfing in the ocean with a dog",
+                "exploring the ocean with a dog",
+                "a beautiful animation of a whale swimming in the ocean"
+            ],
+            "all_retrieved_words": [
+                "riding the waves with the dog by his side",
+                "swimming in the ocean",
+                "enjoying their underwater adventure",
+                "the beauty of the animation",
+                "surfing in the ocean with a dog",
+                "enjoying the ride",
+                "exploring the ocean with a dog",
+                "holding a surfboard",
+                "a beautiful animation of a whale swimming in the ocean",
+                "exploring the depths of the ocean"
+            ]
+        }
+    },
+    "prompt0001": {
+        "original_sentence": "Teddy bear and 3 real bear",
+        "modifiers": {
+            "actions": [
+                "interacting with them",
+                "holding the stuffed animals in their hands",
+                "wearing a gift box on its back",
+                "holding the gift box",
+                "marching in a line"
+            ],
+            "sub_atmospheres": [
+                "playing with stuffed animals, specifically teddy bears",
+                "playful and joyful scene",
+                "appears to be happy",
+                "a stuffed animal toy"
+            ],
+            "scenes_and_places": [
+                "playing with teddy bears",
+                "a group of teddy bears",
+                "a teddy bear"
+            ],
+            "all_retrieved_words": [
+                "playing with teddy bears",
+                "playful and joyful scene",
+                "interacting with them",
+                "playing with stuffed animals, specifically teddy bears",
+                "appears to be happy",
+                "holding the stuffed animals in their hands",
+                "wearing a gift box on its back",
+                "a stuffed animal toy",
+                "a group of teddy bears",
+                "holding the gift box",
+                "marching in a line",
+                "a teddy bear"
+            ]
+        }
+    },
+    "prompt0002": {
+        "original_sentence": "in goldfish glass",
+        "modifiers": {
+            "actions": [
+                "jumping out of a fish tank",
+                "swimming gracefully",
+                "swimming in an aquarium",
+                "swimming around"
+            ],
+            "sub_atmospheres": [
+                "trying to escape from the confines of the tank",
+                "enjoying its surroundings"
+            ],
+            "scenes_and_places": [
+                "a close-up view of a goldfish in a bowl",
+                "a close-up view of a goldfish swimming in an aquarium",
+                "in a fish tank"
+            ],
+            "all_retrieved_words": [
+                "trying to escape from the confines of the tank",
+                "a close-up view of a goldfish swimming in an aquarium",
+                "in a fish tank",
+                "swimming in an aquarium",
+                "swimming around",
+                "enjoying its surroundings",
+                "a close-up view of a goldfish in a bowl",
+                "jumping out of a fish tank",
+                "swimming gracefully"
+            ]
+        }
+    },
+    "prompt0003": {
+        "original_sentence": "A small bird sits atop a blooming flower stem.",
+        "modifiers": {
+            "actions": [
+                "singing",
+                "perched on a branch of a tree",
+                "eating some seeds",
+                "pecking at the seeds"
+            ],
+            "sub_atmospheres": [
+                "enjoying its meal",
+                "enjoying its surroundings"
+            ],
+            "scenes_and_places": [
+                "a small bird perched on a wooden surface",
+                "a bird perched on top of a sunflower",
+                "a small bird perched on a tree"
+            ],
+            "all_retrieved_words": [
+                "a bird perched on top of a sunflower",
+                "enjoying its meal",
+                "pecking at the seeds",
+                "singing",
+                "a small bird perched on a wooden surface",
+                "a small bird perched on a tree",
+                "eating some seeds",
+                "perched on a branch of a tree",
+                "enjoying its surroundings"
+            ]
+        }
+    },
+    "prompt0004": {
+        "original_sentence": "A fluffy teddy bear sits on a bed of soft pillows surrounded by children's toys.",
+        "modifiers": {
+            "actions": [
+                "playing on a bed",
+                "playing a musical instrument",
+                "lying on a bed"
+            ],
+            "sub_atmospheres": [
+                "appears to be having fun with the teddy bear",
+                "appears to be resting peacefully",
+                "playing with great skill"
+            ],
+            "scenes_and_places": [
+                "a teddy bear lying on a bed",
+                "sitting on a bed in a room decorated with stuffed animals",
+                "playing with a teddy bear on a bed"
+            ],
+            "all_retrieved_words": [
+                "appears to be resting peacefully",
+                "a teddy bear lying on a bed",
+                "sitting on a bed in a room decorated with stuffed animals",
+                "playing a musical instrument",
+                "lying on a bed",
+                "playing with great skill",
+                "appears to be having fun with the teddy bear",
+                "playing on a bed",
+                "playing with a teddy bear on a bed"
+            ]
+        }
+    },
+    "prompt0005": {
+        "original_sentence": "A peaceful cow grazing in a green field under the clear blue sky",
+        "modifiers": {
+            "actions": [
+                "grazing in a field",
+                "grazing in a grassy field",
+                "grazing on a lush green field"
+            ],
+            "sub_atmospheres": [
+                "creating a warm and peaceful atmosphere",
+                "peaceful and serene scene"
+            ],
+            "scenes_and_places": [
+                "a beautiful sunset with cows grazing in a field",
+                "an aerial view of a herd of cows grazing on a lush green field",
+                "an aerial view of a herd of cows grazing in a grassy field"
+            ],
+            "all_retrieved_words": [
+                "a beautiful sunset with cows grazing in a field",
+                "an aerial view of a herd of cows grazing in a grassy field",
+                "grazing in a field",
+                "grazing on a lush green field",
+                "creating a warm and peaceful atmosphere",
+                "an aerial view of a herd of cows grazing on a lush green field",
+                "grazing in a grassy field",
+                "peaceful and serene scene"
+            ]
+        }
+    },
+    "prompt0006": {
+        "original_sentence": "unicorn sliding on a rainbow",
+        "modifiers": {
+            "actions": [
+                "jumping up and down on a rainbow",
+                "riding on a unicorn",
+                "riding a unicorn on a hill"
+            ],
+            "sub_atmospheres": [
+                "enjoying the ride",
+                "fun and playful scene"
+            ],
+            "scenes_and_places": [
+                "riding a unicorn",
+                "riding a colorful unicorn with a rainbow on its back",
+                "jumping on a rainbow"
+            ],
+            "all_retrieved_words": [
+                "jumping up and down on a rainbow",
+                "riding a unicorn",
+                "fun and playful scene",
+                "jumping on a rainbow",
+                "enjoying the ride",
+                "riding a colorful unicorn with a rainbow on its back",
+                "riding on a unicorn",
+                "riding a unicorn on a hill"
+            ]
+        }
+    },
+    "prompt0007": {
+        "original_sentence": "four godzillas",
+        "modifiers": {
+            "actions": [
+                "shown in different poses",
+                "trying to protect it",
+                "trying to run away",
+                "crawling on the ground",
+                "holding a baby"
+            ],
+            "sub_atmospheres": [
+                "created using a software called Blender",
+                "scared of the baby",
+                "scared"
+            ],
+            "scenes_and_places": [
+                "a 3D animation of a group of monsters",
+                "a cartoon character wearing a red costume",
+                "a cartoon animation of a monster",
+                "a monster"
+            ],
+            "all_retrieved_words": [
+                "shown in different poses",
+                "scared of the baby",
+                "trying to protect it",
+                "trying to run away",
+                "a monster",
+                "created using a software called Blender",
+                "a cartoon character wearing a red costume",
+                "crawling on the ground",
+                "scared",
+                "a 3D animation of a group of monsters",
+                "holding a baby",
+                "a cartoon animation of a monster"
+            ]
+        }
+    },
+    "prompt0008": {
+        "original_sentence": "A fluffy grey and white cat is lazily stretched out on a sunny window sill, enjoying a nap after a long day of lounging.",
+        "modifiers": {
+            "actions": [
+                "sitting on a windowsill",
+                "sitting on a window sill",
+                "lying on a pillow",
+                "looking out of the window"
+            ],
+            "sub_atmospheres": [
+                "calm and peaceful scene",
+                "enjoying the view from the window",
+                "appears to be relaxed and comfortable"
+            ],
+            "scenes_and_places": [
+                "a fluffy black cat lying on a pillow",
+                "a cat sitting on a window sill",
+                "a grey cat sitting on a windowsill"
+            ],
+            "all_retrieved_words": [
+                "lying on a pillow",
+                "a cat sitting on a window sill",
+                "a fluffy black cat lying on a pillow",
+                "sitting on a windowsill",
+                "calm and peaceful scene",
+                "a grey cat sitting on a windowsill",
+                "enjoying the view from the window",
+                "looking out of the window",
+                "sitting on a window sill",
+                "appears to be relaxed and comfortable"
+            ]
+        }
+    },
+    "prompt0009": {
+        "original_sentence": "A curious cat peers from the window, watching the world outside.",
+        "modifiers": {
+            "actions": [
+                "making a funny sound",
+                "standing in front of a window",
+                "looking out of the window",
+                "wearing a collar",
+                "sitting on a window sill",
+                "holding a cat in her arms"
+            ],
+            "sub_atmospheres": [
+                "enjoying the attention it is getting from the camera",
+                "the cat seems to be enjoying being held by the woman",
+                "enjoying the view from the window",
+                "enjoying the attention"
+            ],
+            "scenes_and_places": [
+                "standing in front of a window with a cat",
+                "a cat",
+                "a cat sitting on a window sill"
+            ],
+            "all_retrieved_words": [
+                "a cat sitting on a window sill",
+                "standing in front of a window with a cat",
+                "a cat",
+                "enjoying the attention it is getting from the camera",
+                "making a funny sound",
+                "enjoying the attention",
+                "standing in front of a window",
+                "enjoying the view from the window",
+                "looking out of the window",
+                "wearing a collar",
+                "the cat seems to be enjoying being held by the woman",
+                "sitting on a window sill",
+                "holding a cat in her arms"
+            ]
+        }
+    },
+    "prompt0010": {
+        "original_sentence": "a horse",
+        "modifiers": {
+            "actions": [
+                "walking around in a field",
+                "running on a brown background",
+                "standing in a field"
+            ],
+            "sub_atmospheres": [
+                "a slow-motion shot of the horse in motion",
+                "appears to be having fun",
+                "practicing her riding skills",
+                "a fun and playful scene",
+                "calm and relaxed"
+            ],
+            "scenes_and_places": [
+                "a horse in a field",
+                "riding a horse",
+                "a silhouette of a horse"
+            ],
+            "all_retrieved_words": [
+                "walking around in a field",
+                "calm and relaxed",
+                "a slow-motion shot of the horse in motion",
+                "running on a brown background",
+                "appears to be having fun",
+                "a horse in a field",
+                "practicing her riding skills",
+                "riding a horse",
+                "a fun and playful scene",
+                "a silhouette of a horse",
+                "standing in a field"
+            ]
+        }
+    },
+    "prompt0011": {
+        "original_sentence": "a pig",
+        "modifiers": {
+            "actions": [
+                "standing",
+                "being fed by a person",
+                "sniffing around a fence",
+                "walking"
+            ],
+            "sub_atmospheres": [
+                "enjoying its meal",
+                "curious and interested in exploring its surroundings",
+                "expressing different emotions"
+            ],
+            "scenes_and_places": [
+                "a close-up of a pig",
+                "a pig in a cage",
+                "a cartoon character of a pig"
+            ],
+            "all_retrieved_words": [
+                "standing",
+                "a close-up of a pig",
+                "enjoying its meal",
+                "expressing different emotions",
+                "curious and interested in exploring its surroundings",
+                "a pig in a cage",
+                "walking",
+                "being fed by a person",
+                "sniffing around a fence",
+                "a cartoon character of a pig"
+            ]
+        }
+    },
+    "prompt0012": {
+        "original_sentence": "a squirrel",
+        "modifiers": {
+            "actions": [
+                "sitting on a shelf",
+                "drinking water from a faucet",
+                "playing in the forest",
+                "running around",
+                "looking out of the window",
+                "looking around"
+            ],
+            "sub_atmospheres": [
+                "curious about its surroundings",
+                "enjoying its drink",
+                "animated",
+                "cartoon-like setting"
+            ],
+            "scenes_and_places": [
+                "an animated squirrel in a cartoon-like setting",
+                "a cartoon of a squirrel",
+                "a close-up view of a squirrel sitting in a store"
+            ],
+            "all_retrieved_words": [
+                "an animated squirrel in a cartoon-like setting",
+                "sitting on a shelf",
+                "drinking water from a faucet",
+                "curious about its surroundings",
+                "playing in the forest",
+                "running around",
+                "animated",
+                "a cartoon of a squirrel",
+                "a close-up view of a squirrel sitting in a store",
+                "looking out of the window",
+                "enjoying its drink",
+                "looking around",
+                "cartoon-like setting"
+            ]
+        }
+    },
+    "prompt0013": {
+        "original_sentence": "a bird",
+        "modifiers": {
+            "actions": [
+                "perched on a branch in a tree",
+                "singing",
+                "lying on the ground",
+                "soaring through the air with its wings flapping"
+            ],
+            "sub_atmospheres": [
+                "appears to be dead",
+                "enjoying its time in the tree",
+                "enjoying its surroundings",
+                "a beautiful and graceful sight"
+            ],
+            "scenes_and_places": [
+                "a bird in a tree",
+                "a bird on the ground",
+                "a bird in flight"
+            ],
+            "all_retrieved_words": [
+                "perched on a branch in a tree",
+                "a bird in a tree",
+                "enjoying its time in the tree",
+                "a bird in flight",
+                "a beautiful and graceful sight",
+                "singing",
+                "appears to be dead",
+                "lying on the ground",
+                "a bird on the ground",
+                "soaring through the air with its wings flapping",
+                "enjoying its surroundings"
+            ]
+        }
+    },
+    "prompt0014": {
+        "original_sentence": "a zebra",
+        "modifiers": {
+            "actions": [
+                "walking across a zebra crossing",
+                "chasing a zebra",
+                "riding on a car"
+            ],
+            "sub_atmospheres": [
+                "enjoying its ride",
+                "the African savannah",
+                "busy street with a lot of traffic"
+            ],
+            "scenes_and_places": [
+                "a cartoon animation of a lion chasing a zebra",
+                "a cartoon character of a zebra riding on a car",
+                "walking on a zebra crossing"
+            ],
+            "all_retrieved_words": [
+                "riding on a car",
+                "walking on a zebra crossing",
+                "a cartoon character of a zebra riding on a car",
+                "a cartoon animation of a lion chasing a zebra",
+                "walking across a zebra crossing",
+                "the African savannah",
+                "chasing a zebra",
+                "busy street with a lot of traffic",
+                "enjoying its ride"
+            ]
+        }
+    },
+    "prompt0029": {
+        "original_sentence": "3 sheep enjoying spaghetti together",
+        "modifiers": {
+            "actions": [
+                "leading a group of sheep",
+                "walking through a desert",
+                "eating from a bowl",
+                "standing in the middle of a group of swords"
+            ],
+            "sub_atmospheres": [
+                "a cartoon-like representation of the sheep",
+                "enjoying its meal",
+                "a shepherd"
+            ],
+            "scenes_and_places": [
+                "3D animation of a sheep",
+                "leading a group of sheep through a desert",
+                "a close-up of a sheep eating"
+            ],
+            "all_retrieved_words": [
+                "leading a group of sheep",
+                "enjoying its meal",
+                "3D animation of a sheep",
+                "leading a group of sheep through a desert",
+                "standing in the middle of a group of swords",
+                "a close-up of a sheep eating",
+                "a shepherd",
+                "a cartoon-like representation of the sheep",
+                "walking through a desert",
+                "eating from a bowl"
+            ]
+        }
+    },
+    "prompt0047": {
+        "original_sentence": "Five dogs on the street.",
+        "modifiers": {
+            "actions": [
+                "walking down the street with a pack of dogs following them",
+                "walking down a street with their dogs",
+                "walking down the street with a group of dogs on leashes",
+                "the dogs follow closely behind him"
+            ],
+            "sub_atmospheres": [
+                "a sense of bustling activity in the area",
+                "a fun and enjoyable activity",
+                "taking good care of them"
+            ],
+            "scenes_and_places": [
+                "walking down the street with a pack of dogs",
+                "walking down a street with their dogs",
+                "walking down the street with a group of dogs"
+            ],
+            "all_retrieved_words": [
+                "walking down the street with a pack of dogs following them",
+                "a sense of bustling activity in the area",
+                "walking down a street with their dogs",
+                "taking good care of them",
+                "the dogs follow closely behind him",
+                "walking down the street with a group of dogs",
+                "walking down the street with a group of dogs on leashes",
+                "a fun and enjoyable activity",
+                "walking down the street with a pack of dogs"
+            ]
+        }
+    },
+    "prompt0066": {
+        "original_sentence": "elon musk in space suit close up of face 4k overlooking mars space base",
+        "modifiers": {
+            "actions": [
+                "speaking into a microphone",
+                "inside a space station",
+                "a cartoon character in space"
+            ],
+            "sub_atmospheres": [
+                "appears to be an astronaut",
+                "a scene from a movie",
+                "portrait of an astronaut"
+            ],
+            "scenes_and_places": [
+                "wearing an astronaut suit",
+                "wearing a space suit",
+                "standing in front of a window while wearing a space suit"
+            ],
+            "all_retrieved_words": [
+                "appears to be an astronaut",
+                "inside a space station",
+                "wearing an astronaut suit",
+                "portrait of an astronaut",
+                "wearing a space suit",
+                "standing in front of a window while wearing a space suit",
+                "a scene from a movie",
+                "a cartoon character in space",
+                "speaking into a microphone"
+            ]
+        }
+    },
+    "prompt0073": {
+        "original_sentence": "Two birds flew around a person, in the style of Sci-Fi",
+        "modifiers": {
+            "actions": [
+                "flying in space",
+                "flying in the sky",
+                "flying in the air with its wings flapping"
+            ],
+            "sub_atmospheres": [
+                "3D animation",
+                "the colorful and captivating animation",
+                "a cartoon-like animation"
+            ],
+            "scenes_and_places": [
+                "an animation of a bird flying in the air",
+                "a cartoon animation of a bird flying in space",
+                "an animation of a bird flying in the sky"
+            ],
+            "all_retrieved_words": [
+                "flying in space",
+                "an animation of a bird flying in the air",
+                "3D animation",
+                "flying in the air with its wings flapping",
+                "an animation of a bird flying in the sky",
+                "a cartoon animation of a bird flying in space",
+                "flying in the sky",
+                "a cartoon-like animation",
+                "the colorful and captivating animation"
+            ]
+        }
+    },
+    "prompt0074": {
+        "original_sentence": "pizza bear and 2 people making 1",
+        "modifiers": {
+            "actions": [
+                "baking in the oven",
+                "rolling out the pizza dough",
+                "kneading the dough",
+                "topping with various ingredients",
+                "shaping it into a circle",
+                "rolling out the dough"
+            ],
+            "sub_atmospheres": [
+                "the process of making pizza from scratch",
+                "preparing dough for making pizza",
+                "the process of making a pizza"
+            ],
+            "scenes_and_places": [
+                "making a pizza",
+                "making pizza from scratch",
+                "making pizza"
+            ],
+            "all_retrieved_words": [
+                "the process of making pizza from scratch",
+                "baking in the oven",
+                "making pizza from scratch",
+                "rolling out the pizza dough",
+                "making a pizza",
+                "kneading the dough",
+                "the process of making a pizza",
+                "topping with various ingredients",
+                "preparing dough for making pizza",
+                "making pizza",
+                "shaping it into a circle",
+                "rolling out the dough"
+            ]
+        }
+    },
+    "prompt0075": {
+        "original_sentence": "A family of five go on a safari, marveling at the sight of majestic giraffes and zebras.",
+        "modifiers": {
+            "actions": [
+                "standing on top of a rock",
+                "walking in the African savannah",
+                "walking down a busy street in a city",
+                "moving slowly and gracefully across the grassy plain"
+            ],
+            "sub_atmospheres": [
+                "creating a warm and serene atmosphere",
+                "enjoying their time in the urban environment",
+                "in a cartoon-like setting"
+            ],
+            "scenes_and_places": [
+                "a group of giraffes walking down a busy street in a city",
+                "a group of giraffes walking in the African savannah during sunset",
+                "among a group of animals, including giraffes, elephants, and zebras"
+            ],
+            "all_retrieved_words": [
+                "standing on top of a rock",
+                "a group of giraffes walking down a busy street in a city",
+                "walking down a busy street in a city",
+                "moving slowly and gracefully across the grassy plain",
+                "a group of giraffes walking in the African savannah during sunset",
+                "among a group of animals, including giraffes, elephants, and zebras",
+                "creating a warm and serene atmosphere",
+                "walking in the African savannah",
+                "enjoying their time in the urban environment",
+                "in a cartoon-like setting"
+            ]
+        }
+    },
+    "prompt0076": {
+        "original_sentence": "A farmer tends to a flock of twenty sheep, shearing their wool and counting them to make sure none are missing.",
+        "modifiers": {
+            "actions": [
+                "herding the sheep",
+                "working together to shear a flock of sheep",
+                "using a pair of scissors to cut the wool",
+                "being sheared by a man wearing a suit",
+                "following closely behind"
+            ],
+            "sub_atmospheres": [
+                "rural setting",
+                "a demonstration of the process of shearing a sheep",
+                "appears to be a busy and organized operation"
+            ],
+            "scenes_and_places": [
+                "shearing a sheep",
+                "herding sheep in a rural setting",
+                "shearing sheep in a barn"
+            ],
+            "all_retrieved_words": [
+                "herding the sheep",
+                "working together to shear a flock of sheep",
+                "using a pair of scissors to cut the wool",
+                "shearing a sheep",
+                "appears to be a busy and organized operation",
+                "rural setting",
+                "shearing sheep in a barn",
+                "a demonstration of the process of shearing a sheep",
+                "herding sheep in a rural setting",
+                "being sheared by a man wearing a suit",
+                "following closely behind"
+            ]
+        }
+    },
+    "prompt0078": {
+        "original_sentence": "A family of three take their dog and cat for a walk in the park, enjoying the fresh air and exercise.",
+        "modifiers": {
+            "actions": [
+                "accompanying with a dog",
+                "walking down the street",
+                "sitting on a bench",
+                "wearing face masks",
+                "holding the leash",
+                "walking his cat on a leash"
+            ],
+            "sub_atmospheres": [
+                "enjoying the walk",
+                "taking a leisurely walk on a sunny day",
+                "enjoying their time together"
+            ],
+            "scenes_and_places": [
+                "walking a cat in a park",
+                "a family sitting on a bench in a park",
+                "walking down the street with a family and a dog"
+            ],
+            "all_retrieved_words": [
+                "accompanying with a dog",
+                "walking a cat in a park",
+                "taking a leisurely walk on a sunny day",
+                "enjoying their time together",
+                "walking down the street with a family and a dog",
+                "enjoying the walk",
+                "walking down the street",
+                "a family sitting on a bench in a park",
+                "sitting on a bench",
+                "wearing face masks",
+                "holding the leash",
+                "walking his cat on a leash"
+            ]
+        }
+    },
+    "prompt0079": {
+        "original_sentence": "A team of two marine biologists study a colony of penguins, monitoring their breeding habits.",
+        "modifiers": {
+            "actions": [
+                "singing and dancing together",
+                "moving around and interacting with each other",
+                "talking to another penguin",
+                "standing on a rock"
+            ],
+            "sub_atmospheres": [
+                "having a conversation",
+                "enjoying themselves",
+                "enjoying each other\u2019s company"
+            ],
+            "scenes_and_places": [
+                "a conversation between penguins",
+                "a group of penguins in a zoo",
+                "a group of penguins"
+            ],
+            "all_retrieved_words": [
+                "a group of penguins in a zoo",
+                "talking to another penguin",
+                "a conversation between penguins",
+                "standing on a rock",
+                "moving around and interacting with each other",
+                "enjoying each other\u2019s company",
+                "enjoying themselves",
+                "having a conversation",
+                "singing and dancing together",
+                "a group of penguins"
+            ]
+        }
+    },
+    "prompt0080": {
+        "original_sentence": "Two individuals ride a bike through the temple gates.",
+        "modifiers": {
+            "actions": [
+                "riding a bicycle on a road next to the Golden Gate Bridge",
+                "riding a bicycle around a temple",
+                "riding a bicycle around the temple"
+            ],
+            "sub_atmospheres": [
+                "located in a city",
+                "enjoying his ride",
+                "the temple is decorated with beautiful paintings on the walls"
+            ],
+            "scenes_and_places": [
+                "riding a bicycle on a road next to the Golden Gate Bridge",
+                "riding a bicycle around a temple in a city",
+                "riding a bicycle inside a temple"
+            ],
+            "all_retrieved_words": [
+                "riding a bicycle on a road next to the Golden Gate Bridge",
+                "enjoying his ride",
+                "riding a bicycle around a temple",
+                "riding a bicycle around a temple in a city",
+                "located in a city",
+                "the temple is decorated with beautiful paintings on the walls",
+                "riding a bicycle inside a temple",
+                "riding a bicycle around the temple"
+            ]
+        }
+    },
+    "prompt0082": {
+        "original_sentence": "A young woman with glasses is jogging in the park wearing a pink headband.",
+        "modifiers": {
+            "actions": [
+                "enjoying their run",
+                "listening to music",
+                "jogging",
+                "using a stick to train the dog",
+                "wearing a sports bra and running shoes"
+            ],
+            "sub_atmospheres": [
+                "enjoying their run",
+                "training session for a running club",
+                "creating a serene and peaceful atmosphere",
+                "enjoying the training"
+            ],
+            "scenes_and_places": [
+                "running in a park",
+                "jogging in a park",
+                "being trained by a woman in a park"
+            ],
+            "all_retrieved_words": [
+                "enjoying their run",
+                "listening to music",
+                "jogging in a park",
+                "jogging",
+                "using a stick to train the dog",
+                "creating a serene and peaceful atmosphere",
+                "training session for a running club",
+                "wearing a sports bra and running shoes",
+                "enjoying the training",
+                "being trained by a woman in a park",
+                "running in a park"
+            ]
+        }
+    },
+    "prompt0083": {
+        "original_sentence": "six people are singing together. One person is a young African-American woman with curly black hair, wearing a red dress. The other person is a middle-aged Caucasian man with short blonde hair, wearing a blue shirt.",
+        "modifiers": {
+            "actions": [
+                "singing along with him",
+                "singing and dancing together",
+                "singing into a microphone",
+                "performing a musical number"
+            ],
+            "sub_atmospheres": [
+                "having a good time",
+                "dressed as Egyptians",
+                "musical performance",
+                "enjoying themselves and having a good time"
+            ],
+            "scenes_and_places": [
+                "a group of people singing and dancing together",
+                "singing with a group of people dressed in colorful costumes",
+                "singing with a group of people"
+            ],
+            "all_retrieved_words": [
+                "having a good time",
+                "musical performance",
+                "singing with a group of people dressed in colorful costumes",
+                "singing and dancing together",
+                "performing a musical number",
+                "singing into a microphone",
+                "enjoying themselves and having a good time",
+                "dressed as Egyptians",
+                "a group of people singing and dancing together",
+                "singing along with him",
+                "singing with a group of people"
+            ]
+        }
+    },
+    "prompt0084": {
+        "original_sentence": "Two child sleeping beside each other on a comfortable blue bed with beige pillows.",
+        "modifiers": {
+            "actions": [
+                "sleeping peacefully in a bed",
+                "sleeping in a bed",
+                "a mother dog and her puppies sleeping together",
+                "sleeping together in a bed"
+            ],
+            "sub_atmospheres": [
+                "peaceful and cozy scene",
+                "appears to be resting comfortably",
+                "a peaceful moment between the two"
+            ],
+            "scenes_and_places": [
+                "sleeping together on a bed",
+                "sleeping together in a bed",
+                "a child sleeping in a bed"
+            ],
+            "all_retrieved_words": [
+                "sleeping in a bed",
+                "sleeping together in a bed",
+                "a child sleeping in a bed",
+                "sleeping peacefully in a bed",
+                "peaceful and cozy scene",
+                "appears to be resting comfortably",
+                "sleeping together on a bed",
+                "a mother dog and her puppies sleeping together",
+                "a peaceful moment between the two"
+            ]
+        }
+    },
+    "prompt0085": {
+        "original_sentence": "Two people kicking soccer ball beside a truck at police station",
+        "modifiers": {
+            "actions": [
+                "kicking a soccer ball",
+                "kicking a soccer ball around"
+            ],
+            "sub_atmospheres": [
+                "practicing his soccer skills",
+                "practicing his skills"
+            ],
+            "scenes_and_places": [
+                "kicking a soccer ball in a city square",
+                "kicking a soccer ball in a field",
+                "kicking a soccer ball on the street"
+            ],
+            "all_retrieved_words": [
+                "kicking a soccer ball",
+                "kicking a soccer ball in a city square",
+                "kicking a soccer ball in a field",
+                "practicing his skills",
+                "practicing his soccer skills",
+                "kicking a soccer ball around",
+                "kicking a soccer ball on the street"
+            ]
+        }
+    },
+    "prompt0088": {
+        "original_sentence": "michel jordan playing basketball",
+        "modifiers": {
+            "actions": [
+                "dribbling the ball while running on the court",
+                "taking shots at the basket",
+                "wearing a face mask",
+                "running on the court"
+            ],
+            "sub_atmospheres": [
+                "enjoying themselves while playing the game",
+                "having a good time playing the game together",
+                "appears to be focused on the game",
+                "appears to be having fun while playing the game"
+            ],
+            "scenes_and_places": [
+                "playing a game of basketball",
+                "playing basketball in a gym",
+                "playing basketball",
+                "playing basketball on the court"
+            ],
+            "all_retrieved_words": [
+                "playing basketball on the court",
+                "wearing a face mask",
+                "dribbling the ball while running on the court",
+                "running on the court",
+                "appears to be focused on the game",
+                "enjoying themselves while playing the game",
+                "taking shots at the basket",
+                "playing basketball in a gym",
+                "playing basketball",
+                "playing a game of basketball",
+                "having a good time playing the game together",
+                "appears to be having fun while playing the game"
+            ]
+        }
+    },
+    "prompt0089": {
+        "original_sentence": "Hawaiian woman playing a ukulele",
+        "modifiers": {
+            "actions": [
+                "playing the ukulele",
+                "playing a ukulele"
+            ],
+            "sub_atmospheres": [
+                "smiling on her face",
+                "enjoying himself",
+                "appears to be having a good time",
+                "enjoying themselves"
+            ],
+            "scenes_and_places": [
+                "a small figurine of a Hawaiian woman playing a ukulele",
+                "playing the ukulele",
+                "playing the ukulele while a man watches her"
+            ],
+            "all_retrieved_words": [
+                "smiling on her face",
+                "playing the ukulele",
+                "appears to be having a good time",
+                "a small figurine of a Hawaiian woman playing a ukulele",
+                "enjoying themselves",
+                "enjoying himself",
+                "playing a ukulele",
+                "playing the ukulele while a man watches her"
+            ]
+        }
+    },
+    "prompt0091": {
+        "original_sentence": "Joe Biden as a rapper throwing money",
+        "modifiers": {
+            "actions": [
+                "throwing money up in the air",
+                "standing in front of a group of people",
+                "playing with money on the ground"
+            ],
+            "sub_atmospheres": [
+                "a casual and lighthearted activity",
+                "music video",
+                "waiting for him to start his performance"
+            ],
+            "scenes_and_places": [
+                "throwing money in a music video",
+                "playing with money",
+                "performing as a rapper or a performer"
+            ],
+            "all_retrieved_words": [
+                "throwing money up in the air",
+                "throwing money in a music video",
+                "a casual and lighthearted activity",
+                "playing with money",
+                "waiting for him to start his performance",
+                "playing with money on the ground",
+                "music video",
+                "performing as a rapper or a performer",
+                "standing in front of a group of people"
+            ]
+        }
+    },
+    "prompt0092": {
+        "original_sentence": "man driving in a taxi, angry face",
+        "modifiers": {
+            "actions": [
+                "riding in a taxi",
+                "getting out of his car",
+                "a busy city street",
+                "walking towards the camera"
+            ],
+            "sub_atmospheres": [
+                "driving carefully and smoothly",
+                "appears to be in a hurry",
+                "enjoying the ride",
+                "focused on the road ahead"
+            ],
+            "scenes_and_places": [
+                "riding in a taxi",
+                "driving a taxi",
+                "a taxi driver getting out of his car"
+            ],
+            "all_retrieved_words": [
+                "driving a taxi",
+                "appears to be in a hurry",
+                "getting out of his car",
+                "a busy city street",
+                "focused on the road ahead",
+                "driving carefully and smoothly",
+                "enjoying the ride",
+                "walking towards the camera",
+                "riding in a taxi",
+                "a taxi driver getting out of his car"
+            ]
+        }
+    },
+    "prompt0093": {
+        "original_sentence": "Two people playing rock-paper-scissors. They are laughing and having fun.",
+        "modifiers": {
+            "actions": [
+                "playing a game in a room",
+                "playing in a colorful neighborhood",
+                "playing outdoors"
+            ],
+            "sub_atmospheres": [
+                "a fun and joyful moment",
+                "having fun",
+                "sitting on a couch and playing cards",
+                "having fun while playing the game"
+            ],
+            "scenes_and_places": [
+                "playing with each other",
+                "playing a game together",
+                "sitting on a couch and playing cards",
+                "playing a game of rock, paper, scissors"
+            ],
+            "all_retrieved_words": [
+                "playing outdoors",
+                "playing in a colorful neighborhood",
+                "playing a game together",
+                "playing a game of rock, paper, scissors",
+                "playing with each other",
+                "playing a game in a room",
+                "a fun and joyful moment",
+                "sitting on a couch and playing cards",
+                "having fun",
+                "having fun while playing the game"
+            ]
+        }
+    },
+    "prompt0098": {
+        "original_sentence": "A person scuba dives in a deep blue ocean.",
+        "modifiers": {
+            "actions": [
+                "diving into the water",
+                "exploring the underwater world",
+                "exploring the ocean floor",
+                "looking around",
+                "exploring the depths of the ocean",
+                "swimming through the ocean"
+            ],
+            "sub_atmospheres": [
+                "the beauty of the coral reefs",
+                "exploring the underwater world",
+                "the underwater world",
+                "enjoying the experience"
+            ],
+            "scenes_and_places": [
+                "scuba diving in the ocean",
+                "diving underwater in the ocean",
+                "diving in the ocean"
+            ],
+            "all_retrieved_words": [
+                "diving underwater in the ocean",
+                "diving into the water",
+                "diving in the ocean",
+                "enjoying the experience",
+                "exploring the underwater world",
+                "the beauty of the coral reefs",
+                "scuba diving in the ocean",
+                "exploring the ocean floor",
+                "looking around",
+                "exploring the depths of the ocean",
+                "the underwater world",
+                "swimming through the ocean"
+            ]
+        }
+    },
+    "prompt0100": {
+        "original_sentence": "Bruce Lee shout like a lion ,wild fighter",
+        "modifiers": {
+            "actions": [
+                "fighting",
+                "walking towards the camera"
+            ],
+            "sub_atmospheres": [
+                "an intense and action-packed match",
+                "curious about its surroundings",
+                "a fierce look on its face"
+            ],
+            "scenes_and_places": [
+                "a majestic lion",
+                "a fight between Bruce Lee and Chuck Norris",
+                "a cartoon character of a lion"
+            ],
+            "all_retrieved_words": [
+                "an intense and action-packed match",
+                "curious about its surroundings",
+                "a majestic lion",
+                "a cartoon character of a lion",
+                "fighting",
+                "walking towards the camera",
+                "a fight between Bruce Lee and Chuck Norris",
+                "a fierce look on its face"
+            ]
+        }
+    },
+    "prompt0102": {
+        "original_sentence": "Kanye West eating spaghetti",
+        "modifiers": {
+            "actions": [
+                "eating spaghetti",
+                "eating spaghetti with a fork and spoon",
+                "sitting at a table",
+                "eating spaghetti with a fork",
+                "using a fork to eat spaghetti with meat sauce"
+            ],
+            "sub_atmospheres": [
+                "appears to be a simple yet delicious meal",
+                "appears to be enjoying her meal",
+                "enjoying his meal",
+                "enjoying her meal"
+            ],
+            "scenes_and_places": [
+                "eating spaghetti with meat sauce",
+                "eating spaghetti while sitting at a table",
+                "eating spaghetti"
+            ],
+            "all_retrieved_words": [
+                "enjoying his meal",
+                "eating spaghetti while sitting at a table",
+                "appears to be a simple yet delicious meal",
+                "eating spaghetti",
+                "eating spaghetti with a fork and spoon",
+                "sitting at a table",
+                "eating spaghetti with meat sauce",
+                "enjoying her meal",
+                "eating spaghetti with a fork",
+                "using a fork to eat spaghetti with meat sauce",
+                "appears to be enjoying her meal"
+            ]
+        }
+    },
+    "prompt0176": {
+        "original_sentence": "A beautiful leather handbag caught my eye in the store window. It had a classic shape and was a rich cognac color. The material was soft and supple. The golden text label on the front read 'Michael Kors'.",
+        "modifiers": {
+            "actions": [
+                "looking at the handbags",
+                "standing in front of a display of handbags",
+                "hanging from the ceiling",
+                "hanging on a wall"
+            ],
+            "sub_atmospheres": [
+                "different colors and styles",
+                "appears to be interested in them",
+                "unique design"
+            ],
+            "scenes_and_places": [
+                "a colorful handbag",
+                "a collection of handbags",
+                "a display of handbags in a store"
+            ],
+            "all_retrieved_words": [
+                "appears to be interested in them",
+                "a colorful handbag",
+                "unique design",
+                "hanging on a wall",
+                "different colors and styles",
+                "a display of handbags in a store",
+                "hanging from the ceiling",
+                "looking at the handbags",
+                "standing in front of a display of handbags",
+                "a collection of handbags"
+            ]
+        }
+    },
+    "prompt0178": {
+        "original_sentence": "Red knife cuts string of kite",
+        "modifiers": {
+            "actions": [
+                "being flown in the air",
+                "cutting and folding the material to make the kite"
+            ],
+            "sub_atmospheres": [
+                "enjoying the process of making the kite together",
+                "enjoying herself",
+                "fun and enjoyable activity for everyone involved",
+                "the glowing effect"
+            ],
+            "scenes_and_places": [
+                "playing with a kite",
+                "a kite that is being flown",
+                "creating a kite"
+            ],
+            "all_retrieved_words": [
+                "playing with a kite",
+                "a kite that is being flown",
+                "creating a kite",
+                "being flown in the air",
+                "enjoying the process of making the kite together",
+                "enjoying herself",
+                "cutting and folding the material to make the kite",
+                "fun and enjoyable activity for everyone involved",
+                "the glowing effect"
+            ]
+        }
+    },
+    "prompt0180": {
+        "original_sentence": "A bright yellow umbrella with a wooden handle. It's compact easy to carry.",
+        "modifiers": {
+            "actions": [
+                "hanging outside a building",
+                "shielding themselves from the rain",
+                "covering the entrance",
+                "holding an umbrella"
+            ],
+            "sub_atmospheres": [
+                "the beauty of the umbrellas",
+                "raining outside",
+                "a restaurant"
+            ],
+            "scenes_and_places": [
+                "we can see a yellow umbrella that is attached to the side of a building",
+                "a building with colorful umbrellas",
+                "a close-up view of a person holding an umbrella"
+            ],
+            "all_retrieved_words": [
+                "raining outside",
+                "holding an umbrella",
+                "we can see a yellow umbrella that is attached to the side of a building",
+                "hanging outside a building",
+                "shielding themselves from the rain",
+                "the beauty of the umbrellas",
+                "a building with colorful umbrellas",
+                "covering the entrance",
+                "a close-up view of a person holding an umbrella",
+                "a restaurant"
+            ]
+        }
+    },
+    "prompt0188": {
+        "original_sentence": "A bright red eight-sided sign with white lettering displaying the word 'STOP' in the center.",
+        "modifiers": {
+            "actions": [
+                "located in a residential area at night",
+                "standing in front of a stop sign",
+                "none"
+            ],
+            "sub_atmospheres": [
+                "waiting for something or someone",
+                "a no smoking sign",
+                "illuminated by streetlights"
+            ],
+            "scenes_and_places": [
+                "a close-up of a sign",
+                "a stop sign in a residential area",
+                "standing in front of a stop sign"
+            ],
+            "all_retrieved_words": [
+                "a close-up of a sign",
+                "a stop sign in a residential area",
+                "standing in front of a stop sign",
+                "a no smoking sign",
+                "none",
+                "located in a residential area at night",
+                "waiting for something or someone",
+                "illuminated by streetlights"
+            ]
+        }
+    },
+    "prompt0189": {
+        "original_sentence": "A silver cell phone lays next to a red fire hydrant.",
+        "modifiers": {
+            "actions": [
+                "standing next to a fire hydrant",
+                "surrounded by colorful confetti",
+                "looking around nervously",
+                "standing next to a red fire hydrant",
+                "looking at it closely"
+            ],
+            "sub_atmospheres": [
+                "curious about the fire hydrant",
+                "celebration of some sort",
+                "appears to be a firefighter",
+                "appears to be in a hurry"
+            ],
+            "scenes_and_places": [
+                "a red fire hydrant in the middle of a street",
+                "standing next to a fire hydrant",
+                "next to a red fire hydrant"
+            ],
+            "all_retrieved_words": [
+                "standing next to a fire hydrant",
+                "appears to be a firefighter",
+                "next to a red fire hydrant",
+                "surrounded by colorful confetti",
+                "curious about the fire hydrant",
+                "appears to be in a hurry",
+                "celebration of some sort",
+                "looking around nervously",
+                "standing next to a red fire hydrant",
+                "a red fire hydrant in the middle of a street",
+                "looking at it closely"
+            ]
+        }
+    },
+    "prompt0191": {
+        "original_sentence": "the 'KEEP OFF THE GRASS'",
+        "modifiers": {
+            "actions": [
+                "using a lawn mower to cut the grass",
+                "performing acrobatic moves",
+                "lying on the grass",
+                "pecking at the ground",
+                "walking on the grass"
+            ],
+            "sub_atmospheres": [
+                "enjoying their time outdoors",
+                "calm and peaceful scene",
+                "casual outdoor setting",
+                "appears to be very focused on his task",
+                "engaged in some kind of activity"
+            ],
+            "scenes_and_places": [
+                "cutting the grass",
+                "on the grass",
+                "walking on the grass"
+            ],
+            "all_retrieved_words": [
+                "on the grass",
+                "enjoying their time outdoors",
+                "using a lawn mower to cut the grass",
+                "cutting the grass",
+                "calm and peaceful scene",
+                "casual outdoor setting",
+                "performing acrobatic moves",
+                "appears to be very focused on his task",
+                "engaged in some kind of activity",
+                "lying on the grass",
+                "pecking at the ground",
+                "walking on the grass"
+            ]
+        }
+    },
+    "prompt0192": {
+        "original_sentence": "the words 'KEEP OFF THE GRASS' written on a brick wall",
+        "modifiers": {
+            "actions": [
+                "trying to escape from a brick wall",
+                "growing on it",
+                "snow falling on it",
+                "writing in a notebook",
+                "holding a pen"
+            ],
+            "sub_atmospheres": [
+                "thriving in the sunlight",
+                "appears to be focused on their writing",
+                "creating a dramatic effect",
+                "dark and eerie atmosphere"
+            ],
+            "scenes_and_places": [
+                "a brick wall",
+                "writing on the grass",
+                "a brick wall with plants"
+            ],
+            "all_retrieved_words": [
+                "thriving in the sunlight",
+                "trying to escape from a brick wall",
+                "a brick wall",
+                "appears to be focused on their writing",
+                "writing on the grass",
+                "a brick wall with plants",
+                "growing on it",
+                "snow falling on it",
+                "writing in a notebook",
+                "holding a pen",
+                "creating a dramatic effect",
+                "dark and eerie atmosphere"
+            ]
+        }
+    },
+    "prompt0193": {
+        "original_sentence": "the words 'KEEP OFF THE GRASS' on a black sticker",
+        "modifiers": {
+            "actions": [
+                "writing in a notebook",
+                "holding a pen",
+                "swaying in the wind",
+                "waiting for something or someone",
+                "blowing in the wind",
+                "sitting on the grass"
+            ],
+            "sub_atmospheres": [
+                "a calm and peaceful scene",
+                "appears to be focused on their writing",
+                "movement of the grass as it blows in the wind",
+                "a close-up view of grass with dew drops on it"
+            ],
+            "scenes_and_places": [
+                "a close-up view of grass",
+                "sitting on the grass with a sign",
+                "writing on the grass"
+            ],
+            "all_retrieved_words": [
+                "a calm and peaceful scene",
+                "appears to be focused on their writing",
+                "a close-up view of grass",
+                "writing on the grass",
+                "writing in a notebook",
+                "holding a pen",
+                "swaying in the wind",
+                "movement of the grass as it blows in the wind",
+                "a close-up view of grass with dew drops on it",
+                "waiting for something or someone",
+                "sitting on the grass with a sign",
+                "blowing in the wind",
+                "sitting on the grass"
+            ]
+        }
+    },
+    "prompt0194": {
+        "original_sentence": "the words 'KEEP OFF THE GRASS' on a sign next to a lawn",
+        "modifiers": {
+            "actions": [
+                "holding a pen",
+                "moving and shining in the sunlight",
+                "waiting for something or someone",
+                "blowing in the wind",
+                "sitting on the grass"
+            ],
+            "sub_atmospheres": [
+                "calm and peaceful scene",
+                "a calm and peaceful scene",
+                "appears to be focused on their writing",
+                "a close-up view of grass with dew drops on it"
+            ],
+            "scenes_and_places": [
+                "a close-up view of grass",
+                "sitting on the grass with a sign",
+                "writing on the grass"
+            ],
+            "all_retrieved_words": [
+                "a calm and peaceful scene",
+                "appears to be focused on their writing",
+                "a close-up view of grass",
+                "writing on the grass",
+                "calm and peaceful scene",
+                "holding a pen",
+                "moving and shining in the sunlight",
+                "a close-up view of grass with dew drops on it",
+                "waiting for something or someone",
+                "sitting on the grass with a sign",
+                "blowing in the wind",
+                "sitting on the grass"
+            ]
+        }
+    },
+    "prompt0195": {
+        "original_sentence": "the word 'START'",
+        "modifiers": {
+            "actions": [
+                "looking at the contents inside",
+                "sitting in a car",
+                "waiting for something",
+                "standing in a line",
+                "waiting for something to happen"
+            ],
+            "sub_atmospheres": [
+                "they are waiting for a race to begin",
+                "it appears to be a letter",
+                "a race track"
+            ],
+            "scenes_and_places": [
+                "opening a letter",
+                "waiting for their turn to start the race",
+                "waiting for a race to begin"
+            ],
+            "all_retrieved_words": [
+                "opening a letter",
+                "looking at the contents inside",
+                "sitting in a car",
+                "waiting for something",
+                "it appears to be a letter",
+                "a race track",
+                "standing in a line",
+                "they are waiting for a race to begin",
+                "waiting for a race to begin",
+                "waiting for something to happen",
+                "waiting for their turn to start the race"
+            ]
+        }
+    },
+    "prompt0196": {
+        "original_sentence": "word the 'START' written on a street surface",
+        "modifiers": {
+            "actions": [
+                "carrying sticks",
+                "holding a stick in his hand",
+                "walking on the sidewalk",
+                "people walking on the street",
+                "accompanied by a dog",
+                "walking down a cobblestone street"
+            ],
+            "sub_atmospheres": [
+                "a lively and energetic performance",
+                "appear to be on a mission",
+                "part of a parade or a reenactment of a historical event",
+                "appears to be angry",
+                "a street scene where a man is lying on the ground"
+            ],
+            "scenes_and_places": [
+                "a street scene where a man is lying on the ground",
+                "a cobblestone street",
+                "a street scene",
+                "a street"
+            ],
+            "all_retrieved_words": [
+                "carrying sticks",
+                "holding a stick in his hand",
+                "a lively and energetic performance",
+                "a street scene",
+                "appear to be on a mission",
+                "walking on the sidewalk",
+                "part of a parade or a reenactment of a historical event",
+                "appears to be angry",
+                "a street scene where a man is lying on the ground",
+                "a cobblestone street",
+                "people walking on the street",
+                "accompanied by a dog",
+                "walking down a cobblestone street",
+                "a street"
+            ]
+        }
+    },
+    "prompt0197": {
+        "original_sentence": "the word 'START' on a blue t-shirt",
+        "modifiers": {
+            "actions": [
+                "lying on the floor in a room",
+                "hanging on a hanger"
+            ],
+            "sub_atmospheres": [
+                "enjoying himself",
+                "discussing something related to the sword",
+                "appears to be a quote from a movie or a book",
+                "seems to be surprised or shocked"
+            ],
+            "scenes_and_places": [
+                "a white t-shirt",
+                "wearing a blue shirt",
+                "wearing a blue shirt and glasses"
+            ],
+            "all_retrieved_words": [
+                "appears to be a quote from a movie or a book",
+                "discussing something related to the sword",
+                "seems to be surprised or shocked",
+                "hanging on a hanger",
+                "wearing a blue shirt",
+                "wearing a blue shirt and glasses",
+                "enjoying himself",
+                "lying on the floor in a room",
+                "a white t-shirt"
+            ]
+        }
+    },
+    "prompt0198": {
+        "original_sentence": "the word 'START' written above the in word 'SMILING'",
+        "modifiers": {
+            "actions": [
+                "smiling",
+                "applying makeup",
+                "looking directly at the camera",
+                "standing in front of servers in a data center"
+            ],
+            "sub_atmospheres": [
+                "riding a snowboard down a snowy slope",
+                "appears to be happy",
+                "diving in the water"
+            ],
+            "scenes_and_places": [
+                "riding a snowboard down a snowy slope",
+                "smiling in front of the camera",
+                "diving in the water",
+                "smiling",
+                "smiling at the camera"
+            ],
+            "all_retrieved_words": [
+                "riding a snowboard down a snowy slope",
+                "smiling in front of the camera",
+                "appears to be happy",
+                "looking directly at the camera",
+                "standing in front of servers in a data center",
+                "diving in the water",
+                "smiling",
+                "applying makeup",
+                "smiling at the camera"
+            ]
+        }
+    },
+    "prompt0202": {
+        "original_sentence": "A yellow truck with a sturdy fork lifts a pile of wooden blocks. The truck has a rectangular shape and metal material, with a blue text label 'Toyota' on the hood.",
+        "modifiers": {
+            "actions": [
+                "driving on a road",
+                "moving slowly",
+                "attached to the front of a truck",
+                "carrying a load of scrap metal"
+            ],
+            "sub_atmospheres": [
+                "appears to be a racing truck",
+                "appears to be focused on the road ahead",
+                "decoration"
+            ],
+            "scenes_and_places": [
+                "driving a yellow truck",
+                "a truck carrying scrap metal",
+                "a truck"
+            ],
+            "all_retrieved_words": [
+                "decoration",
+                "appears to be a racing truck",
+                "moving slowly",
+                "a truck",
+                "driving a yellow truck",
+                "driving on a road",
+                "carrying a load of scrap metal",
+                "a truck carrying scrap metal",
+                "appears to be focused on the road ahead",
+                "attached to the front of a truck"
+            ]
+        }
+    },
+    "prompt0204": {
+        "original_sentence": "A colorful street scene with a red bicycle, a yellow truck, a blue car and a green scooter.",
+        "modifiers": {
+            "actions": [
+                "riding in a truck",
+                "having a ladder on top of it",
+                "passing each other on the road",
+                "driving on a road",
+                "driving down a street"
+            ],
+            "sub_atmospheres": [
+                "having a good time",
+                "enjoying the ride",
+                "focused on their driving",
+                "appears to be a utility vehicle"
+            ],
+            "scenes_and_places": [
+                "a road with trucks of different sizes and colors",
+                "a green and yellow truck driving down a street",
+                "riding in a colorful and decorated truck"
+            ],
+            "all_retrieved_words": [
+                "having a good time",
+                "riding in a truck",
+                "having a ladder on top of it",
+                "focused on their driving",
+                "appears to be a utility vehicle",
+                "passing each other on the road",
+                "a green and yellow truck driving down a street",
+                "driving on a road",
+                "enjoying the ride",
+                "driving down a street",
+                "a road with trucks of different sizes and colors",
+                "riding in a colorful and decorated truck"
+            ]
+        }
+    },
+    "prompt0205": {
+        "original_sentence": "A grey Yamaha motorcycle and a yellow Trek bicycle race.",
+        "modifiers": {
+            "actions": [
+                "riding their bikes",
+                "competing against each other",
+                "lining up their bikes",
+                "riding a motorcycle",
+                "getting ready to start the race",
+                "competing in a race"
+            ],
+            "sub_atmospheres": [
+                "a competitive atmosphere",
+                "preparing for a race",
+                "a group of people cheering him on"
+            ],
+            "scenes_and_places": [
+                "riding a motorcycle in a race",
+                "a bike race",
+                "a motorcycle race"
+            ],
+            "all_retrieved_words": [
+                "riding their bikes",
+                "a motorcycle race",
+                "competing against each other",
+                "preparing for a race",
+                "lining up their bikes",
+                "a competitive atmosphere",
+                "riding a motorcycle in a race",
+                "a group of people cheering him on",
+                "riding a motorcycle",
+                "getting ready to start the race",
+                "a bike race",
+                "competing in a race"
+            ]
+        }
+    },
+    "prompt0210": {
+        "original_sentence": "a blue pickup truck with a rhinoceros in its flatbed",
+        "modifiers": {
+            "actions": [
+                "sleeping on the bed",
+                "moving slowly",
+                "attached to the front of a truck",
+                "riding in a truck while holding a banner"
+            ],
+            "sub_atmospheres": [
+                "appears to be sleeping",
+                "decoration",
+                "having a good time"
+            ],
+            "scenes_and_places": [
+                "a truck with a bed in the back",
+                "a truck",
+                "riding in a flatbed truck"
+            ],
+            "all_retrieved_words": [
+                "having a good time",
+                "decoration",
+                "appears to be sleeping",
+                "moving slowly",
+                "a truck with a bed in the back",
+                "a truck",
+                "riding in a truck while holding a banner",
+                "sleeping on the bed",
+                "riding in a flatbed truck",
+                "attached to the front of a truck"
+            ]
+        }
+    },
+    "prompt0211": {
+        "original_sentence": "an orange pickup truck next to a yellow Porsche 911",
+        "modifiers": {
+            "actions": [
+                "moving slowly",
+                "parked on the side of the road",
+                "dressed up as cowboys and cowgirls",
+                "attached to the front of a truck",
+                "performing a play"
+            ],
+            "sub_atmospheres": [
+                "having a lot of fun",
+                "decoration",
+                "construction vehicle"
+            ],
+            "scenes_and_places": [
+                "near a truck",
+                "a close-up view of a truck",
+                "a truck"
+            ],
+            "all_retrieved_words": [
+                "decoration",
+                "a close-up view of a truck",
+                "near a truck",
+                "moving slowly",
+                "a truck",
+                "parked on the side of the road",
+                "having a lot of fun",
+                "construction vehicle",
+                "dressed up as cowboys and cowgirls",
+                "attached to the front of a truck",
+                "performing a play"
+            ]
+        }
+    },
+    "prompt0238": {
+        "original_sentence": "an yellow clock is ticking on a wooden table",
+        "modifiers": {
+            "actions": [
+                "spinning",
+                "tick",
+                "spinning on a table",
+                "papers flying around it"
+            ],
+            "sub_atmospheres": [
+                "a room with a fireplace",
+                "3D animation",
+                "appears to be an old-fashioned clock",
+                "the sound can be heard clearly"
+            ],
+            "scenes_and_places": [
+                "a red and yellow clock",
+                "a close-up view of an alarm clock on a wooden table",
+                "a clock on a table"
+            ],
+            "all_retrieved_words": [
+                "spinning",
+                "the sound can be heard clearly",
+                "papers flying around it",
+                "a close-up view of an alarm clock on a wooden table",
+                "tick",
+                "3D animation",
+                "spinning on a table",
+                "appears to be an old-fashioned clock",
+                "a clock on a table",
+                "a room with a fireplace",
+                "a red and yellow clock"
+            ]
+        }
+    },
+    "prompt0409": {
+        "original_sentence": "orange and white cat., slow motion",
+        "modifiers": {
+            "actions": [
+                "lined up in a row",
+                "jumping and running around",
+                "has a surprised expression"
+            ],
+            "sub_atmospheres": [
+                "a display of some kind",
+                "surprised by something",
+                "a colorful and vibrant animation"
+            ],
+            "scenes_and_places": [
+                "a cartoon cat",
+                "a display of white cats",
+                "an animation of a cat"
+            ],
+            "all_retrieved_words": [
+                "surprised by something",
+                "a colorful and vibrant animation",
+                "a display of white cats",
+                "lined up in a row",
+                "a cartoon cat",
+                "jumping and running around",
+                "an animation of a cat",
+                "a display of some kind",
+                "has a surprised expression"
+            ]
+        }
+    },
+    "prompt0411": {
+        "original_sentence": "slow motion, A bird brown and a blue bear.",
+        "modifiers": {
+            "actions": [
+                "perched on a tree branch",
+                "walking through the trees and bushes in the forest",
+                "rolling around on the ground"
+            ],
+            "sub_atmospheres": [
+                "created using Adobe After Effects software",
+                "enjoying itself",
+                "enjoying its surroundings"
+            ],
+            "scenes_and_places": [
+                "a cartoon animation of a bird",
+                "a brown bear",
+                "an animation of a bear in a forest"
+            ],
+            "all_retrieved_words": [
+                "walking through the trees and bushes in the forest",
+                "rolling around on the ground",
+                "a cartoon animation of a bird",
+                "a brown bear",
+                "enjoying itself",
+                "created using Adobe After Effects software",
+                "an animation of a bear in a forest",
+                "perched on a tree branch",
+                "enjoying its surroundings"
+            ]
+        }
+    },
+    "prompt0413": {
+        "original_sentence": "a snail, the large motion",
+        "modifiers": {
+            "actions": [
+                "talking to it",
+                "looking at a snail",
+                "wearing a jacket",
+                "being on a table",
+                "holding a snail close to his face"
+            ],
+            "sub_atmospheres": [
+                "observing the snail closely",
+                "trying to communicate with the snail",
+                "appears to be a toy or a decorative item"
+            ],
+            "scenes_and_places": [
+                "a close-up of a snail on a table",
+                "observing a snail",
+                "interacting with a snail"
+            ],
+            "all_retrieved_words": [
+                "talking to it",
+                "looking at a snail",
+                "interacting with a snail",
+                "wearing a jacket",
+                "trying to communicate with the snail",
+                "observing the snail closely",
+                "observing a snail",
+                "appears to be a toy or a decorative item",
+                "being on a table",
+                "holding a snail close to his face",
+                "a close-up of a snail on a table"
+            ]
+        }
+    },
+    "prompt0426": {
+        "original_sentence": "large motion, A group of six rabbits dressed in Victorian attire gathers for a garden tea party.",
+        "modifiers": {
+            "actions": [
+                "having a good time",
+                "wearing rabbit ears on their heads",
+                "dancing",
+                "playing a game",
+                "enjoying a tea party",
+                "laughing together"
+            ],
+            "sub_atmospheres": [
+                "a fun and lively event",
+                "having a lot of fun",
+                "creating a festive atmosphere"
+            ],
+            "scenes_and_places": [
+                "a room dressed in rabbit costumes",
+                "a tea party in a circus tent",
+                "dancing in bunny costumes"
+            ],
+            "all_retrieved_words": [
+                "having a good time",
+                "wearing rabbit ears on their heads",
+                "creating a festive atmosphere",
+                "a tea party in a circus tent",
+                "a fun and lively event",
+                "dancing",
+                "playing a game",
+                "having a lot of fun",
+                "a room dressed in rabbit costumes",
+                "dancing in bunny costumes",
+                "enjoying a tea party",
+                "laughing together"
+            ]
+        }
+    },
+    "prompt0429": {
+        "original_sentence": "A man with a tailored suit, a pocket square, and a distinguished air., slow motion",
+        "modifiers": {
+            "actions": [
+                "holding a gun",
+                "making a peace sign with his hand",
+                "pointing it towards the camera",
+                "holding his head in his hands",
+                "holding his knee"
+            ],
+            "sub_atmospheres": [
+                "appears to be in pain",
+                "appears to be stressed or upset",
+                "angry and agitated",
+                "appears to be smiling"
+            ],
+            "scenes_and_places": [
+                "a man wearing a suit",
+                "a man in a suit",
+                "a close-up of a man\u2019s face as he paints",
+                "a man dressed in a suit"
+            ],
+            "all_retrieved_words": [
+                "holding a gun",
+                "angry and agitated",
+                "making a peace sign with his hand",
+                "appears to be smiling",
+                "appears to be in pain",
+                "pointing it towards the camera",
+                "holding his head in his hands",
+                "a man in a suit",
+                "a man dressed in a suit",
+                "a man wearing a suit",
+                "holding his knee",
+                "appears to be stressed or upset",
+                "a close-up of a man\u2019s face as he paints"
+            ]
+        }
+    },
+    "prompt0436": {
+        "original_sentence": "large motion, Surrounded by butterflies, a girl walks through a lush garden.",
+        "modifiers": {
+            "actions": [
+                "butterflies flying around",
+                "shining over a field",
+                "walking through a beautiful garden filled with flowers",
+                "posing for the camera",
+                "enjoying her time in the garden"
+            ],
+            "sub_atmospheres": [
+                "the peaceful surroundings",
+                "creates a serene atmosphere",
+                "the beauty of the field with flowers",
+                "romantic and elegant"
+            ],
+            "scenes_and_places": [
+                "a field with flowers and butterflies",
+                "surrounded by flowers and a butterfly",
+                "walking through a beautiful garden"
+            ],
+            "all_retrieved_words": [
+                "romantic and elegant",
+                "butterflies flying around",
+                "the beauty of the field with flowers",
+                "walking through a beautiful garden",
+                "shining over a field",
+                "a field with flowers and butterflies",
+                "creates a serene atmosphere",
+                "surrounded by flowers and a butterfly",
+                "walking through a beautiful garden filled with flowers",
+                "posing for the camera",
+                "the peaceful surroundings",
+                "enjoying her time in the garden"
+            ]
+        }
+    },
+    "prompt0439": {
+        "original_sentence": "slow motion, A man finds a colorful parrot perched on his shoulder.",
+        "modifiers": {
+            "actions": [
+                "hanging from a rope in a cage",
+                "perched on a man\u2019s head",
+                "sitting on top of a hat",
+                "eating a banana"
+            ],
+            "sub_atmospheres": [
+                "enjoying its time in the cage",
+                "enjoying its meal",
+                "trying to fly away but is unable to do so"
+            ],
+            "scenes_and_places": [
+                "a bird perched on a man\u2019s head",
+                "a parrot in a cage",
+                "a close-up view of a parrot"
+            ],
+            "all_retrieved_words": [
+                "hanging from a rope in a cage",
+                "perched on a man\u2019s head",
+                "enjoying its meal",
+                "a close-up view of a parrot",
+                "a parrot in a cage",
+                "a bird perched on a man\u2019s head",
+                "enjoying its time in the cage",
+                "sitting on top of a hat",
+                "trying to fly away but is unable to do so",
+                "eating a banana"
+            ]
+        }
+    },
+    "prompt0445": {
+        "original_sentence": "slow motion, a cricketer standing next to a wicket",
+        "modifiers": {
+            "actions": [
+                "standing in the middle of a dirt field",
+                "taking place in a stadium",
+                "watching them play",
+                "sitting on the ground",
+                "being thrown by one of the players",
+                "holding a bat and swinging it towards a man wearing a loincloth"
+            ],
+            "sub_atmospheres": [
+                "a game of cricket being played between the two men",
+                "intense and exciting",
+                "enjoying the game"
+            ],
+            "scenes_and_places": [
+                "a cricket match",
+                "standing in a dirt field playing cricket",
+                "a cricket game"
+            ],
+            "all_retrieved_words": [
+                "a game of cricket being played between the two men",
+                "intense and exciting",
+                "standing in a dirt field playing cricket",
+                "a cricket game",
+                "standing in the middle of a dirt field",
+                "a cricket match",
+                "taking place in a stadium",
+                "enjoying the game",
+                "watching them play",
+                "sitting on the ground",
+                "being thrown by one of the players",
+                "holding a bat and swinging it towards a man wearing a loincloth"
+            ]
+        }
+    },
+    "prompt0447": {
+        "original_sentence": "a young girl playing piano, slow motion",
+        "modifiers": {
+            "actions": [
+                "singing and playing instruments on a stage",
+                "playing the piano",
+                "playing the keys of the piano"
+            ],
+            "sub_atmospheres": [
+                "a close-up view of a musical instrument",
+                "her body movements are sensual",
+                "dressed in a sexy and seductive way",
+                "appears to be enjoying herself"
+            ],
+            "scenes_and_places": [
+                "a woman wearing lingerie and playing the piano",
+                "a young girl wearing a red dress and playing the piano",
+                "playing a piano"
+            ],
+            "all_retrieved_words": [
+                "a close-up view of a musical instrument",
+                "dressed in a sexy and seductive way",
+                "a woman wearing lingerie and playing the piano",
+                "playing a piano",
+                "playing the piano",
+                "her body movements are sensual",
+                "a young girl wearing a red dress and playing the piano",
+                "playing the keys of the piano",
+                "singing and playing instruments on a stage",
+                "appears to be enjoying herself"
+            ]
+        }
+    },
+    "prompt0455": {
+        "original_sentence": "slow motion, a selfie of an old man with a white beard",
+        "modifiers": {
+            "actions": [
+                "sitting on a horse",
+                "looking at the camera",
+                "standing in a room",
+                "holding a knife"
+            ],
+            "sub_atmospheres": [
+                "appears to be happy",
+                "appears to be a zombie",
+                "cartoon animation"
+            ],
+            "scenes_and_places": [
+                "an elderly man with a white beard and a smile on his face",
+                "a cartoon animation of a man with a beard and a mustache",
+                "a man with a beard"
+            ],
+            "all_retrieved_words": [
+                "holding a knife",
+                "looking at the camera",
+                "a cartoon animation of a man with a beard and a mustache",
+                "appears to be happy",
+                "standing in a room",
+                "sitting on a horse",
+                "an elderly man with a white beard and a smile on his face",
+                "a man with a beard",
+                "appears to be a zombie",
+                "cartoon animation"
+            ]
+        }
+    },
+    "prompt0652": {
+        "original_sentence": "Brad Pitt smirks charmingly, his blue eyes sparkling with mischief.",
+        "modifiers": {
+            "actions": [
+                "talking to the camera",
+                "sitting on a couch",
+                "wearing a tie and a shirt"
+            ],
+            "sub_atmospheres": [
+                "appears to be happy",
+                "posing for a photo",
+                "appears to be in a happy mood"
+            ],
+            "scenes_and_places": [
+                "posing in a room",
+                "smiling and looking at the camera",
+                "talking to the camera with a smile on his face",
+                "opening a bottle of champagne",
+                "smiling at the camera"
+            ],
+            "all_retrieved_words": [
+                "posing for a photo",
+                "posing in a room",
+                "smiling and looking at the camera",
+                "talking to the camera",
+                "talking to the camera with a smile on his face",
+                "appears to be happy",
+                "smiling at the camera",
+                "opening a bottle of champagne",
+                "sitting on a couch",
+                "wearing a tie and a shirt",
+                "appears to be in a happy mood"
+            ]
+        }
+    },
+    "prompt0653": {
+        "original_sentence": "Angelina Jolie's full lips curve into a smile, her gaze intense and captivating.",
+        "modifiers": {
+            "actions": [
+                "smiling",
+                "dancing",
+                "looking at the camera",
+                "talking to the camera"
+            ],
+            "sub_atmospheres": [
+                "appears to be happy",
+                "promoting a movie",
+                "appears to be dancing",
+                "appears to be upset"
+            ],
+            "scenes_and_places": [
+                "a beautiful woman smiling in front of the camera",
+                "talking to the camera with a serious expression on her face",
+                "a woman with blonde hair and a smile on her face"
+            ],
+            "all_retrieved_words": [
+                "talking to the camera with a serious expression on her face",
+                "looking at the camera",
+                "appears to be dancing",
+                "a beautiful woman smiling in front of the camera",
+                "talking to the camera",
+                "appears to be happy",
+                "appears to be upset",
+                "dancing",
+                "a woman with blonde hair and a smile on her face",
+                "smiling",
+                "promoting a movie"
+            ]
+        }
+    },
+    "prompt0654": {
+        "original_sentence": "his Cruise's intense stare conveys determination, Tom jaw set firmly.",
+        "modifiers": {
+            "actions": [
+                "posing in front of a cruise ship",
+                "having a good time on the deck of the ship",
+                "dancing",
+                "smiling",
+                "sailing on the ocean"
+            ],
+            "sub_atmospheres": [
+                "having a good time",
+                "appears to be large and luxurious",
+                "enjoying themselves",
+                "moving smoothly through the water"
+            ],
+            "scenes_and_places": [
+                "on a cruise ship sailing on the ocean",
+                "posing in front of a cruise ship",
+                "enjoying themselves on a cruise ship"
+            ],
+            "all_retrieved_words": [
+                "having a good time",
+                "appears to be large and luxurious",
+                "on a cruise ship sailing on the ocean",
+                "posing in front of a cruise ship",
+                "having a good time on the deck of the ship",
+                "moving smoothly through the water",
+                "dancing",
+                "enjoying themselves",
+                "smiling",
+                "sailing on the ocean",
+                "enjoying themselves on a cruise ship"
+            ]
+        }
+    },
+    "prompt0655": {
+        "original_sentence": "Jennifer Aniston's warm lights up her face, her eyes twinkling.",
+        "modifiers": {
+            "actions": [
+                "wearing a white shirt",
+                "wearing a black dress",
+                "standing in a room",
+                "holding her hands to her face"
+            ],
+            "sub_atmospheres": [
+                "appears to be in pain",
+                "appears to be in a state of distress",
+                "appears to be scared"
+            ],
+            "scenes_and_places": [
+                "a dark room with a light shining on her face",
+                "standing in a room with a light shining on her face",
+                "a dark room with a bright light shining on her face"
+            ],
+            "all_retrieved_words": [
+                "a dark room with a bright light shining on her face",
+                "wearing a white shirt",
+                "holding her hands to her face",
+                "appears to be in a state of distress",
+                "standing in a room",
+                "appears to be in pain",
+                "a dark room with a light shining on her face",
+                "standing in a room with a light shining on her face",
+                "wearing a black dress",
+                "appears to be scared"
+            ]
+        }
+    }
+}

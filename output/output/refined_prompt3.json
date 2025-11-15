@@ -1,0 +1,1577 @@
+{
+    "prompt0000": {
+        "user_prompt": "2 Dog and a whale, ocean adventure",
+        "original_description": "2 Dog and a whale, ocean adventure",
+        "merged_description": "2 Dogs and a whale embark on an ocean adventure, surfing in the ocean with a dog. The animation is beautiful, showcasing a whale swimming in the ocean.",
+        "refined_description": "A whale and two dogs embark on an ocean adventure. The scene captures the whale gracefully swimming through the waves, while the dogs playfully surf alongside. The ocean sparkles under the sun, creating a vibrant and exciting atmosphere.",
+        "ranked_modifiers_used": [
+            "exploring the ocean with a dog, sim_score=0.7147",
+            "a beautiful animation of a whale swimming in the ocean, sim_score=0.681",
+            "surfing in the ocean with a dog, sim_score=0.6786"
+        ],
+        "modifiers_full_ranked_list": [
+            "exploring the ocean with a dog, sim_score=0.7147",
+            "a beautiful animation of a whale swimming in the ocean, sim_score=0.681",
+            "surfing in the ocean with a dog, sim_score=0.6786",
+            "riding the waves with the dog by his side, sim_score=0.5602",
+            "enjoying their underwater adventure, sim_score=0.5561",
+            "exploring the depths of the ocean, sim_score=0.4695",
+            "swimming in the ocean, sim_score=0.4559",
+            "holding a surfboard, sim_score=0.2825",
+            "enjoying the ride, sim_score=0.2618",
+            "the beauty of the animation, sim_score=0.2022"
+        ]
+    },
+    "prompt0001": {
+        "user_prompt": "Teddy bear and 3 real bear",
+        "original_description": "Teddy bear and 3 real bear",
+        "merged_description": "Teddy bear and a real bear are playing together, with the teddy bear being a stuffed toy, while the real bear is a live animal. They are playing with stuffed animals, specifically teddy bears, and a group of teddy bears is present, observing the playful interaction between the two.",
+        "refined_description": "A teddy bear and three real bears are playfully interacting in a forest clearing. The teddy bear, a stuffed toy, is surrounded by a group of other teddy bears, all observing the lively scene. The real bears, curious and gentle, engage with the toys, creating a whimsical and heartwarming atmosphere.",
+        "ranked_modifiers_used": [
+            "a teddy bear, sim_score=0.7353",
+            "a group of teddy bears, sim_score=0.7251",
+            "playing with teddy bears, sim_score=0.6932",
+            "playing with stuffed animals specifically teddy bears, sim_score=0.6262"
+        ],
+        "modifiers_full_ranked_list": [
+            "a teddy bear, sim_score=0.7353",
+            "a group of teddy bears, sim_score=0.7251",
+            "playing with teddy bears, sim_score=0.6932",
+            "playing with stuffed animals specifically teddy bears, sim_score=0.6262",
+            "a stuffed animal toy, sim_score=0.5348",
+            "holding the stuffed animals in their hands, sim_score=0.4938",
+            "holding the gift box, sim_score=0.2864",
+            "wearing a gift box on its back, sim_score=0.2023",
+            "playful and joyful scene, sim_score=0.2015",
+            "interacting with them, sim_score=0.1974",
+            "appears to be happy, sim_score=0.136",
+            "marching in a line, sim_score=-0.061"
+        ]
+    },
+    "prompt0002": {
+        "user_prompt": "in goldfish glass",
+        "original_description": "in goldfish glass",
+        "merged_description": "in a fish tank, the goldfish are swimming gracefully.",
+        "refined_description": "A goldfish swims gracefully in a clear glass tank, its vibrant colors shimmering in the water.",
+        "ranked_modifiers_used": [
+            "in a fish tank, sim_score=0.6176"
+        ],
+        "modifiers_full_ranked_list": [
+            "in a fish tank, sim_score=0.6176",
+            "a closeup view of a goldfish in a bowl, sim_score=0.5935",
+            "a closeup view of a goldfish swimming in an aquarium, sim_score=0.5903",
+            "swimming in an aquarium, sim_score=0.427",
+            "jumping out of a fish tank, sim_score=0.3797",
+            "swimming around, sim_score=0.3309",
+            "enjoying its surroundings, sim_score=0.327",
+            "trying to escape from the confines of the tank, sim_score=0.3206",
+            "swimming gracefully, sim_score=0.266"
+        ]
+    },
+    "prompt0003": {
+        "user_prompt": "A small bird sits atop a blooming flower stem.",
+        "original_description": "A small bird sits atop a blooming flower stem.",
+        "merged_description": "A small bird sits atop a blooming flower stem, appearing to be a bird perched on top of a sunflower. The small bird is also perched on a tree and can be seen sitting on a wooden surface.",
+        "refined_description": "A small bird perches delicately atop a blooming flower stem. The vibrant petals surround the bird, creating a picturesque scene of nature's beauty.",
+        "ranked_modifiers_used": [
+            "a bird perched on top of a sunflower, sim_score=0.7226",
+            "a small bird perched on a tree, sim_score=0.7044",
+            "a small bird perched on a wooden surface, sim_score=0.6928"
+        ],
+        "modifiers_full_ranked_list": [
+            "a bird perched on top of a sunflower, sim_score=0.7226",
+            "a small bird perched on a tree, sim_score=0.7044",
+            "a small bird perched on a wooden surface, sim_score=0.6928",
+            "perched on a branch of a tree, sim_score=0.4059",
+            "enjoying its meal, sim_score=0.3115",
+            "pecking at the seeds, sim_score=0.2766",
+            "enjoying its surroundings, sim_score=0.2537",
+            "eating some seeds, sim_score=0.1907",
+            "singing, sim_score=0.1348"
+        ]
+    },
+    "prompt0004": {
+        "user_prompt": "A fluffy teddy bear sits on a bed of soft pillows surrounded by children's toys.",
+        "original_description": "A fluffy teddy bear sits on a bed of soft pillows surrounded by children's toys.",
+        "merged_description": "A fluffy teddy bear sits on a bed of soft pillows surrounded by children's toys. The teddy bear is sitting on a bed in a room decorated with stuffed animals, and the children are playing with the teddy bear on the bed.",
+        "refined_description": "A fluffy teddy bear sits comfortably on a bed of soft pillows, surrounded by an array of colorful children's toys. The room is decorated with various stuffed animals, creating a playful and cozy atmosphere. Children are joyfully playing with the teddy bear, adding to the lively scene.",
+        "ranked_modifiers_used": [
+            "a teddy bear lying on a bed, sim_score=0.708",
+            "playing with a teddy bear on a bed, sim_score=0.6922",
+            "sitting on a bed in a room decorated with stuffed animals, sim_score=0.6869"
+        ],
+        "modifiers_full_ranked_list": [
+            "a teddy bear lying on a bed, sim_score=0.708",
+            "playing with a teddy bear on a bed, sim_score=0.6922",
+            "sitting on a bed in a room decorated with stuffed animals, sim_score=0.6869",
+            "appears to be having fun with the teddy bear, sim_score=0.5487",
+            "lying on a bed, sim_score=0.3946",
+            "appears to be resting peacefully, sim_score=0.1715",
+            "playing a musical instrument, sim_score=0.0681",
+            "playing with great skill, sim_score=0.0204"
+        ]
+    },
+    "prompt0005": {
+        "user_prompt": "A peaceful cow grazing in a green field under the clear blue sky",
+        "original_description": "A peaceful cow grazing in a green field under the clear blue sky",
+        "merged_description": "A peaceful cow grazing in a grassy field under the clear blue sky. An aerial view of a herd of cows grazing in a lush green field can be seen, set against a beautiful sunset. The cows are peacefully grazing in the field.",
+        "refined_description": "A peaceful cow grazes in a lush green field under a clear blue sky. The serene scene is complemented by the sight of a herd of cows scattered across the expansive field, all enjoying the tranquility of the open landscape.",
+        "ranked_modifiers_used": [
+            "an aerial view of a herd of cows grazing on a lush green field, sim_score=0.8042",
+            "a beautiful sunset with cows grazing in a field, sim_score=0.7951",
+            "an aerial view of a herd of cows grazing in a grassy field, sim_score=0.7583",
+            "grazing on a lush green field, sim_score=0.7194",
+            "grazing in a field, sim_score=0.6684",
+            "grazing in a grassy field, sim_score=0.6496"
+        ],
+        "modifiers_full_ranked_list": [
+            "an aerial view of a herd of cows grazing on a lush green field, sim_score=0.8042",
+            "a beautiful sunset with cows grazing in a field, sim_score=0.7951",
+            "an aerial view of a herd of cows grazing in a grassy field, sim_score=0.7583",
+            "grazing on a lush green field, sim_score=0.7194",
+            "grazing in a field, sim_score=0.6684",
+            "grazing in a grassy field, sim_score=0.6496",
+            "peaceful and serene scene, sim_score=0.2645",
+            "creating a warm and peaceful atmosphere, sim_score=0.257"
+        ]
+    },
+    "prompt0006": {
+        "user_prompt": "unicorn sliding on a rainbow",
+        "original_description": "unicorn sliding on a rainbow",
+        "merged_description": "A person is seen riding a colorful unicorn with a rainbow on its back, jumping up and down on a rainbow, and sliding on the rainbow while riding the unicorn. They are riding on a unicorn.",
+        "refined_description": "A colorful unicorn gracefully slides along a vibrant rainbow, its mane shimmering in the sunlight. The scene is magical and surreal, with the unicorn gliding effortlessly across the arc of colors.",
+        "ranked_modifiers_used": [
+            "riding a colorful unicorn with a rainbow on its back, sim_score=0.8382",
+            "jumping on a rainbow, sim_score=0.6986",
+            "jumping up and down on a rainbow, sim_score=0.6879",
+            "riding a unicorn, sim_score=0.6676",
+            "riding on a unicorn, sim_score=0.6643"
+        ],
+        "modifiers_full_ranked_list": [
+            "riding a colorful unicorn with a rainbow on its back, sim_score=0.8382",
+            "jumping on a rainbow, sim_score=0.6986",
+            "jumping up and down on a rainbow, sim_score=0.6879",
+            "riding a unicorn, sim_score=0.6676",
+            "riding on a unicorn, sim_score=0.6643",
+            "enjoying the ride, sim_score=0.2292",
+            "fun and playful scene, sim_score=0.1881"
+        ]
+    },
+    "prompt0007": {
+        "user_prompt": "four godzillas",
+        "original_description": "four godzillas",
+        "merged_description": "four godzillas",
+        "refined_description": "Four towering Godzillas stand amidst a sprawling cityscape, their massive forms casting long shadows over the buildings below. The ground trembles as they move, each step echoing through the city. Their scales glisten under the sunlight, creating an awe-inspiring and formidable presence.",
+        "ranked_modifiers_used": [],
+        "modifiers_full_ranked_list": [
+            "a 3D animation of a group of monsters, sim_score=0.4946",
+            "a monster, sim_score=0.4916",
+            "a cartoon animation of a monster, sim_score=0.487",
+            "scared, sim_score=0.2279",
+            "shown in different poses, sim_score=0.2117",
+            "trying to run away, sim_score=0.1921",
+            "crawling on the ground, sim_score=0.1689",
+            "scared of the baby, sim_score=0.1436",
+            "a dark room with a glowing object in the center, sim_score=0.1394",
+            "trying to protect it, sim_score=0.1329",
+            "holding a baby, sim_score=0.1137",
+            "created using a software called Blender, sim_score=0.0146"
+        ]
+    },
+    "prompt0008": {
+        "user_prompt": "A fluffy grey and white cat is lazily stretched out on a sunny window sill, enjoying a nap after a long day of lounging.",
+        "original_description": "A fluffy grey and white cat is lazily stretched out on a sunny window sill, enjoying a nap after a long day of lounging.",
+        "merged_description": "A fluffy grey and white cat is lazily stretched out on a sunny window sill, enjoying a nap after a long day of lounging. The grey cat is sitting on a windowsill and appears to be relaxed and content. A fluffy black cat is lying on a pillow nearby, also appearing to be content and relaxed.",
+        "refined_description": "A fluffy grey and white cat is lazily stretched out on a sunny window sill, basking in the warm sunlight. Nearby, a fluffy black cat is lying on a pillow, equally relaxed and content. The scene exudes tranquility as both cats enjoy their peaceful nap.",
+        "ranked_modifiers_used": [
+            "a cat sitting on a window sill, sim_score=0.6555",
+            "a grey cat sitting on a windowsill, sim_score=0.629",
+            "a fluffy black cat lying on a pillow, sim_score=0.6041"
+        ],
+        "modifiers_full_ranked_list": [
+            "a cat sitting on a window sill, sim_score=0.6555",
+            "a grey cat sitting on a windowsill, sim_score=0.629",
+            "a fluffy black cat lying on a pillow, sim_score=0.6041",
+            "sitting on a window sill, sim_score=0.3791",
+            "lying on a pillow, sim_score=0.3214",
+            "enjoying the view from the window, sim_score=0.2853",
+            "looking out of the window, sim_score=0.2627",
+            "sitting on a windowsill, sim_score=0.2569",
+            "appears to be relaxed and comfortable, sim_score=0.223",
+            "calm and peaceful scene, sim_score=0.0305"
+        ]
+    },
+    "prompt0009": {
+        "user_prompt": "A curious cat peers from the window, watching the world outside.",
+        "original_description": "A curious cat peers from the window, watching the world outside.",
+        "merged_description": "A curious cat sits on a window sill, peering out and watching the world outside. The cat is seen on the window sill.",
+        "refined_description": "A curious cat sits on a window sill, gazing intently at the world outside. Its eyes follow the movements of people and cars, as sunlight streams through the glass, casting a warm glow on its fur.",
+        "ranked_modifiers_used": [
+            "standing in front of a window with a cat, sim_score=0.667",
+            "a cat sitting on a window sill, sim_score=0.6589",
+            "a cat, sim_score=0.6245"
+        ],
+        "modifiers_full_ranked_list": [
+            "standing in front of a window with a cat, sim_score=0.667",
+            "a cat sitting on a window sill, sim_score=0.6589",
+            "a cat, sim_score=0.6245",
+            "the cat seems to be enjoying being held by the woman, sim_score=0.5282",
+            "enjoying the view from the window, sim_score=0.4685",
+            "holding a cat in her arms, sim_score=0.4508",
+            "looking out of the window, sim_score=0.4306",
+            "standing in front of a window, sim_score=0.3685",
+            "enjoying the attention it is getting from the camera, sim_score=0.3075",
+            "sitting on a window sill, sim_score=0.2849",
+            "enjoying the attention, sim_score=0.2537",
+            "looking at the camera, sim_score=0.2443",
+            "wearing a collar, sim_score=0.1951"
+        ]
+    },
+    "prompt0010": {
+        "user_prompt": "a horse",
+        "original_description": "a horse",
+        "merged_description": "A slow-motion shot of a horse, riding a horse, appears to be in a field surrounded by trees. The silhouette of another horse can be seen in the distance, riding a horse in the field.",
+        "refined_description": "A slow-motion shot captures a horse gracefully galloping through a field surrounded by trees. In the distance, the silhouette of another horse can be seen moving elegantly across the field, creating a serene and picturesque scene.",
+        "ranked_modifiers_used": [
+            "riding a horse, sim_score=0.86",
+            "a horse in a field, sim_score=0.8051",
+            "a silhouette of a horse, sim_score=0.803",
+            "a slowmotion shot of the horse in motion, sim_score=0.7032",
+            "riding a horse in a field surrounded by trees, sim_score=0.6208"
+        ],
+        "modifiers_full_ranked_list": [
+            "riding a horse, sim_score=0.86",
+            "a horse in a field, sim_score=0.8051",
+            "a silhouette of a horse, sim_score=0.803",
+            "a slowmotion shot of the horse in motion, sim_score=0.7032",
+            "riding a horse in a field surrounded by trees, sim_score=0.6208",
+            "appears to be a warrior, sim_score=0.3222",
+            "appears to be a princess, sim_score=0.2698",
+            "standing in a field, sim_score=0.2199",
+            "walking around in a field, sim_score=0.1973",
+            "a fun and playful scene, sim_score=0.1843",
+            "running on a brown background, sim_score=0.1799",
+            "calm and relaxed, sim_score=0.1208"
+        ]
+    },
+    "prompt0011": {
+        "user_prompt": "a pig",
+        "original_description": "a pig",
+        "merged_description": "a closeup of a cartoon character of a pig in a cage.",
+        "refined_description": "A close-up view of a cartoon pig character inside a cage, showcasing its expressive features and vibrant colors.",
+        "ranked_modifiers_used": [
+            "a pig in a cage, sim_score=0.8151",
+            "a closeup of a pig, sim_score=0.8139",
+            "a cartoon character of a pig, sim_score=0.8046"
+        ],
+        "modifiers_full_ranked_list": [
+            "a pig in a cage, sim_score=0.8151",
+            "a closeup of a pig, sim_score=0.8139",
+            "a cartoon character of a pig, sim_score=0.8046",
+            "being fed by a person, sim_score=0.3051",
+            "enjoying its meal, sim_score=0.3013",
+            "standing, sim_score=0.2475",
+            "walking, sim_score=0.2209",
+            "sniffing around a fence, sim_score=0.2137",
+            "expressing different emotions, sim_score=0.082",
+            "curious and interested in exploring its surroundings, sim_score=0.0816"
+        ]
+    },
+    "prompt0012": {
+        "user_prompt": "a squirrel",
+        "original_description": "a squirrel",
+        "merged_description": "a closeup view of a cartoon of a squirrel, an animated squirrel in a cartoonlike setting, sitting in a store.",
+        "refined_description": "A close-up view of an animated squirrel in a cartoon-like setting, sitting inside a colorful store.",
+        "ranked_modifiers_used": [
+            "a cartoon of a squirrel, sim_score=0.8388",
+            "an animated squirrel in a cartoonlike setting, sim_score=0.7601",
+            "a closeup view of a squirrel sitting in a store, sim_score=0.7427"
+        ],
+        "modifiers_full_ranked_list": [
+            "a cartoon of a squirrel, sim_score=0.8388",
+            "an animated squirrel in a cartoonlike setting, sim_score=0.7601",
+            "a closeup view of a squirrel sitting in a store, sim_score=0.7427",
+            "playing in the forest, sim_score=0.3483",
+            "running around, sim_score=0.2698",
+            "enjoying its drink, sim_score=0.2598",
+            "animated, sim_score=0.2555",
+            "looking out of the window, sim_score=0.2362",
+            "curious about its surroundings, sim_score=0.2269",
+            "looking around, sim_score=0.2134",
+            "cartoonlike setting, sim_score=0.1913",
+            "sitting on a shelf, sim_score=0.1394",
+            "drinking water from a faucet, sim_score=0.0365"
+        ]
+    },
+    "prompt0013": {
+        "user_prompt": "a bird",
+        "original_description": "a bird",
+        "merged_description": "a bird on the ground, possibly a bird in flight. The bird is also seen perched on a tree branch.",
+        "refined_description": "A bird is perched on a tree branch, its feathers ruffled gently by the breeze. Nearby, another bird takes flight, soaring gracefully through the sky.",
+        "ranked_modifiers_used": [
+            "a bird on the ground, sim_score=0.8381",
+            "a bird in flight, sim_score=0.8206",
+            "a bird in a tree, sim_score=0.817"
+        ],
+        "modifiers_full_ranked_list": [
+            "a bird on the ground, sim_score=0.8381",
+            "a bird in flight, sim_score=0.8206",
+            "a bird in a tree, sim_score=0.817",
+            "soaring through the air with its wings flapping, sim_score=0.3757",
+            "perched on a branch in a tree, sim_score=0.3247",
+            "enjoying its time in the tree, sim_score=0.3245",
+            "enjoying its surroundings, sim_score=0.2898",
+            "singing, sim_score=0.2877",
+            "a beautiful and graceful sight, sim_score=0.2485",
+            "lying on the ground, sim_score=0.2127",
+            "appears to be dead, sim_score=0.1428"
+        ]
+    },
+    "prompt0014": {
+        "user_prompt": "a zebra",
+        "original_description": "a zebra",
+        "merged_description": "A zebra, running away while another zebra is chasing it. It appears to be a cartoon character, with one zebra riding on a car, and a cartoon animation of a lion chasing the zebra. The zebras are walking across a zebra crossing, with a playful and humorous tone.",
+        "refined_description": "A zebra is playfully running across a zebra crossing, with another zebra in pursuit. The scene has a whimsical, cartoon-like quality, as a lion animatedly chases them. One zebra humorously rides on a small car, adding to the lighthearted and amusing atmosphere.",
+        "ranked_modifiers_used": [
+            "chasing a zebra, sim_score=0.826",
+            "a cartoon character of a zebra riding on a car, sim_score=0.679",
+            "a cartoon animation of a lion chasing a zebra, sim_score=0.667",
+            "walking on a zebra crossing, sim_score=0.6517",
+            "walking across a zebra crossing, sim_score=0.6122"
+        ],
+        "modifiers_full_ranked_list": [
+            "chasing a zebra, sim_score=0.826",
+            "a cartoon character of a zebra riding on a car, sim_score=0.679",
+            "a cartoon animation of a lion chasing a zebra, sim_score=0.667",
+            "walking on a zebra crossing, sim_score=0.6517",
+            "walking across a zebra crossing, sim_score=0.6122",
+            "the African savannah, sim_score=0.3142",
+            "enjoying its ride, sim_score=0.2525",
+            "riding on a car, sim_score=0.2134",
+            "busy street with a lot of traffic, sim_score=0.1394"
+        ]
+    },
+    "prompt0029": {
+        "user_prompt": "3 sheep enjoying spaghetti together",
+        "original_description": "3 sheep enjoying spaghetti together",
+        "merged_description": "A closeup of 3 sheep enjoying spaghetti together, each one taking a bite and savoring the taste.",
+        "refined_description": "3 sheep are gathered closely, each savoring mouthfuls of spaghetti. Their woolly faces show delight as they enjoy the unusual meal together, creating a whimsical and charming scene.",
+        "ranked_modifiers_used": [
+            "a closeup of a sheep eating, sim_score=0.6011"
+        ],
+        "modifiers_full_ranked_list": [
+            "a closeup of a sheep eating, sim_score=0.6011",
+            "3D animation of a sheep, sim_score=0.576",
+            "leading a group of sheep, sim_score=0.5399",
+            "leading a group of sheep through a desert, sim_score=0.5388",
+            "a cartoonlike representation of the sheep, sim_score=0.5004",
+            "enjoying its meal, sim_score=0.3283",
+            "eating from a bowl, sim_score=0.2615",
+            "a shepherd, sim_score=0.2482",
+            "standing in the middle of a group of swords, sim_score=0.186",
+            "walking through a desert, sim_score=0.1184"
+        ]
+    },
+    "prompt0047": {
+        "user_prompt": "Five dogs on the street.",
+        "original_description": "Five dogs on the street.",
+        "merged_description": "Five dogs are walking down the street with their dogs, while a group of dogs on leashes follows them.",
+        "refined_description": "Five dogs are playfully roaming down the street, their tails wagging in excitement. The sun casts a warm glow, highlighting their fur as they explore the surroundings together.",
+        "ranked_modifiers_used": [
+            "walking down the street with a group of dogs, sim_score=0.7406",
+            "walking down the street with a pack of dogs, sim_score=0.7237",
+            "walking down the street with a pack of dogs following them, sim_score=0.709",
+            "walking down the street with a group of dogs on leashes, sim_score=0.6835",
+            "walking down a street with their dogs, sim_score=0.6818"
+        ],
+        "modifiers_full_ranked_list": [
+            "walking down the street with a group of dogs, sim_score=0.7406",
+            "walking down the street with a pack of dogs, sim_score=0.7237",
+            "walking down the street with a pack of dogs following them, sim_score=0.709",
+            "walking down the street with a group of dogs on leashes, sim_score=0.6835",
+            "walking down a street with their dogs, sim_score=0.6818",
+            "the dogs follow closely behind him, sim_score=0.4209",
+            "taking good care of them, sim_score=0.1415",
+            "a sense of bustling activity in the area, sim_score=0.1009",
+            "a fun and enjoyable activity, sim_score=0.1001"
+        ]
+    },
+    "prompt0066": {
+        "user_prompt": "elon musk in space suit close up of face 4k overlooking mars space base",
+        "original_description": "elon musk in space suit close up of face 4k overlooking mars space base",
+        "merged_description": "elon musk in space suit close up of face 4k overlooking mars space base",
+        "refined_description": "Elon Musk, wearing a sleek space suit, is captured in a stunning 4K close-up. His face reflects determination as he gazes out over a futuristic Mars space base, with the red planet's rugged landscape stretching out in the background.",
+        "ranked_modifiers_used": [],
+        "modifiers_full_ranked_list": [
+            "wearing an astronaut suit, sim_score=0.4769",
+            "wearing a space suit, sim_score=0.4755",
+            "standing in front of a window while wearing a space suit, sim_score=0.4554",
+            "appears to be an astronaut, sim_score=0.3805",
+            "portrait of an astronaut, sim_score=0.3739",
+            "inside a space station, sim_score=0.3217",
+            "a cartoon character in space, sim_score=0.3198",
+            "a scene from a movie, sim_score=0.1275",
+            "speaking into a microphone, sim_score=0.1044"
+        ]
+    },
+    "prompt0073": {
+        "user_prompt": "Two birds flew around a person, in the style of Sci-Fi",
+        "original_description": "Two birds flew around a person, in the style of Sci-Fi",
+        "merged_description": "Two birds flew around a person, an animation of a bird flying in the sky in the style of Sci-Fi. The animation appears to be a cartoon animation of a bird flying in space.",
+        "refined_description": "A person stands in a futuristic setting as two birds gracefully fly around them. The scene is infused with a Sci-Fi aesthetic, with vibrant colors and sleek, otherworldly designs. The birds move with fluid, animated motions, reminiscent of a space-themed adventure.",
+        "ranked_modifiers_used": [
+            "an animation of a bird flying in the air, sim_score=0.7071",
+            "an animation of a bird flying in the sky, sim_score=0.6907",
+            "a cartoon animation of a bird flying in space, sim_score=0.6804"
+        ],
+        "modifiers_full_ranked_list": [
+            "an animation of a bird flying in the air, sim_score=0.7071",
+            "an animation of a bird flying in the sky, sim_score=0.6907",
+            "a cartoon animation of a bird flying in space, sim_score=0.6804",
+            "flying in space, sim_score=0.4711",
+            "flying in the air with its wings flapping, sim_score=0.4591",
+            "flying in the sky, sim_score=0.4407",
+            "a cartoonlike animation, sim_score=0.3303",
+            "3D animation, sim_score=0.2436",
+            "the colorful and captivating animation, sim_score=0.2222"
+        ]
+    },
+    "prompt0074": {
+        "user_prompt": "pizza bear and 2 people making 1",
+        "original_description": "pizza bear and 2 people making 1",
+        "merged_description": "pizza bear and 2 people making 1",
+        "refined_description": "A whimsical scene unfolds as a bear, humorously dressed as a pizza chef, collaborates with two people in a cozy kitchen. Together, they skillfully prepare a delicious pizza, surrounded by fresh ingredients and a warm, inviting atmosphere.",
+        "ranked_modifiers_used": [],
+        "modifiers_full_ranked_list": [
+            "making pizza, sim_score=0.5793",
+            "making a pizza, sim_score=0.5792",
+            "the process of making a pizza, sim_score=0.5193",
+            "making pizza from scratch, sim_score=0.4884",
+            "the process of making pizza from scratch, sim_score=0.4863",
+            "preparing dough for making pizza, sim_score=0.4003",
+            "rolling out the pizza dough, sim_score=0.3942",
+            "adding toppings, sim_score=0.3845",
+            "rolling out the dough, sim_score=0.2925",
+            "baked in the oven, sim_score=0.2514",
+            "kneading the dough, sim_score=0.2149",
+            "shaping it into a circle, sim_score=0.1664"
+        ]
+    },
+    "prompt0075": {
+        "user_prompt": "A family of five go on a safari, marveling at the sight of majestic giraffes and zebras.",
+        "original_description": "A family of five go on a safari, marveling at the sight of majestic giraffes and zebras.",
+        "merged_description": "A family of five go on a safari, marveling at the sight of majestic giraffes, elephants, and zebras, among a group of animals including giraffes, elephants, and zebras.",
+        "refined_description": "A family of five embarks on a thrilling safari adventure. They marvel at the majestic giraffes and zebras as they roam freely across the vast savannah, creating an awe-inspiring scene amidst the diverse wildlife.",
+        "ranked_modifiers_used": [
+            "among a group of animals including giraffes elephants and zebras, sim_score=0.6291"
+        ],
+        "modifiers_full_ranked_list": [
+            "among a group of animals including giraffes elephants and zebras, sim_score=0.6291",
+            "a group of giraffes walking in the African savannah during sunset, sim_score=0.579",
+            "a group of giraffes walking down a busy street in a city, sim_score=0.5528",
+            "walking in the African savannah, sim_score=0.3327",
+            "enjoying their time in the urban environment, sim_score=0.2737",
+            "in a cartoonlike setting, sim_score=0.2288",
+            "moving slowly and gracefully across the grassy plain, sim_score=0.1789",
+            "creating a warm and serene atmosphere, sim_score=0.0857",
+            "walking down a busy street in a city, sim_score=0.0836",
+            "standing on top of a rock, sim_score=0.0438"
+        ]
+    },
+    "prompt0076": {
+        "user_prompt": "A farmer tends to a flock of twenty sheep, shearing their wool and counting them to make sure none are missing.",
+        "original_description": "A farmer tends to a flock of twenty sheep, shearing their wool and counting them to make sure none are missing.",
+        "merged_description": "A farmer tends to a flock of twenty sheep, working together to shear a sheep in a barn. This demonstrates the process of shearing a sheep. He is herding the sheep, shearing their wool, counting them to make sure none are missing, and ensuring that each sheep is accounted for in a rural setting.",
+        "refined_description": "A farmer is busy in a rustic barn, carefully shearing the wool from a flock of twenty sheep. He diligently counts each one to ensure none are missing, maintaining a watchful eye over the peaceful rural setting.",
+        "ranked_modifiers_used": [
+            "working together to shear a flock of sheep, sim_score=0.7227",
+            "shearing a sheep, sim_score=0.6999",
+            "shearing sheep in a barn, sim_score=0.6984",
+            "herding sheep in a rural setting, sim_score=0.6797",
+            "herding the sheep, sim_score=0.6708",
+            "a demonstration of the process of shearing a sheep, sim_score=0.6589"
+        ],
+        "modifiers_full_ranked_list": [
+            "working together to shear a flock of sheep, sim_score=0.7227",
+            "shearing a sheep, sim_score=0.6999",
+            "shearing sheep in a barn, sim_score=0.6984",
+            "herding sheep in a rural setting, sim_score=0.6797",
+            "herding the sheep, sim_score=0.6708",
+            "a demonstration of the process of shearing a sheep, sim_score=0.6589",
+            "using a pair of scissors to cut the wool, sim_score=0.4878",
+            "being sheared by a man wearing a suit, sim_score=0.2499",
+            "rural setting, sim_score=0.2303",
+            "appears to be a busy and organized operation, sim_score=0.1371",
+            "carrying a baby, sim_score=0.0536"
+        ]
+    },
+    "prompt0078": {
+        "user_prompt": "A family of three take their dog and cat for a walk in the park, enjoying the fresh air and exercise.",
+        "original_description": "A family of three take their dog and cat for a walk in the park, enjoying the fresh air and exercise.",
+        "merged_description": "A family of three take their dog and cat for a walk in the park, enjoying the fresh air and exercise. They are walking down the street with their dog and cat, taking in the sights and sounds of the park.",
+        "refined_description": "A family of three strolls through a vibrant park, accompanied by their dog and cat. The family enjoys the fresh air and exercise as they take in the sights and sounds of the lively surroundings. The dog trots happily beside them, while the cat curiously explores the path. It's a perfect day for a family outing.",
+        "ranked_modifiers_used": [
+            "walking down the street with a family and a dog, sim_score=0.6645"
+        ],
+        "modifiers_full_ranked_list": [
+            "walking down the street with a family and a dog, sim_score=0.6645",
+            "a family sitting on a bench in a park, sim_score=0.5866",
+            "walking a cat in a park, sim_score=0.5862",
+            "enjoying the walk, sim_score=0.3659",
+            "accompanying with a dog, sim_score=0.3392",
+            "walking his cat on a leash, sim_score=0.3325",
+            "taking a leisurely walk on a sunny day, sim_score=0.2977",
+            "enjoying their time together, sim_score=0.2659",
+            "holding the leash, sim_score=0.1943",
+            "pushing a baby in a stroller, sim_score=0.1368",
+            "sitting on a bench, sim_score=0.0685",
+            "wearing face masks, sim_score=-0.0281"
+        ]
+    },
+    "prompt0079": {
+        "user_prompt": "A team of two marine biologists study a colony of penguins, monitoring their breeding habits.",
+        "original_description": "A team of two marine biologists study a colony of penguins, monitoring their breeding habits.",
+        "merged_description": "A team of two marine biologists study a group of penguins, monitoring their breeding habits. They are observing the penguins closely to understand their breeding patterns and habits. The penguins are in a zoo, and a conversation between the penguins can be heard.",
+        "refined_description": "A team of two marine biologists carefully observes a colony of penguins, diligently monitoring their breeding habits. The penguins, situated in a zoo environment, waddle around their habitat, engaging in their natural behaviors. The biologists take notes and discuss their observations, creating a focused and educational atmosphere.",
+        "ranked_modifiers_used": [
+            "a group of penguins, sim_score=0.6996",
+            "a group of penguins in a zoo, sim_score=0.6696",
+            "a conversation between penguins, sim_score=0.6594"
+        ],
+        "modifiers_full_ranked_list": [
+            "a group of penguins, sim_score=0.6996",
+            "a group of penguins in a zoo, sim_score=0.6696",
+            "a conversation between penguins, sim_score=0.6594",
+            "talking to another penguin, sim_score=0.5254",
+            "interacting with each other, sim_score=0.1548",
+            "enjoying each other\u2019s company, sim_score=0.1419",
+            "enjoying themselves, sim_score=0.1311",
+            "singing and dancing together, sim_score=0.103",
+            "having a conversation, sim_score=0.0912",
+            "standing on a rock, sim_score=-0.0318"
+        ]
+    },
+    "prompt0080": {
+        "user_prompt": "Two individuals ride a bike through the temple gates.",
+        "original_description": "Two individuals ride a bike through the temple gates.",
+        "merged_description": "Two individuals ride a bike through the temple gates, making their way around the sacred temple grounds. They are riding a bicycle inside a temple.",
+        "refined_description": "Two individuals ride a bike through the grand temple gates, navigating the sacred temple grounds with ease. The ancient architecture and serene surroundings create a harmonious backdrop for their journey.",
+        "ranked_modifiers_used": [
+            "riding a bicycle around a temple, sim_score=0.6463",
+            "riding a bicycle around the temple, sim_score=0.646",
+            "riding a bicycle inside a temple, sim_score=0.621"
+        ],
+        "modifiers_full_ranked_list": [
+            "riding a bicycle around a temple, sim_score=0.6463",
+            "riding a bicycle around the temple, sim_score=0.646",
+            "riding a bicycle inside a temple, sim_score=0.621",
+            "riding a bicycle around a temple in a city, sim_score=0.576",
+            "riding a bicycle on a road next to the Golden Gate Bridge, sim_score=0.5536",
+            "the temple is decorated with beautiful paintings on the walls, sim_score=0.3352",
+            "enjoying his ride, sim_score=0.2153",
+            "located in a city, sim_score=0.0303"
+        ]
+    },
+    "prompt0082": {
+        "user_prompt": "A young woman with glasses is jogging in the park wearing a pink headband.",
+        "original_description": "A young woman with glasses is jogging in the park wearing a pink headband.",
+        "merged_description": "A young woman with glasses is jogging in the park wearing a pink headband. She appears to be in good shape and enjoying her exercise.",
+        "refined_description": "A young woman with glasses jogs through the park, her pink headband standing out against the greenery. She moves with ease and enthusiasm, clearly enjoying her exercise in the fresh air.",
+        "ranked_modifiers_used": [
+            "jogging in a park, sim_score=0.6324"
+        ],
+        "modifiers_full_ranked_list": [
+            "jogging in a park, sim_score=0.6324",
+            "running in a park, sim_score=0.5806",
+            "being trained by a woman in a park, sim_score=0.5667",
+            "jogging, sim_score=0.4802",
+            "wearing a sports bra and running shoes, sim_score=0.3721",
+            "it appears to be a sunny day in the park, sim_score=0.3398",
+            "running down a path, sim_score=0.1916",
+            "enjoying the training, sim_score=0.177",
+            "wearing a mask, sim_score=0.1624",
+            "creating a serene and peaceful atmosphere, sim_score=0.0556",
+            "having fun, sim_score=0.0401",
+            "using a stick to train the dog, sim_score=0.0331"
+        ]
+    },
+    "prompt0083": {
+        "user_prompt": "six people are singing together. One person is a young African-American woman with curly black hair, wearing a red dress. The other person is a middle-aged Caucasian man with short blonde hair, wearing a blue shirt.",
+        "original_description": "six people are singing together. One person is a young African-American woman with curly black hair, wearing a red dress. The other person is a middle-aged Caucasian man with short blonde hair, wearing a blue shirt.",
+        "merged_description": "Six people are singing and dancing together. The young African-American woman with curly black hair, who is wearing a red dress, and the middle-aged Caucasian man with short blonde hair, who is wearing a blue shirt, are singing with a group of people dressed in colorful costumes.",
+        "refined_description": "A group of six people is singing together, creating a lively and harmonious scene. Among them, a young African-American woman with curly black hair stands out in her vibrant red dress. Beside her, a middle-aged Caucasian man with short blonde hair is dressed in a blue shirt. The rest of the group is adorned in colorful costumes, adding to the festive atmosphere.",
+        "ranked_modifiers_used": [
+            "a group of people singing and dancing together, sim_score=0.7048",
+            "singing with a group of people, sim_score=0.6883",
+            "singing with a group of people dressed in colorful costumes, sim_score=0.6823"
+        ],
+        "modifiers_full_ranked_list": [
+            "a group of people singing and dancing together, sim_score=0.7048",
+            "singing with a group of people, sim_score=0.6883",
+            "singing with a group of people dressed in colorful costumes, sim_score=0.6823",
+            "singing and dancing together, sim_score=0.5488",
+            "singing into a microphone, sim_score=0.4182",
+            "singing along with him, sim_score=0.3857",
+            "performing a musical number, sim_score=0.3686",
+            "musical performance, sim_score=0.3662",
+            "dressed as Egyptians, sim_score=0.2434",
+            "enjoying themselves and having a good time, sim_score=0.0769",
+            "having a good time, sim_score=0.034"
+        ]
+    },
+    "prompt0084": {
+        "user_prompt": "Two child sleeping beside each other on a comfortable blue bed with beige pillows.",
+        "original_description": "Two child sleeping beside each other on a comfortable blue bed with beige pillows.",
+        "merged_description": "Two child sleeping beside each other on a comfortable blue bed with beige pillows.",
+        "refined_description": "Two children are peacefully sleeping beside each other on a comfortable blue bed adorned with soft beige pillows. The serene atmosphere is enhanced by the gentle lighting in the room.",
+        "ranked_modifiers_used": [],
+        "modifiers_full_ranked_list": [
+            "sleeping together on a bed, sim_score=0.5954",
+            "sleeping together in a bed, sim_score=0.5771",
+            "a child sleeping in a bed, sim_score=0.5671",
+            "sleeping on a bed, sim_score=0.4711",
+            "sleeping in a bed, sim_score=0.4285",
+            "sleeping peacefully in a bed, sim_score=0.3784",
+            "appears to be resting comfortably, sim_score=0.2573",
+            "peaceful and cozy scene, sim_score=0.245",
+            "a peaceful moment between the two, sim_score=0.1629"
+        ]
+    },
+    "prompt0085": {
+        "user_prompt": "Two people kicking soccer ball beside a truck at police station",
+        "original_description": "Two people kicking soccer ball beside a truck at police station",
+        "merged_description": "Two people are kicking a soccer ball around beside a truck at a police station.",
+        "refined_description": "Two people are energetically kicking a soccer ball back and forth beside a parked truck at a police station. The station's facade is visible in the background, adding an unexpected twist to the lively scene.",
+        "ranked_modifiers_used": [
+            "kicking a soccer ball around, sim_score=0.6074"
+        ],
+        "modifiers_full_ranked_list": [
+            "kicking a soccer ball around, sim_score=0.6074",
+            "kicking a soccer ball, sim_score=0.595",
+            "kicking a soccer ball in a field, sim_score=0.5622",
+            "kicking a soccer ball on the street, sim_score=0.5491",
+            "kicking a soccer ball in a city square, sim_score=0.5338",
+            "practicing his soccer skills, sim_score=0.2908",
+            "practicing his skills, sim_score=0.0567"
+        ]
+    },
+    "prompt0088": {
+        "user_prompt": "michel jordan playing basketball",
+        "original_description": "michel jordan playing basketball",
+        "merged_description": "Michel Jordan is playing a game of basketball on the court.",
+        "refined_description": "Michael Jordan is skillfully playing basketball on an indoor court, showcasing his legendary moves and agility. The crowd watches in awe as he dribbles and shoots with precision, embodying the spirit of the game.",
+        "ranked_modifiers_used": [
+            "playing basketball, sim_score=0.6284",
+            "playing a game of basketball, sim_score=0.6189",
+            "playing basketball on the court, sim_score=0.6162"
+        ],
+        "modifiers_full_ranked_list": [
+            "playing basketball, sim_score=0.6284",
+            "playing a game of basketball, sim_score=0.6189",
+            "playing basketball on the court, sim_score=0.6162",
+            "dribbling the ball while running on the court, sim_score=0.4561",
+            "playing basketball with masks, sim_score=0.4507",
+            "running on the court, sim_score=0.3085",
+            "enjoying the game, sim_score=0.2654",
+            "appears to be focused on the game, sim_score=0.1822",
+            "protecting herself from the coronavirus, sim_score=0.1148",
+            "appear to be having fun, sim_score=0.1147"
+        ]
+    },
+    "prompt0089": {
+        "user_prompt": "Hawaiian woman playing a ukulele",
+        "original_description": "Hawaiian woman playing a ukulele",
+        "merged_description": "A small figurine of a Hawaiian woman playing a ukulele, playing the ukulele while a man watches her, playing the ukulele.",
+        "refined_description": "A Hawaiian woman plays a ukulele with grace and rhythm. Her fingers strum the strings effortlessly, creating a melodious tune. A man watches her with admiration, enjoying the soothing music. The scene captures a moment of cultural beauty and musical harmony.",
+        "ranked_modifiers_used": [
+            "a small figurine of a Hawaiian woman playing a ukulele, sim_score=0.8596",
+            "playing a ukulele, sim_score=0.6535",
+            "playing the ukulele while a man watches her, sim_score=0.6208",
+            "playing the ukulele, sim_score=0.618"
+        ],
+        "modifiers_full_ranked_list": [
+            "a small figurine of a Hawaiian woman playing a ukulele, sim_score=0.8596",
+            "playing a ukulele, sim_score=0.6535",
+            "playing the ukulele while a man watches her, sim_score=0.6208",
+            "playing the ukulele, sim_score=0.618",
+            "smiling on her face, sim_score=0.1184",
+            "appears to be having a good time, sim_score=0.1046",
+            "enjoying themselves, sim_score=0.0795",
+            "enjoying himself, sim_score=0.0608"
+        ]
+    },
+    "prompt0091": {
+        "user_prompt": "Joe Biden as a rapper throwing money",
+        "original_description": "Joe Biden as a rapper throwing money",
+        "merged_description": "Joe Biden as a rapper throwing money",
+        "refined_description": "Joe Biden, dressed in stylish rapper attire, energetically throws money into the air. The scene is vibrant and lively, with bills fluttering around him, creating a dynamic and playful atmosphere.",
+        "ranked_modifiers_used": [],
+        "modifiers_full_ranked_list": [
+            "throwing money in a music video, sim_score=0.507",
+            "throwing money up in the air, sim_score=0.4428",
+            "performing as a rapper or a performer, sim_score=0.4334",
+            "playing with money, sim_score=0.4129",
+            "playing with money on the ground, sim_score=0.3659",
+            "waiting for him to start his performance, sim_score=0.2498",
+            "music video, sim_score=0.1808",
+            "a casual and lighthearted activity, sim_score=0.0726",
+            "standing in front of a group of people, sim_score=-0.0004"
+        ]
+    },
+    "prompt0092": {
+        "user_prompt": "man driving in a taxi, angry face",
+        "original_description": "man driving in a taxi, angry face",
+        "merged_description": "A man with an angry face is getting out of his taxi, which he was riding in as a taxi driver.",
+        "refined_description": "A man with an angry face sits in the back seat of a taxi, glaring out the window as the cityscape rushes by. The taxi driver glances back, sensing the tension in the air.",
+        "ranked_modifiers_used": [
+            "driving a taxi, sim_score=0.6403",
+            "a taxi driver getting out of his car, sim_score=0.6311",
+            "riding in a taxi, sim_score=0.6024"
+        ],
+        "modifiers_full_ranked_list": [
+            "driving a taxi, sim_score=0.6403",
+            "a taxi driver getting out of his car, sim_score=0.6311",
+            "riding in a taxi, sim_score=0.6024",
+            "riding in a taxi through a busy city street, sim_score=0.5117",
+            "driving carefully and smoothly, sim_score=0.3107",
+            "getting out of his car, sim_score=0.3103",
+            "driving it, sim_score=0.2828",
+            "enjoying the ride, sim_score=0.1855",
+            "focused on the road ahead, sim_score=0.1521",
+            "turning the steering wheel to navigate the curve, sim_score=0.1217",
+            "walking towards the camera, sim_score=0.0698",
+            "appears to be in a hurry, sim_score=0.0151"
+        ]
+    },
+    "prompt0093": {
+        "user_prompt": "Two people playing rock-paper-scissors. They are laughing and having fun.",
+        "original_description": "Two people playing rock-paper-scissors. They are laughing and having fun.",
+        "merged_description": "Two people playing a game of rock-paper-scissors, laughing and having fun.",
+        "refined_description": "Two people are engaged in a lively game of rock-paper-scissors, their laughter echoing as they enjoy the playful competition.",
+        "ranked_modifiers_used": [
+            "playing a game of rock paper scissors, sim_score=0.656"
+        ],
+        "modifiers_full_ranked_list": [
+            "playing a game of rock paper scissors, sim_score=0.656",
+            "playing with each other, sim_score=0.5533",
+            "playing a game together, sim_score=0.5528",
+            "playing a game, sim_score=0.4659",
+            "having fun while playing the game, sim_score=0.454",
+            "having a lot of fun together, sim_score=0.3758",
+            "playing in a room, sim_score=0.2921",
+            "a cartoon animation, sim_score=0.2259",
+            "a game played by a group of young boys in military uniforms, sim_score=0.2052",
+            "a 3D animation of a group of balls, sim_score=0.1946"
+        ]
+    },
+    "prompt0098": {
+        "user_prompt": "A person scuba dives in a deep blue ocean.",
+        "original_description": "A person scuba dives in a deep blue ocean.",
+        "merged_description": "A person scuba dives in a deep blue ocean, diving underwater in the ocean. They are equipped with scuba diving gear and can be seen exploring the marine life and coral reefs.",
+        "refined_description": "A person scuba dives in a deep blue ocean, equipped with scuba diving gear. They explore vibrant marine life and colorful coral reefs, surrounded by the vast, serene underwater world.",
+        "ranked_modifiers_used": [
+            "scuba diving in the ocean, sim_score=0.739",
+            "diving underwater in the ocean, sim_score=0.7029",
+            "diving in the ocean, sim_score=0.6913"
+        ],
+        "modifiers_full_ranked_list": [
+            "scuba diving in the ocean, sim_score=0.739",
+            "diving underwater in the ocean, sim_score=0.7029",
+            "diving in the ocean, sim_score=0.6913",
+            "using a scuba diving gear to explore the underwater world, sim_score=0.5972",
+            "diving into the water, sim_score=0.5602",
+            "the underwater world, sim_score=0.5325",
+            "swimming through the ocean, sim_score=0.5019",
+            "exploring the ocean, sim_score=0.4884",
+            "swimming and diving in the water, sim_score=0.4729",
+            "enjoying the underwater experience, sim_score=0.4722",
+            "enjoying his time underwater, sim_score=0.4511",
+            "swimming and exploring the coral reefs, sim_score=0.3037",
+            "the beauty of the sea creatures, sim_score=0.2952",
+            "the beauty of the coral reefs, sim_score=0.2422",
+            "having a great time, sim_score=0.0232"
+        ]
+    },
+    "prompt0100": {
+        "user_prompt": "Bruce Lee shout like a lion ,wild fighter",
+        "original_description": "Bruce Lee shout like a lion ,wild fighter",
+        "merged_description": "Bruce Lee shout like a lion ,wild fighter",
+        "refined_description": "Bruce Lee stands fiercely, his powerful shout echoing like a lion's roar. His movements are swift and precise, embodying the spirit of a wild fighter.",
+        "ranked_modifiers_used": [],
+        "modifiers_full_ranked_list": [
+            "a fight between Bruce Lee and Chuck Norris, sim_score=0.5964",
+            "a cartoon character of a lion, sim_score=0.5435",
+            "a majestic lion, sim_score=0.5399",
+            "fighting, sim_score=0.3248",
+            "a fierce look on its face, sim_score=0.3014",
+            "an intense and actionpacked match, sim_score=0.2058",
+            "walking towards the camera, sim_score=0.0945",
+            "curious about its surroundings, sim_score=0.0231"
+        ]
+    },
+    "prompt0102": {
+        "user_prompt": "Kanye West eating spaghetti",
+        "original_description": "Kanye West eating spaghetti",
+        "merged_description": "Kanye West is eating spaghetti with meat sauce using a fork and spoon, while sitting at a table.",
+        "refined_description": "Kanye West sits at a dining table, enjoying a plate of spaghetti with meat sauce. He uses a fork and spoon to twirl the pasta, creating a relaxed and casual dining scene.",
+        "ranked_modifiers_used": [
+            "eating spaghetti, sim_score=0.7193",
+            "eating spaghetti with a fork, sim_score=0.6335",
+            "eating spaghetti while sitting at a table, sim_score=0.6204",
+            "eating spaghetti with a fork and spoon, sim_score=0.6102",
+            "eating spaghetti with meat sauce, sim_score=0.6056"
+        ],
+        "modifiers_full_ranked_list": [
+            "eating spaghetti, sim_score=0.7193",
+            "eating spaghetti with a fork, sim_score=0.6335",
+            "eating spaghetti while sitting at a table, sim_score=0.6204",
+            "eating spaghetti with a fork and spoon, sim_score=0.6102",
+            "eating spaghetti with meat sauce, sim_score=0.6056",
+            "using a fork to eat spaghetti with meat sauce, sim_score=0.5094",
+            "enjoying his meal, sim_score=0.4466",
+            "appears to be a simple yet delicious meal, sim_score=0.3637",
+            "enjoying her meal, sim_score=0.3284",
+            "appears to be enjoying her meal, sim_score=0.3137",
+            "sitting at a table, sim_score=0.1944"
+        ]
+    },
+    "prompt0176": {
+        "user_prompt": "A beautiful leather handbag caught my eye in the store window. It had a classic shape and was a rich cognac color. The material was soft and supple. The golden text label on the front read 'Michael Kors'.",
+        "original_description": "A beautiful leather handbag caught my eye in the store window. It had a classic shape and was a rich cognac color. The material was soft and supple. The golden text label on the front read 'Michael Kors'.",
+        "merged_description": "A beautiful leather handbag caught my eye in the store window. It had a classic shape, was a rich cognac color, and had a colorful design. The material was soft and supple, and the golden text label on the front read 'Michael Kors'.",
+        "refined_description": "A beautiful leather handbag is displayed in the store window, catching the eye with its classic shape and rich cognac color. The material appears soft and supple, and a golden text label on the front reads 'Michael Kors'.",
+        "ranked_modifiers_used": [
+            "a colorful handbag, sim_score=0.6465"
+        ],
+        "modifiers_full_ranked_list": [
+            "a colorful handbag, sim_score=0.6465",
+            "a display of handbags in a store, sim_score=0.5987",
+            "a collection of handbags, sim_score=0.552",
+            "looking at the handbags, sim_score=0.5154",
+            "standing in front of a display of handbags, sim_score=0.3966",
+            "different colors and styles, sim_score=0.2918",
+            "unique design, sim_score=0.2157",
+            "appears to be interested in them, sim_score=0.0987",
+            "hanging on a wall, sim_score=0.0787",
+            "hanging from the ceiling, sim_score=0.0236"
+        ]
+    },
+    "prompt0178": {
+        "user_prompt": "Red knife cuts string of kite",
+        "original_description": "Red knife cuts string of kite",
+        "merged_description": "Red knife cuts string of kite, creating a kite, cutting and folding the material to make the kite. The person appears to be playing with a kite that is being flown.",
+        "refined_description": "A red knife swiftly slices through the string of a kite, causing it to drift freely into the sky. Nearby, a person watches the kite soar, enjoying the playful dance of the colorful fabric against the backdrop of a clear blue sky.",
+        "ranked_modifiers_used": [
+            "cutting and folding the material to make the kite, sim_score=0.6545",
+            "creating a kite, sim_score=0.6372",
+            "playing with a kite, sim_score=0.6361",
+            "a kite that is being flown, sim_score=0.6176"
+        ],
+        "modifiers_full_ranked_list": [
+            "cutting and folding the material to make the kite, sim_score=0.6545",
+            "creating a kite, sim_score=0.6372",
+            "playing with a kite, sim_score=0.6361",
+            "a kite that is being flown, sim_score=0.6176",
+            "playing with a kite in a field, sim_score=0.575",
+            "enjoying the process of making the kite together, sim_score=0.5353",
+            "being flown in the air, sim_score=0.1694",
+            "fun and enjoyable activity for everyone involved, sim_score=0.0357",
+            "the glowing effect, sim_score=0.0122",
+            "enjoying herself, sim_score=-0.0153"
+        ]
+    },
+    "prompt0180": {
+        "user_prompt": "A bright yellow umbrella with a wooden handle. It's compact easy to carry.",
+        "original_description": "A bright yellow umbrella with a wooden handle. It's compact easy to carry.",
+        "merged_description": "A bright yellow umbrella with a wooden handle, holding an umbrella, and it's compact and easy to carry. The umbrella is attached to the side of a building in a building with colorful umbrellas.",
+        "refined_description": "A bright yellow umbrella with a wooden handle stands out against a backdrop of colorful umbrellas attached to the side of a building. Its compact design makes it easy to carry, adding a cheerful touch to the vibrant scene.",
+        "ranked_modifiers_used": [
+            "holding an umbrella, sim_score=0.642",
+            "we can see a yellow umbrella that is attached to the side of a building, sim_score=0.6189",
+            "a building with colorful umbrellas, sim_score=0.6059"
+        ],
+        "modifiers_full_ranked_list": [
+            "holding an umbrella, sim_score=0.642",
+            "we can see a yellow umbrella that is attached to the side of a building, sim_score=0.6189",
+            "a building with colorful umbrellas, sim_score=0.6059",
+            "a closeup view of a person holding an umbrella, sim_score=0.5906",
+            "the beauty of the umbrellas, sim_score=0.5277",
+            "raining outside, sim_score=0.2324",
+            "hanging outside a building, sim_score=0.232",
+            "a restaurant, sim_score=0.2064",
+            "shielding themselves from the rain, sim_score=0.1855",
+            "covering the entrance, sim_score=0.1321"
+        ]
+    },
+    "prompt0188": {
+        "user_prompt": "A bright red eight-sided sign with white lettering displaying the word 'STOP' in the center.",
+        "original_description": "A bright red eight-sided sign with white lettering displaying the word 'STOP' in the center.",
+        "merged_description": "A bright red eight-sided sign with white lettering displaying the word 'STOP' in the center. It appears to be a closeup of a stop sign in a residential area. The person is standing in front of the stop sign.",
+        "refined_description": "A bright red eight-sided stop sign with white lettering displaying the word 'STOP' stands prominently in a residential area. A person is standing nearby, adding a sense of scale and context to the scene.",
+        "ranked_modifiers_used": [
+            "a stop sign in a residential area, sim_score=0.7403",
+            "standing in front of a stop sign, sim_score=0.6827",
+            "a closeup of a sign, sim_score=0.6229"
+        ],
+        "modifiers_full_ranked_list": [
+            "a stop sign in a residential area, sim_score=0.7403",
+            "standing in front of a stop sign, sim_score=0.6827",
+            "a closeup of a sign, sim_score=0.6229",
+            "a no smoking sign, sim_score=0.4114",
+            "illuminated by streetlights, sim_score=0.2374",
+            "located in a residential area at night, sim_score=0.2149",
+            "waiting for something or someone, sim_score=0.1881",
+            "none, sim_score=0.0399"
+        ]
+    },
+    "prompt0189": {
+        "user_prompt": "A silver cell phone lays next to a red fire hydrant.",
+        "original_description": "A silver cell phone lays next to a red fire hydrant.",
+        "merged_description": "A silver cell phone lays next to a red fire hydrant, standing in the middle of a street, next to a red fire hydrant, standing next to the fire hydrant.",
+        "refined_description": "A silver cell phone rests beside a red fire hydrant on a quiet street. The vibrant red of the hydrant contrasts with the sleek silver of the phone, creating a striking visual scene.",
+        "ranked_modifiers_used": [
+            "standing next to a red fire hydrant, sim_score=0.6421",
+            "next to a red fire hydrant, sim_score=0.6389",
+            "a red fire hydrant in the middle of a street, sim_score=0.6197",
+            "standing next to a fire hydrant, sim_score=0.6131"
+        ],
+        "modifiers_full_ranked_list": [
+            "standing next to a red fire hydrant, sim_score=0.6421",
+            "next to a red fire hydrant, sim_score=0.6389",
+            "a red fire hydrant in the middle of a street, sim_score=0.6197",
+            "standing next to a fire hydrant, sim_score=0.6131",
+            "curious about the fire hydrant, sim_score=0.5547",
+            "appears to be a firefighter, sim_score=0.2673",
+            "talking to the camera, sim_score=0.1492",
+            "looking at it closely, sim_score=0.1355",
+            "surrounded by colorful confetti, sim_score=0.1126",
+            "appears to be in a hurry, sim_score=0.1099",
+            "celebration of some sort, sim_score=0.0223"
+        ]
+    },
+    "prompt0191": {
+        "user_prompt": "the 'KEEP OFF THE GRASS'",
+        "original_description": "the 'KEEP OFF THE GRASS'",
+        "merged_description": "The 'KEEP OFF THE GRASS' sign indicates that the grass is being cut. It appears that someone is walking on the grass despite the sign, on the grass.",
+        "refined_description": "A 'KEEP OFF THE GRASS' sign stands prominently on a well-manicured lawn. Despite the warning, a person is seen walking across the grass, leaving a subtle trail behind them.",
+        "ranked_modifiers_used": [
+            "cutting the grass, sim_score=0.6536",
+            "walking on the grass, sim_score=0.6424",
+            "on the grass, sim_score=0.6248"
+        ],
+        "modifiers_full_ranked_list": [
+            "cutting the grass, sim_score=0.6536",
+            "walking on the grass, sim_score=0.6424",
+            "on the grass, sim_score=0.6248",
+            "sitting in a circle on the grass, sim_score=0.4921",
+            "using a lawn mower to cut the grass, sim_score=0.4132",
+            "pecking at the ground, sim_score=0.3424",
+            "casual outdoor setting, sim_score=0.3021",
+            "engaged in some kind of activity, sim_score=0.2532",
+            "enjoying her time outdoors, sim_score=0.2273",
+            "performing acrobatic moves, sim_score=0.1857",
+            "appears to be very focused on his task, sim_score=0.1855",
+            "performance of some sort, sim_score=0.0773"
+        ]
+    },
+    "prompt0192": {
+        "user_prompt": "the words 'KEEP OFF THE GRASS' written on a brick wall",
+        "original_description": "the words 'KEEP OFF THE GRASS' written on a brick wall",
+        "merged_description": "The words 'KEEP OFF THE GRASS' are written on a brick wall, suggesting that the grass is not to be walked on.",
+        "refined_description": "The words 'KEEP OFF THE GRASS' are boldly painted on a brick wall, clearly indicating a warning to avoid stepping on the grass nearby.",
+        "ranked_modifiers_used": [
+            "writing on the grass, sim_score=0.6508"
+        ],
+        "modifiers_full_ranked_list": [
+            "writing on the grass, sim_score=0.6508",
+            "a brick wall with plants, sim_score=0.5699",
+            "a brick wall, sim_score=0.5287",
+            "sitting on the grass, sim_score=0.4396",
+            "trying to escape from a brick wall, sim_score=0.4331",
+            "appears to be focused on their writing, sim_score=0.2491",
+            "holding a pen, sim_score=0.2327",
+            "smoke coming out of it, sim_score=0.1991",
+            "thriving in the sunlight, sim_score=0.1979",
+            "growing on it, sim_score=0.1602",
+            "creating a dramatic effect, sim_score=0.073",
+            "the animation is colorful and entertaining, sim_score=0.0463"
+        ]
+    },
+    "prompt0193": {
+        "user_prompt": "the words 'KEEP OFF THE GRASS' on a black sticker",
+        "original_description": "the words 'KEEP OFF THE GRASS' on a black sticker",
+        "merged_description": "the words 'KEEP OFF THE GRASS' on a black sticker",
+        "refined_description": "The words \"KEEP OFF THE GRASS\" are boldly printed on a sleek black sticker.",
+        "ranked_modifiers_used": [],
+        "modifiers_full_ranked_list": [
+            "writing on the grass, sim_score=0.5355",
+            "a closeup view of grass, sim_score=0.4973",
+            "sitting on the grass with a sign, sim_score=0.4858",
+            "sitting on the grass, sim_score=0.4087",
+            "movement of the grass as it blows in the wind, sim_score=0.3539",
+            "appears to be focused on their writing, sim_score=0.1937",
+            "a calm and peaceful scene, sim_score=0.1787",
+            "blowing in the wind, sim_score=0.1781",
+            "waiting for something or someone, sim_score=0.1711",
+            "calm and peaceful scene, sim_score=0.1702",
+            "moving and shining in the sunlight, sim_score=0.148",
+            "writing in a notebook, sim_score=0.1242"
+        ]
+    },
+    "prompt0194": {
+        "user_prompt": "the words 'KEEP OFF THE GRASS' on a sign next to a lawn",
+        "original_description": "the words 'KEEP OFF THE GRASS' on a sign next to a lawn",
+        "merged_description": "The words 'KEEP OFF THE GRASS' are visible on a sign next to a lawn, with people sitting on the grass, defying the sign. The closeup view of the grass reveals the writing on the grass in the background.",
+        "refined_description": "A sign next to a lush green lawn prominently displays the words 'KEEP OFF THE GRASS'. Despite the warning, people are casually sitting on the grass, enjoying the sunny day. The scene captures the contrast between the sign's message and the relaxed atmosphere.",
+        "ranked_modifiers_used": [
+            "sitting on the grass with a sign, sim_score=0.6837",
+            "writing on the grass, sim_score=0.6345",
+            "a closeup view of grass, sim_score=0.6006"
+        ],
+        "modifiers_full_ranked_list": [
+            "sitting on the grass with a sign, sim_score=0.6837",
+            "writing on the grass, sim_score=0.6345",
+            "a closeup view of grass, sim_score=0.6006",
+            "a closeup view of grass with dew drops on it, sim_score=0.4924",
+            "sitting on the grass, sim_score=0.4753",
+            "swaying in the wind, sim_score=0.2684",
+            "moving and shining in the sunlight, sim_score=0.1833",
+            "a calm and peaceful scene, sim_score=0.174",
+            "appears to be focused on their writing, sim_score=0.1604",
+            "waiting for something or someone, sim_score=0.1549",
+            "calm and peaceful scene, sim_score=0.154",
+            "writing in a notebook, sim_score=0.1282"
+        ]
+    },
+    "prompt0195": {
+        "user_prompt": "the word 'START'",
+        "original_description": "the word 'START'",
+        "merged_description": "the word 'START'",
+        "refined_description": "The word \"START\" appears prominently, bold and clear, against a simple background, inviting action and focus.",
+        "ranked_modifiers_used": [],
+        "modifiers_full_ranked_list": [
+            "opening a letter, sim_score=0.429",
+            "waiting for a race to begin, sim_score=0.3948",
+            "waiting for their turn to start the race, sim_score=0.3895",
+            "they are waiting for a race to begin, sim_score=0.3353",
+            "it appears to be a letter, sim_score=0.2748",
+            "waiting for something, sim_score=0.2185",
+            "waiting for something to happen, sim_score=0.2042",
+            "standing in a line, sim_score=0.1943",
+            "a race track, sim_score=0.1539",
+            "looking at the contents inside, sim_score=0.149",
+            "sitting in a car, sim_score=0.0631"
+        ]
+    },
+    "prompt0196": {
+        "user_prompt": "word the 'START' written on a street surface",
+        "original_description": "word the 'START' written on a street surface",
+        "merged_description": "word the 'START' written on a street surface",
+        "refined_description": "The word \"START\" is boldly painted on the street surface, standing out against the asphalt.",
+        "ranked_modifiers_used": [],
+        "modifiers_full_ranked_list": [
+            "a street, sim_score=0.5552",
+            "a cobblestone street, sim_score=0.5457",
+            "a street scene, sim_score=0.5363",
+            "standing on a cobblestone street, sim_score=0.4818",
+            "a street with a streetcar, sim_score=0.4332",
+            "people walking on the street, sim_score=0.3559",
+            "parked on the side of the road, sim_score=0.3297",
+            "a train station, sim_score=0.2436",
+            "the sun shining in the background, sim_score=0.2365",
+            "part of a parade or a reenactment of a historical event, sim_score=0.1858",
+            "dangerous situation, sim_score=0.1554",
+            "appears to be angry, sim_score=0.1463",
+            "holding a stick in his hand, sim_score=0.126",
+            "carrying shields and batons, sim_score=0.0652",
+            "carrying shields and weapons, sim_score=0.0458"
+        ]
+    },
+    "prompt0197": {
+        "user_prompt": "the word 'START' on a blue t-shirt",
+        "original_description": "the word 'START' on a blue t-shirt",
+        "merged_description": "The word 'START' is written on a blue t-shirt. The person wearing the t-shirt is wearing a blue shirt.",
+        "refined_description": "The word 'START' is boldly printed on a blue t-shirt worn by a person. The vibrant blue fabric contrasts with the white lettering, creating a striking visual effect.",
+        "ranked_modifiers_used": [
+            "wearing a blue shirt, sim_score=0.6327"
+        ],
+        "modifiers_full_ranked_list": [
+            "wearing a blue shirt, sim_score=0.6327",
+            "wearing a blue shirt and glasses, sim_score=0.5276",
+            "a white tshirt, sim_score=0.4293",
+            "appears to be a quote from a movie or a book, sim_score=0.1764",
+            "hanging on a hanger, sim_score=0.1283",
+            "enjoying himself, sim_score=0.0716",
+            "discussing something related to the sword, sim_score=0.0686",
+            "a nurse talking to a patient in a hospital room, sim_score=0.065",
+            "enjoying the moment, sim_score=0.0605",
+            "sitting in a classroom, sim_score=0.0588",
+            "cooking together in a kitchen, sim_score=-0.0069"
+        ]
+    },
+    "prompt0198": {
+        "user_prompt": "the word 'START' written above the in word 'SMILING'",
+        "original_description": "the word 'START' written above the in word 'SMILING'",
+        "merged_description": "the word 'START' written above the in word 'SMILING'",
+        "refined_description": "The word 'START' is written above the word 'SMILING'.",
+        "ranked_modifiers_used": [],
+        "modifiers_full_ranked_list": [
+            "smiling in front of the camera, sim_score=0.517",
+            "smiling, sim_score=0.5068",
+            "smiling at the camera, sim_score=0.492",
+            "appears to be happy, sim_score=0.3278",
+            "painting his face, sim_score=0.1738",
+            "looking directly at the camera, sim_score=0.1306",
+            "a classroom, sim_score=0.0563"
+        ]
+    },
+    "prompt0202": {
+        "user_prompt": "A yellow truck with a sturdy fork lifts a pile of wooden blocks. The truck has a rectangular shape and metal material, with a blue text label 'Toyota' on the hood.",
+        "original_description": "A yellow truck with a sturdy fork lifts a pile of wooden blocks. The truck has a rectangular shape and metal material, with a blue text label 'Toyota' on the hood.",
+        "merged_description": "A yellow Toyota truck with a sturdy fork lift is seen driving and lifting a pile of wooden blocks. The truck, carrying scrap metal, has a rectangular shape, metal material, and a blue text label 'Toyota' on the hood.",
+        "refined_description": "A yellow Toyota truck with a sturdy forklift is lifting a pile of wooden blocks. The truck has a rectangular shape and is made of metal, with a prominent blue 'Toyota' label on its hood.",
+        "ranked_modifiers_used": [
+            "a truck, sim_score=0.6522",
+            "driving a yellow truck, sim_score=0.6215",
+            "a truck carrying scrap metal, sim_score=0.6065"
+        ],
+        "modifiers_full_ranked_list": [
+            "a truck, sim_score=0.6522",
+            "driving a yellow truck, sim_score=0.6215",
+            "a truck carrying scrap metal, sim_score=0.6065",
+            "appears to be a racing truck, sim_score=0.504",
+            "attached to the front of a truck, sim_score=0.453",
+            "carrying a load of scrap metal, sim_score=0.3554",
+            "appears to be focused on the road ahead, sim_score=0.2029",
+            "driving on a road, sim_score=0.1961",
+            "decoration, sim_score=0.1387",
+            "moving slowly, sim_score=0.104"
+        ]
+    },
+    "prompt0204": {
+        "user_prompt": "A colorful street scene with a red bicycle, a yellow truck, a blue car and a green scooter.",
+        "original_description": "A colorful street scene with a red bicycle, a yellow truck, a blue car and a green scooter.",
+        "merged_description": "A colorful street scene with a red bicycle, a green and yellow truck driving down a road with trucks of different sizes and colors, a blue car, and a green scooter.",
+        "refined_description": "A vibrant street scene unfolds with a red bicycle parked near the sidewalk. A yellow truck drives down the road, passing by a blue car and a green scooter. The lively colors of the vehicles create a dynamic and cheerful atmosphere.",
+        "ranked_modifiers_used": [
+            "riding in a colorful and decorated truck, sim_score=0.6657",
+            "a green and yellow truck driving down a street, sim_score=0.6454",
+            "a road with trucks of different sizes and colors, sim_score=0.6404"
+        ],
+        "modifiers_full_ranked_list": [
+            "riding in a colorful and decorated truck, sim_score=0.6657",
+            "a green and yellow truck driving down a street, sim_score=0.6454",
+            "a road with trucks of different sizes and colors, sim_score=0.6404",
+            "riding in a truck, sim_score=0.4624",
+            "appears to be a utility vehicle, sim_score=0.4485",
+            "driving on a road, sim_score=0.4415",
+            "driving down a street, sim_score=0.3737",
+            "passing each other on the road, sim_score=0.3566",
+            "enjoying the ride, sim_score=0.3493",
+            "focused on their driving, sim_score=0.2476",
+            "having a good time, sim_score=0.0601",
+            "having a ladder on top of it, sim_score=0.0471"
+        ]
+    },
+    "prompt0205": {
+        "user_prompt": "A grey Yamaha motorcycle and a yellow Trek bicycle race.",
+        "original_description": "A grey Yamaha motorcycle and a yellow Trek bicycle race.",
+        "merged_description": "A grey Yamaha motorcycle and a yellow Trek bicycle are racing each other in what appears to be a motorcycle race. They are riding their respective vehicles in a race.",
+        "refined_description": "A grey Yamaha motorcycle and a yellow Trek bicycle race side by side on a winding road. The motorcycle roars with power, while the bicycle pedals swiftly, both riders focused and determined. The scene is dynamic and thrilling, showcasing the contrast between the sleek, powerful motorcycle and the agile, vibrant bicycle.",
+        "ranked_modifiers_used": [
+            "a bike race, sim_score=0.7771",
+            "a motorcycle race, sim_score=0.7642",
+            "riding a motorcycle in a race, sim_score=0.7152"
+        ],
+        "modifiers_full_ranked_list": [
+            "a bike race, sim_score=0.7771",
+            "a motorcycle race, sim_score=0.7642",
+            "riding a motorcycle in a race, sim_score=0.7152",
+            "riding a motorcycle, sim_score=0.5272",
+            "competing in a race, sim_score=0.5071",
+            "preparing for a race, sim_score=0.4584",
+            "getting ready to start the race, sim_score=0.4499",
+            "lining up their bikes, sim_score=0.4083",
+            "trying their best to win the race, sim_score=0.3991",
+            "competing against each other, sim_score=0.3812",
+            "a competitive atmosphere, sim_score=0.28",
+            "a group of people cheering him on, sim_score=0.0873"
+        ]
+    },
+    "prompt0210": {
+        "user_prompt": "a blue pickup truck with a rhinoceros in its flatbed",
+        "original_description": "a blue pickup truck with a rhinoceros in its flatbed",
+        "merged_description": "a blue pickup truck with a rhinoceros in its flatbed, a truck transporting a rhinoceros.",
+        "refined_description": "A blue pickup truck drives along a dusty road with a rhinoceros calmly standing in its flatbed. The truck moves steadily, its vibrant color contrasting with the earthy surroundings, as it transports the majestic animal.",
+        "ranked_modifiers_used": [
+            "a truck, sim_score=0.6285"
+        ],
+        "modifiers_full_ranked_list": [
+            "a truck, sim_score=0.6285",
+            "a truck with a bed in the back, sim_score=0.5917",
+            "riding in a flatbed truck, sim_score=0.5782",
+            "attached to the front of a truck, sim_score=0.4659",
+            "riding in a truck while holding a banner, sim_score=0.372",
+            "appears to be sleeping, sim_score=0.2311",
+            "sleeping on the bed, sim_score=0.2191",
+            "moving slowly, sim_score=0.1058",
+            "decoration, sim_score=0.0541",
+            "having a good time, sim_score=0.0321"
+        ]
+    },
+    "prompt0211": {
+        "user_prompt": "an orange pickup truck next to a yellow Porsche 911",
+        "original_description": "an orange pickup truck next to a yellow Porsche 911",
+        "merged_description": "an orange pickup truck next to a yellow Porsche 911, both vehicles are parked. They are near a truck.",
+        "refined_description": "An orange pickup truck is parked next to a sleek yellow Porsche 911. Both vehicles are situated in a parking area, creating a striking contrast with their vibrant colors.",
+        "ranked_modifiers_used": [
+            "a truck, sim_score=0.6156",
+            "near a truck, sim_score=0.6031"
+        ],
+        "modifiers_full_ranked_list": [
+            "a truck, sim_score=0.6156",
+            "near a truck, sim_score=0.6031",
+            "a closeup view of a truck, sim_score=0.5721",
+            "attached to the front of a truck, sim_score=0.4826",
+            "construction vehicle, sim_score=0.4255",
+            "parked on the side of the road, sim_score=0.3224",
+            "moving slowly, sim_score=0.1633",
+            "dressed up as cowboys and cowgirls, sim_score=0.1416",
+            "having a lot of fun, sim_score=0.1317",
+            "decoration, sim_score=0.1296",
+            "performing a play, sim_score=-0.0503"
+        ]
+    },
+    "prompt0238": {
+        "user_prompt": "an yellow clock is ticking on a wooden table",
+        "original_description": "an yellow clock is ticking on a wooden table",
+        "merged_description": "An alarm clock is prominently displayed in a closeup view on a wooden table. The alarm clock appears to be an old-fashioned one, with a red and yellow design.",
+        "refined_description": "A yellow clock with an old-fashioned design ticks steadily on a wooden table, its vibrant color contrasting with the warm wood grain.",
+        "ranked_modifiers_used": [
+            "a clock on a table, sim_score=0.7406",
+            "a closeup view of an alarm clock on a wooden table, sim_score=0.6907",
+            "a red and yellow clock, sim_score=0.6884",
+            "appears to be an oldfashioned clock, sim_score=0.6156"
+        ],
+        "modifiers_full_ranked_list": [
+            "a clock on a table, sim_score=0.7406",
+            "a closeup view of an alarm clock on a wooden table, sim_score=0.6907",
+            "a red and yellow clock, sim_score=0.6884",
+            "appears to be an oldfashioned clock, sim_score=0.6156",
+            "spinning on a table, sim_score=0.4518",
+            "tick, sim_score=0.2869",
+            "spinning, sim_score=0.2148",
+            "the sound can be heard clearly, sim_score=0.2079",
+            "papers flying around it, sim_score=0.1822",
+            "3D animation, sim_score=0.1141",
+            "a room with a fireplace, sim_score=0.1087"
+        ]
+    },
+    "prompt0409": {
+        "user_prompt": "orange and white cat., slow motion",
+        "original_description": "orange and white cat., slow motion",
+        "merged_description": "an animation of a cartoon orange and white cat in slow motion. It appears to be a display of white cats.",
+        "refined_description": "An orange and white cat moves gracefully in slow motion, its fur gently rippling with each step. The scene captures the cat's elegant movements, highlighting its vibrant colors against a soft background.",
+        "ranked_modifiers_used": [
+            "an animation of a cat, sim_score=0.6556",
+            "a display of white cats, sim_score=0.6112",
+            "a cartoon cat, sim_score=0.6074"
+        ],
+        "modifiers_full_ranked_list": [
+            "an animation of a cat, sim_score=0.6556",
+            "a display of white cats, sim_score=0.6112",
+            "a cartoon cat, sim_score=0.6074",
+            "a colorful and vibrant animation, sim_score=0.3857",
+            "jumping and running around, sim_score=0.2658",
+            "lined up in a row, sim_score=0.1742",
+            "a display of some kind, sim_score=0.1689",
+            "has a surprised expression, sim_score=0.1155",
+            "surprised by something, sim_score=0.0968"
+        ]
+    },
+    "prompt0411": {
+        "user_prompt": "slow motion, A bird brown and a blue bear.",
+        "original_description": "slow motion, A bird brown and a blue bear.",
+        "merged_description": "Slow motion, a brown bear and a blue bear.",
+        "refined_description": "A brown bird flutters gracefully in slow motion alongside a uniquely blue bear. The scene captures their gentle movements, highlighting the contrast between the bird's earthy tones and the bear's unusual hue.",
+        "ranked_modifiers_used": [
+            "a brown bear, sim_score=0.6505"
+        ],
+        "modifiers_full_ranked_list": [
+            "a brown bear, sim_score=0.6505",
+            "an animation of a bear in a forest, sim_score=0.5535",
+            "a cartoon animation of a bird, sim_score=0.5437",
+            "walking through the trees and bushes in the forest, sim_score=0.2934",
+            "enjoying its surroundings, sim_score=0.254",
+            "enjoying itself, sim_score=0.1974",
+            "rolling around on the ground, sim_score=0.1684",
+            "perched on a tree branch, sim_score=0.153",
+            "created using Adobe After Effects software, sim_score=0.0621"
+        ]
+    },
+    "prompt0413": {
+        "user_prompt": "a snail, the large motion",
+        "original_description": "a snail, the large motion",
+        "merged_description": "A snail is seen interacting with its surroundings as it moves slowly across the table. The observer is holding the snail close to his face and looking at it closely, observing it moving slowly, while trying to communicate with the snail.",
+        "refined_description": "A snail moves slowly across a table, its delicate antennae exploring the surface. An observer leans in, holding the snail close to their face, captivated by its deliberate motion and intricate details.",
+        "ranked_modifiers_used": [
+            "interacting with a snail, sim_score=0.7688",
+            "observing a snail, sim_score=0.7671",
+            "observing the snail closely, sim_score=0.7665",
+            "looking at a snail, sim_score=0.7563",
+            "a closeup of a snail on a table, sim_score=0.7325",
+            "holding a snail close to his face, sim_score=0.7086",
+            "trying to communicate with the snail, sim_score=0.7004"
+        ],
+        "modifiers_full_ranked_list": [
+            "interacting with a snail, sim_score=0.7688",
+            "observing a snail, sim_score=0.7671",
+            "observing the snail closely, sim_score=0.7665",
+            "looking at a snail, sim_score=0.7563",
+            "a closeup of a snail on a table, sim_score=0.7325",
+            "holding a snail close to his face, sim_score=0.7086",
+            "trying to communicate with the snail, sim_score=0.7004",
+            "appears to be a toy or a decorative item, sim_score=0.2888",
+            "being on a table, sim_score=0.2219",
+            "wearing a jacket, sim_score=0.0595",
+            "talking to it, sim_score=0.0392"
+        ]
+    },
+    "prompt0426": {
+        "user_prompt": "large motion, A group of six rabbits dressed in Victorian attire gathers for a garden tea party.",
+        "original_description": "large motion, A group of six rabbits dressed in Victorian attire gathers for a garden tea party.",
+        "merged_description": "large motion, A group of six rabbits dressed in Victorian attire gathers for a garden tea party.",
+        "refined_description": "A group of six rabbits, elegantly dressed in Victorian attire, gathers in a lush garden for a tea party. The scene is lively with the rabbits animatedly interacting, their outfits adorned with lace and top hats. Delicate china teacups and a variety of pastries are arranged on a beautifully set table, surrounded by blooming flowers and greenery. The atmosphere is charming and whimsical, capturing the essence of a delightful afternoon gathering.",
+        "ranked_modifiers_used": [],
+        "modifiers_full_ranked_list": [
+            "enjoying a tea party, sim_score=0.5577",
+            "a room dressed in rabbit costumes, sim_score=0.5253",
+            "a tea party in a circus tent, sim_score=0.5229",
+            "dancing in bunny costumes, sim_score=0.5064",
+            "wearing rabbit ears on their heads, sim_score=0.3953",
+            "a fun and lively event, sim_score=0.3378",
+            "creating a festive atmosphere, sim_score=0.3188",
+            "dancing, sim_score=0.2348",
+            "laughing together, sim_score=0.1924",
+            "having a lot of fun, sim_score=0.1728",
+            "playing a game, sim_score=0.1485",
+            "having a good time, sim_score=0.1424"
+        ]
+    },
+    "prompt0429": {
+        "user_prompt": "A man with a tailored suit, a pocket square, and a distinguished air., slow motion",
+        "original_description": "A man with a tailored suit, a pocket square, and a distinguished air., slow motion",
+        "merged_description": "A man with a tailored suit, a pocket square, and a distinguished air, is seen in slow motion. He is a man dressed in a suit.",
+        "refined_description": "A man in a tailored suit with a neatly folded pocket square exudes a distinguished air as he moves gracefully in slow motion.",
+        "ranked_modifiers_used": [
+            "a man in a suit, sim_score=0.6932",
+            "a man wearing a suit, sim_score=0.6866",
+            "a man dressed in a suit, sim_score=0.6746"
+        ],
+        "modifiers_full_ranked_list": [
+            "a man in a suit, sim_score=0.6932",
+            "a man wearing a suit, sim_score=0.6866",
+            "a man dressed in a suit, sim_score=0.6746",
+            "holding a gun, sim_score=0.2874",
+            "a closeup of a man\u2019s face as he paints, sim_score=0.2721",
+            "holding his knee, sim_score=0.2661",
+            "making a peace sign with his hand, sim_score=0.2295",
+            "revealing his facial expression, sim_score=0.2152",
+            "a fatherdaughter moment captured on camera, sim_score=0.1658",
+            "holding a baby in his arms, sim_score=0.1625",
+            "angry and agitated, sim_score=0.1507",
+            "pointing it towards the camera, sim_score=0.0453"
+        ]
+    },
+    "prompt0436": {
+        "user_prompt": "large motion, Surrounded by butterflies, a girl walks through a lush garden.",
+        "original_description": "large motion, Surrounded by butterflies, a girl walks through a lush garden.",
+        "merged_description": "A girl walks through a lush field with flowers and butterflies, as she takes large strides, moving gracefully through the beautiful landscape.",
+        "refined_description": "A girl takes large, graceful strides through a lush garden, surrounded by a flurry of colorful butterflies. The vibrant flowers and greenery create a stunning backdrop as she moves elegantly through the enchanting landscape.",
+        "ranked_modifiers_used": [
+            "walking through a beautiful garden, sim_score=0.6486",
+            "surrounded by flowers and a butterfly, sim_score=0.6224",
+            "a field with flowers and butterflies, sim_score=0.6195"
+        ],
+        "modifiers_full_ranked_list": [
+            "walking through a beautiful garden, sim_score=0.6486",
+            "surrounded by flowers and a butterfly, sim_score=0.6224",
+            "a field with flowers and butterflies, sim_score=0.6195",
+            "butterflies flying around, sim_score=0.5621",
+            "the beauty of the field with flowers, sim_score=0.4458",
+            "peaceful and serene environment, sim_score=0.3514",
+            "romantic and elegant, sim_score=0.2639",
+            "taking in the sights and sounds of nature, sim_score=0.2536",
+            "a path that leads to the entrance of the building, sim_score=0.2518",
+            "shining over a field, sim_score=0.1924",
+            "posing for the camera, sim_score=0.0491"
+        ]
+    },
+    "prompt0439": {
+        "user_prompt": "slow motion, A man finds a colorful parrot perched on his shoulder.",
+        "original_description": "slow motion, A man finds a colorful parrot perched on his shoulder.",
+        "merged_description": "Slow motion, a man finds a colorful parrot perched on his shoulder, with a closeup view of the parrot as it perches on his head. The parrot is in a cage.",
+        "refined_description": "A man, in slow motion, discovers a colorful parrot perched on his shoulder. The scene captures a close-up view of the vibrant parrot, highlighting its vivid feathers as it sits comfortably.",
+        "ranked_modifiers_used": [
+            "a bird perched on a man\u2019s head, sim_score=0.6555",
+            "a closeup view of a parrot, sim_score=0.632",
+            "a parrot in a cage, sim_score=0.623"
+        ],
+        "modifiers_full_ranked_list": [
+            "a bird perched on a man\u2019s head, sim_score=0.6555",
+            "a closeup view of a parrot, sim_score=0.632",
+            "a parrot in a cage, sim_score=0.623",
+            "perched on a man\u2019s head, sim_score=0.4973",
+            "enjoying its time in the cage, sim_score=0.4306",
+            "hanging from a rope in a cage, sim_score=0.3124",
+            "enjoying its meal, sim_score=0.2497",
+            "sitting on top of a hat, sim_score=0.21",
+            "trying to fly away but is unable to do so, sim_score=0.1377",
+            "eating a banana, sim_score=0.0715"
+        ]
+    },
+    "prompt0445": {
+        "user_prompt": "slow motion, a cricketer standing next to a wicket",
+        "original_description": "slow motion, a cricketer standing next to a wicket",
+        "merged_description": "In slow motion, a cricketer stands next to a wicket, indicating a cricket match is in progress. It appears to be a crucial moment in the cricket match.",
+        "refined_description": "A cricketer stands next to a wicket in slow motion, capturing a pivotal moment in the cricket match. The scene highlights the tension and anticipation of the game.",
+        "ranked_modifiers_used": [
+            "a cricket game, sim_score=0.6162",
+            "a cricket match, sim_score=0.6061"
+        ],
+        "modifiers_full_ranked_list": [
+            "a cricket game, sim_score=0.6162",
+            "a cricket match, sim_score=0.6061",
+            "standing in a dirt field playing cricket, sim_score=0.5929",
+            "a game of cricket being played between the two men, sim_score=0.5132",
+            "holding a bat and swinging it towards a man wearing a loincloth, sim_score=0.4057",
+            "being thrown by one of the players, sim_score=0.3232",
+            "standing in the middle of a dirt field, sim_score=0.2632",
+            "taking place in a stadium, sim_score=0.2556",
+            "sitting on the ground, sim_score=0.226",
+            "watching them play, sim_score=0.1952",
+            "enjoying the game, sim_score=0.1871",
+            "intense and exciting, sim_score=0.0516"
+        ]
+    },
+    "prompt0447": {
+        "user_prompt": "a young girl playing piano, slow motion",
+        "original_description": "a young girl playing piano, slow motion",
+        "merged_description": "A young girl, dressed in a red dress, is playing the piano in slow motion. She is playing the piano.",
+        "refined_description": "A young girl in a red dress gracefully plays the piano in slow motion. Her fingers move elegantly over the keys, capturing the serene and melodic atmosphere.",
+        "ranked_modifiers_used": [
+            "a young girl wearing a red dress and playing the piano, sim_score=0.7328",
+            "playing a piano, sim_score=0.6229"
+        ],
+        "modifiers_full_ranked_list": [
+            "a young girl wearing a red dress and playing the piano, sim_score=0.7328",
+            "playing a piano, sim_score=0.6229",
+            "a woman wearing lingerie and playing the piano, sim_score=0.5942",
+            "playing the piano, sim_score=0.5704",
+            "a closeup view of a piano being played, sim_score=0.4861",
+            "her body movements are sensual, sim_score=0.308",
+            "a closeup view of a musical instrument, sim_score=0.2871",
+            "appears to be enjoying herself, sim_score=0.2073",
+            "dressed in a sexy and seductive way, sim_score=0.0388"
+        ]
+    },
+    "prompt0455": {
+        "user_prompt": "slow motion, a selfie of an old man with a white beard",
+        "original_description": "slow motion, a selfie of an old man with a white beard",
+        "merged_description": "slow motion, a cartoon animation of an elderly man with a white beard and a smile on his face, featuring a man with a beard.",
+        "refined_description": "A slow-motion close-up captures an elderly man with a white beard smiling warmly at the camera, creating a serene and timeless selfie moment.",
+        "ranked_modifiers_used": [
+            "an elderly man with a white beard and a smile on his face, sim_score=0.6506",
+            "a cartoon animation of a man with a beard and a mustache, sim_score=0.6153",
+            "a man with a beard, sim_score=0.613"
+        ],
+        "modifiers_full_ranked_list": [
+            "an elderly man with a white beard and a smile on his face, sim_score=0.6506",
+            "a cartoon animation of a man with a beard and a mustache, sim_score=0.6153",
+            "a man with a beard, sim_score=0.613",
+            "cartoon animation, sim_score=0.3932",
+            "wearing a white shirt, sim_score=0.3154",
+            "smiling, sim_score=0.2653",
+            "appears to be happy, sim_score=0.1502",
+            "standing in a room, sim_score=0.115",
+            "appears to be lost in thought, sim_score=0.07",
+            "sitting on a horse, sim_score=0.0564"
+        ]
+    },
+    "prompt0652": {
+        "user_prompt": "Brad Pitt smirks charmingly, his blue eyes sparkling with mischief.",
+        "original_description": "Brad Pitt smirks charmingly, his blue eyes sparkling with mischief.",
+        "merged_description": "Brad Pitt smirks charmingly, his blue eyes sparkling with mischief.",
+        "refined_description": "Brad Pitt smirks charmingly, his blue eyes sparkling with mischief, creating an aura of playful intrigue.",
+        "ranked_modifiers_used": [],
+        "modifiers_full_ranked_list": [
+            "talking to the camera with a smile on his face, sim_score=0.4856",
+            "smiling at the camera, sim_score=0.4319",
+            "smiling and looking at the camera, sim_score=0.4153",
+            "smiling, sim_score=0.3929",
+            "appears to be happy, sim_score=0.1836",
+            "talking to the camera, sim_score=0.1797",
+            "posing in a room, sim_score=0.1547",
+            "a room with a window in the background, sim_score=0.0243"
+        ]
+    },
+    "prompt0653": {
+        "user_prompt": "Angelina Jolie's full lips curve into a smile, her gaze intense and captivating.",
+        "original_description": "Angelina Jolie's full lips curve into a smile, her gaze intense and captivating.",
+        "merged_description": "Angelina Jolie's full lips curve into a smile, her gaze intense and captivating.",
+        "refined_description": "Angelina Jolie's full lips curve into a warm smile, her intense and captivating gaze drawing attention.",
+        "ranked_modifiers_used": [],
+        "modifiers_full_ranked_list": [
+            "a woman with blonde hair and a smile on her face, sim_score=0.5529",
+            "a beautiful woman smiling in front of the camera, sim_score=0.5198",
+            "talking to the camera with a serious expression on her face, sim_score=0.5175",
+            "smiling, sim_score=0.4466",
+            "looking at the camera, sim_score=0.2408",
+            "talking to the camera, sim_score=0.2138",
+            "appears to be happy, sim_score=0.1743",
+            "appears to be dancing, sim_score=0.164",
+            "dancing, sim_score=0.1536",
+            "promoting a movie, sim_score=0.1456",
+            "appears to be upset, sim_score=0.006"
+        ]
+    },
+    "prompt0654": {
+        "user_prompt": "his Cruise's intense stare conveys determination, Tom jaw set firmly.",
+        "original_description": "his Cruise's intense stare conveys determination, Tom jaw set firmly.",
+        "merged_description": "his Cruise's intense stare conveys determination, Tom jaw set firmly.",
+        "refined_description": "Tom Cruise's intense stare conveys determination, his jaw set firmly, exuding a sense of unwavering resolve.",
+        "ranked_modifiers_used": [],
+        "modifiers_full_ranked_list": [
+            "posing in front of a cruise ship, sim_score=0.4528",
+            "on a cruise ship sailing on the ocean, sim_score=0.4218",
+            "enjoying themselves on a cruise ship, sim_score=0.4107",
+            "sailing on the ocean, sim_score=0.3213",
+            "having a good time on the deck of the ship, sim_score=0.2598",
+            "smiling, sim_score=0.1969",
+            "moving smoothly through the water, sim_score=0.1692",
+            "enjoying themselves, sim_score=0.1624",
+            "appears to be large and luxurious, sim_score=0.1163",
+            "dancing, sim_score=0.081",
+            "having a good time, sim_score=0.0631"
+        ]
+    },
+    "prompt0655": {
+        "user_prompt": "Jennifer Aniston's warm lights up her face, her eyes twinkling.",
+        "original_description": "Jennifer Aniston's warm lights up her face, her eyes twinkling.",
+        "merged_description": "Jennifer Aniston's warm lights up her face, her eyes twinkling.",
+        "refined_description": "Jennifer Aniston's warm smile lights up her face, her eyes twinkling with joy.",
+        "ranked_modifiers_used": [],
+        "modifiers_full_ranked_list": [
+            "a dark room with a bright light shining on her face, sim_score=0.5308",
+            "a dark room with a light shining on her face, sim_score=0.5049",
+            "standing in a room with a light shining on her face, sim_score=0.5047",
+            "holding her hands to her face, sim_score=0.3515",
+            "appears to be in a state of distress, sim_score=0.2199",
+            "wearing a black dress, sim_score=0.1844",
+            "appears to be scared, sim_score=0.1289",
+            "standing in a room, sim_score=0.1247",
+            "appears to be in pain, sim_score=0.0998",
+            "wearing a white shirt, sim_score=0.0597"
+        ]
+    }
+}
