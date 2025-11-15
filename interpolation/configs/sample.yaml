@@ -3,8 +3,9 @@ args:
   ckpt_path: "../pretrained_models/lavie_interpolation.pt"
   pretrained_path: "../pretrained_models"
   output_folder: "../res/interpolation/"
+  prompt_folder: "../selected_prompts"
   seed_list:
-    - 3418
+    - 999
 
   fps_list:
     - 24
@@ -19,7 +20,7 @@ args:
   frame_interval: 1
 
   # sample config:
-  seed: 0
+  seed: 999
   cfg_scale: 4.0
   run_time: 12
   use_compile: False

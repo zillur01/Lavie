@@ -82,7 +82,7 @@ def main(args):
 
 if __name__ == "__main__":
 	parser = argparse.ArgumentParser()
-	parser.add_argument("--config", type=str, default="")
+	parser.add_argument("--config", type=str, default="configs/sample.yaml", help="Path to the config file.")
 	args = parser.parse_args()
 
 	main(OmegaConf.load(args.config))

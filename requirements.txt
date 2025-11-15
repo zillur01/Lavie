@@ -18,3 +18,4 @@ natsort==8.4.0
 rotary_embedding_torch
 huggingface-hub==0.25.2
 av==13.1.0
+numpy==1.26.4
