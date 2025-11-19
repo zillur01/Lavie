@@ -19,3 +19,4 @@ rotary_embedding_torch
 huggingface-hub==0.25.2
 av==13.1.0
 numpy==1.26.4
+json-repair
